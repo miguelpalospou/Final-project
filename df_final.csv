@@ -1,0 +1,1437 @@
+,type,reference,price,neighbourhood,area,rooms,plant,lift,parking,district
+0,Flat,/en/inmueble/98491349/,2950000,La Dreta de l'Eixample,275,7,1.0,lift,no,Eixample
+1,Flat,/en/inmueble/99172111/,863000,La Dreta de l'Eixample,146,3,1.0,lift,no,Eixample
+3,Flat,/en/inmueble/98261311/,1925000,La Dreta de l'Eixample,168,2,1.0,lift,no,Eixample
+4,Flat,/en/inmueble/99079061/,1800000,La Dreta de l'Eixample,216,4,3.0,lift,no,Eixample
+5,Flat,/en/inmueble/98255536/,2800000,La Dreta de l'Eixample,248,4,1.0,lift,no,Eixample
+6,Flat,/en/inmueble/100517004/,1295000,La Dreta de l'Eixample,190,3,1.0,lift,no,Eixample
+7,Flat,/en/inmueble/100287105/,1595000,La Dreta de l'Eixample,185,4,3.0,lift,no,Eixample
+8,Flat,/en/inmueble/101368744/,795000,La Vila Olímpica del Poblenou,126,4,7.0,lift,yes,Sant Martí
+9,Flat,/en/inmueble/101043384/,1295000,La Dreta de l'Eixample,145,3,2.0,lift,no,Eixample
+10,Flat,/en/inmueble/98286608/,1550000,La Dreta de l'Eixample,228,5,2.0,lift,no,Eixample
+11,Flat,/en/inmueble/99418110/,1390000,La Dreta de l'Eixample,182,5,4.0,lift,no,Eixample
+12,Penthouse,/en/inmueble/90331765/,770000,El Gòtic,101,2,4.0,lift,no,Ciutat Vella
+13,Penthouse,/en/inmueble/100973290/,2500000,Diagonal Mar i el Front Marítim del Poblenou,145,2,21.0,lift,yes,Sant Martí
+14,Flat,/en/inmueble/101166351/,360000,El Poble Sec - Parc de Montjuïc,55,2,1.0,no lift,no,Sants-Montjuïc
+15,Flat,/en/inmueble/100973274/,1550000,La Dreta de l'Eixample,198,3,1.0,lift,no,Eixample
+16,Flat,/en/inmueble/100869262/,935000,El Gòtic,264,2,1.0,no lift,no,Ciutat Vella
+17,Flat,/en/inmueble/98888290/,816000,L'Antiga Esquerra de l'Eixample,149,2,3.0,lift,no,Eixample
+18,Flat,/en/inmueble/97362092/,1730000,Diagonal Mar i el Front Marítim del Poblenou,169,4,5.0,lift,yes,Sant Martí
+19,Flat,/en/inmueble/100243229/,1065000,Sant Pere - Santa Caterina i la Ribera,131,3,2.0,lift,no,Ciutat Vella
+20,Flat,/en/inmueble/98262669/,1105000,La Dreta de l'Eixample,71,1,3.0,lift,no,Eixample
+21,Flat,/en/inmueble/98256266/,2680000,La Dreta de l'Eixample,157,2,5.0,lift,no,Eixample
+22,Flat,/en/inmueble/100229641/,840000,El Gòtic,176,4,4.0,lift,no,Ciutat Vella
+23,Flat,/en/inmueble/98264311/,2750000,La Dreta de l'Eixample,219,4,2.0,lift,no,Eixample
+24,Penthouse,/en/inmueble/99427743/,890000,La Dreta de l'Eixample,90,2,7.0,lift,no,Eixample
+25,Flat,/en/inmueble/97593553/,1200000,L'Antiga Esquerra de l'Eixample,178,4,4.0,lift,no,Eixample
+26,Flat,/en/inmueble/98840562/,1100000,Sant Pere - Santa Caterina i la Ribera,125,2,1.0,no lift,no,Ciutat Vella
+28,Flat,/en/inmueble/100621063/,1990000,Diagonal Mar i el Front Marítim del Poblenou,180,3,18.0,lift,no,Sant Martí
+29,Flat,/en/inmueble/98574445/,1100000,La Dreta de l'Eixample,146,3,4.0,lift,yes,Eixample
+57,Flat,/en/inmueble/99837951/,1450000,El Gòtic,228,5,1.0,lift,no,Ciutat Vella
+62,Penthouse,/en/inmueble/101352720/,850000,Sant Pere - Santa Caterina i la Ribera,135,3,2.0,no lift,no,Ciutat Vella
+63,Penthouse,/en/inmueble/89745843/,2500000,Diagonal Mar i el Front Marítim del Poblenou,175,2,22.0,lift,yes,Sant Martí
+64,Flat,/en/inmueble/88318137/,1695000,Diagonal Mar i el Front Marítim del Poblenou,100,3,17.0,lift,no,Sant Martí
+65,Terraced,/en/inmueble/94608246/,1375000,El Putxet i el Farró,400,5,,no lift,yes,Sarrià-Sant Gervasi
+66,Flat,/en/inmueble/100167636/,1055000,La Dreta de l'Eixample,153,2,2.0,lift,yes,Eixample
+67,Penthouse,/en/inmueble/99840320/,1160000,La Nova Esquerra de l'Eixample,170,4,7.0,lift,yes,Eixample
+68,Flat,/en/inmueble/100018473/,975000,La Dreta de l'Eixample,109,1,3.0,lift,no,Eixample
+69,Flat,/en/inmueble/96816742/,1500000,La Dreta de l'Eixample,214,5,2.0,lift,no,Eixample
+70,Flat,/en/inmueble/100127430/,1350000,Diagonal Mar i el Front Marítim del Poblenou,140,3,21.0,lift,yes,Sant Martí
+71,Flat,/en/inmueble/99933765/,1200000,L'Antiga Esquerra de l'Eixample,104,3,2.0,lift,no,Eixample
+72,Flat,/en/inmueble/101205058/,1280000,Les Tres Torres,214,3,2.0,lift,yes,Sarrià-Sant Gervasi
+73,Flat,/en/inmueble/93660221/,1150000,La Dreta de l'Eixample,183,3,3.0,lift,no,Eixample
+74,Flat,/en/inmueble/100785780/,795000,La Vila Olímpica del Poblenou,126,4,7.0,lift,yes,Sant Martí
+75,Flat,/en/inmueble/99478321/,1390000,La Dreta de l'Eixample,192,4,3.0,lift,no,Eixample
+77,Flat,/en/inmueble/99484200/,920000,El Gòtic,126,2,1.0,lift,no,Ciutat Vella
+78,Flat,/en/inmueble/98958317/,1150000,Sant Gervasi - La Bonanova,217,5,3.0,lift,yes,Sarrià-Sant Gervasi
+79,Flat,/en/inmueble/99837952/,1690000,La Barceloneta,108,2,1.0,no lift,no,Ciutat Vella
+80,Flat,/en/inmueble/101368701/,1195000,La Dreta de l'Eixample,195,3,10.0,lift,no,Eixample
+81,Flat,/en/inmueble/101386687/,1450000,L'Antiga Esquerra de l'Eixample,161,3,1.0,lift,no,Eixample
+82,Flat,/en/inmueble/101038556/,720000,El Putxet i el Farró,128,2,0.0,lift,no,Sarrià-Sant Gervasi
+84,Penthouse,/en/inmueble/98840565/,895000,El Camp d'En Grassot i Gràcia Nova,85,3,9.0,lift,no,Gràcia
+85,Flat,/en/inmueble/100591039/,595000,El Raval,97,2,1.0,no lift,no,Ciutat Vella
+86,Flat,/en/inmueble/101557016/,1290000,La Dreta de l'Eixample,171,4,1.0,lift,yes,Eixample
+89,Flat,/en/inmueble/99278118/,939000,La Sagrada Família,133,2,2.0,no lift,no,Eixample
+90,Flat,/en/inmueble/101193853/,920000,La Dreta de l'Eixample,146,2,2.0,lift,no,Eixample
+91,Flat,/en/inmueble/101190574/,1590000,La Dreta de l'Eixample,185,3,4.0,lift,no,Eixample
+92,Flat,/en/inmueble/101117146/,785000,El Gòtic,130,3,1.0,lift,no,Ciutat Vella
+93,Flat,/en/inmueble/100221074/,1100000,Sant Pere - Santa Caterina i la Ribera,130,3,2.0,lift,no,Ciutat Vella
+94,Flat,/en/inmueble/100557508/,585000,La Nova Esquerra de l'Eixample,103,3,4.0,lift,no,Eixample
+95,Flat,/en/inmueble/100242836/,1490000,Sant Gervasi - La Bonanova,214,5,0.0,lift,yes,Sarrià-Sant Gervasi
+96,Flat,/en/inmueble/100296288/,1020000,La Dreta de l'Eixample,139,3,1.0,lift,no,Eixample
+97,Flat,/en/inmueble/100685550/,780000,La Dreta de l'Eixample,142,4,1.0,lift,no,Eixample
+98,Flat,/en/inmueble/98379518/,385000,El Raval,57,2,0.0,no lift,no,Ciutat Vella
+99,Flat,/en/inmueble/100182238/,795000,El Poblenou,129,2,0.0,no lift,yes,Sant Martí
+100,Duplex,/en/inmueble/101187488/,1600000,Sant Pere - Santa Caterina i la Ribera,340,4,14.0,lift,yes,Ciutat Vella
+101,Flat,/en/inmueble/101526767/,750000,L'Antiga Esquerra de l'Eixample,155,4,1.0,lift,no,Eixample
+102,Flat,/en/inmueble/99428620/,1350000,L'Antiga Esquerra de l'Eixample,221,4,2.0,lift,no,Eixample
+103,Flat,/en/inmueble/100770574/,940000,Sant Pere - Santa Caterina i la Ribera,129,1,1.0,lift,no,Ciutat Vella
+104,Penthouse,/en/inmueble/98824598/,1700000,L'Antiga Esquerra de l'Eixample,167,2,,no lift,no,Eixample
+105,Penthouse,/en/inmueble/101379714/,930000,Sant Gervasi - Galvany,200,3,8.0,lift,no,Sarrià-Sant Gervasi
+106,Flat,/en/inmueble/95953166/,1850000,Diagonal Mar i el Front Marítim del Poblenou,245,3,24.0,lift,yes,Sant Martí
+108,Flat,/en/inmueble/98261723/,1850000,La Dreta de l'Eixample,144,2,2.0,lift,no,Eixample
+109,Flat,/en/inmueble/100249882/,1695000,Diagonal Mar i el Front Marítim del Poblenou,143,3,17.0,lift,yes,Sant Martí
+110,Flat,/en/inmueble/83346623/,1390000,Diagonal Mar i el Front Marítim del Poblenou,176,4,10.0,lift,yes,Sant Martí
+111,Flat,/en/inmueble/99680200/,680000,La Dreta de l'Eixample,82,2,2.0,lift,no,Eixample
+112,Flat,/en/inmueble/92914729/,1400000,La Dreta de l'Eixample,300,7,4.0,lift,no,Eixample
+113,Flat,/en/inmueble/101339998/,1625000,Diagonal Mar i el Front Marítim del Poblenou,145,4,8.0,lift,yes,Sant Martí
+116,Penthouse,/en/inmueble/98931259/,3650000,,461,5,8.0,lift,no,
+117,Flat,/en/inmueble/101536418/,1175000,L'Antiga Esquerra de l'Eixample,103,3,4.0,lift,no,Eixample
+118,Flat,/en/inmueble/101532779/,797000,L'Antiga Esquerra de l'Eixample,156,3,2.0,lift,no,Eixample
+119,Duplex,/en/inmueble/101481699/,2188000,La Dreta de l'Eixample,254,2,0.0,lift,no,Eixample
+121,Flat,/en/inmueble/101391518/,1870000,Sant Gervasi - Galvany,170,4,4.0,lift,no,Sarrià-Sant Gervasi
+124,Flat,/en/inmueble/101231648/,675000,Diagonal Mar i el Front Marítim del Poblenou,108,2,1.0,lift,yes,Sant Martí
+125,House,/en/inmueble/96739805/,7450000,Sarrià,1800,10,,no lift,yes,Sarrià-Sant Gervasi
+126,Penthouse,/en/inmueble/92808556/,2500000,Diagonal Mar i el Front Marítim del Poblenou,153,3,22.0,lift,yes,Sant Martí
+128,Flat,/en/inmueble/100360823/,1600000,Sant Gervasi - Galvany,420,11,1.0,lift,yes,Sarrià-Sant Gervasi
+130,Flat,/en/inmueble/101523546/,1195000,Sant Pere - Santa Caterina i la Ribera,219,3,10.0,lift,no,Ciutat Vella
+132,Flat,/en/inmueble/101474007/,1390000,Diagonal Mar i el Front Marítim del Poblenou,176,3,30.0,lift,yes,Sant Martí
+133,Flat,/en/inmueble/98122282/,2500000,Sant Pere - Santa Caterina i la Ribera,293,2,,no lift,no,Ciutat Vella
+134,Terraced,/en/inmueble/100680712/,1550000,El Camp d'En Grassot i Gràcia Nova,341,4,,no lift,yes,Gràcia
+135,Flat,/en/inmueble/100259090/,1065000,Sant Pere - Santa Caterina i la Ribera,130,3,,no lift,no,Ciutat Vella
+137,Penthouse,/en/inmueble/101532817/,1100000,L'Antiga Esquerra de l'Eixample,81,2,8.0,lift,no,Eixample
+140,House,/en/inmueble/98830395/,3650000,Sant Gervasi - La Bonanova,815,7,,no lift,yes,Sarrià-Sant Gervasi
+141,Flat,/en/inmueble/98915318/,1150000,La Dreta de l'Eixample,161,4,1.0,lift,no,Eixample
+142,Penthouse,/en/inmueble/100287122/,1450000,El Gòtic,213,3,3.0,lift,no,Ciutat Vella
+143,Flat,/en/inmueble/100621064/,2500000,El Gòtic,282,5,8.0,lift,no,Ciutat Vella
+144,House,/en/inmueble/98150711/,2700000,Sarrià,232,4,,no lift,no,Sarrià-Sant Gervasi
+146,Penthouse,/en/inmueble/99597375/,2600000,La Dreta de l'Eixample,268,4,6.0,lift,no,Eixample
+147,Flat,/en/inmueble/101426328/,695000,Sant Pere - Santa Caterina i la Ribera,110,3,3.0,lift,no,Ciutat Vella
+148,Flat,/en/inmueble/101502386/,1580000,La Dreta de l'Eixample,200,5,5.0,lift,no,Eixample
+149,Flat,/en/inmueble/98834701/,780000,La Dreta de l'Eixample,143,4,1.0,lift,no,Eixample
+150,Flat,/en/inmueble/101475528/,1150000,La Dreta de l'Eixample,213,3,2.0,lift,no,Eixample
+151,Flat,/en/inmueble/101314236/,360000,El Raval,65,2,2.0,no lift,no,Ciutat Vella
+152,Flat,/en/inmueble/98042032/,895000,La Dreta de l'Eixample,183,4,3.0,lift,no,Eixample
+153,Flat,/en/inmueble/101466105/,1100000,Diagonal Mar i el Front Marítim del Poblenou,128,3,12.0,lift,yes,Sant Martí
+154,Flat,/en/inmueble/97969401/,1085000,El Gòtic,328,4,,no lift,no,Ciutat Vella
+155,Flat,/en/inmueble/99117414/,1550000,La Dreta de l'Eixample,114,3,,no lift,no,Eixample
+156,Duplex,/en/inmueble/100907579/,1800000,Sarrià,282,5,5.0,lift,no,Sarrià-Sant Gervasi
+158,Flat,/en/inmueble/101039030/,725000,El Putxet i el Farró,128,2,0.0,lift,no,Sarrià-Sant Gervasi
+160,Flat,/en/inmueble/97923122/,4950000,Sant Gervasi - Galvany,448,5,3.0,lift,no,Sarrià-Sant Gervasi
+161,Flat,/en/inmueble/98121882/,2500000,La Dreta de l'Eixample,202,5,,no lift,no,Eixample
+162,Flat,/en/inmueble/98121901/,1390000,La Dreta de l'Eixample,150,3,,no lift,no,Eixample
+163,Flat,/en/inmueble/97923236/,3700000,La Dreta de l'Eixample,274,4,,no lift,no,Eixample
+164,Flat,/en/inmueble/98895098/,895000,La Dreta de l'Eixample,70,2,2.0,lift,no,Eixample
+165,Flat,/en/inmueble/100278426/,319000,La Barceloneta,76,2,4.0,lift,no,Ciutat Vella
+166,Flat,/en/inmueble/98122253/,2950000,La Dreta de l'Eixample,225,3,3.0,lift,no,Eixample
+167,Flat,/en/inmueble/98895099/,1445000,La Dreta de l'Eixample,150,3,3.0,lift,no,Eixample
+168,Flat,/en/inmueble/100775745/,1500000,Diagonal Mar i el Front Marítim del Poblenou,200,4,8.0,lift,yes,Sant Martí
+169,Flat,/en/inmueble/96656592/,369000,L'Antiga Esquerra de l'Eixample,66,2,,no lift,no,Eixample
+170,Penthouse,/en/inmueble/98121897/,1600000,Sant Gervasi - Galvany,184,4,,no lift,no,Sarrià-Sant Gervasi
+171,House,/en/inmueble/96746075/,1250000,El Putxet i el Farró,487,6,,no lift,no,Sarrià-Sant Gervasi
+172,Flat,/en/inmueble/101512125/,430000,El Raval,80,1,3.0,lift,no,Ciutat Vella
+173,Penthouse,/en/inmueble/95595909/,1490000,El Putxet i el Farró,120,3,4.0,lift,no,Sarrià-Sant Gervasi
+174,Flat,/en/inmueble/93303890/,750000,La Dreta de l'Eixample,102,2,1.0,lift,no,Eixample
+175,Penthouse,/en/inmueble/90530814/,1900000,El Poblenou,134,2,14.0,lift,yes,Sant Martí
+176,Flat,/en/inmueble/100042626/,310000,Sants,73,2,2.0,lift,no,Sants-Montjuïc
+177,House,/en/inmueble/101527659/,3100000,Vallvidrera - El Tibidabo i les Planes,648,10,,no lift,yes,Sarrià-Sant Gervasi
+178,Flat,/en/inmueble/101373954/,260000,Sants,76,3,5.0,lift,no,Sants-Montjuïc
+179,Flat,/en/inmueble/101441229/,270000,La Salut,61,3,5.0,lift,no,Gràcia
+180,House,/en/inmueble/100411761/,3700000,Sant Gervasi - La Bonanova,554,4,,no lift,yes,Sarrià-Sant Gervasi
+181,Flat,/en/inmueble/99633651/,325000,El Raval,73,3,6.0,lift,no,Ciutat Vella
+182,Flat,/en/inmueble/90125994/,1320000,Diagonal Mar i el Front Marítim del Poblenou,152,3,4.0,lift,yes,Sant Martí
+183,Flat,/en/inmueble/97901653/,530000,Sant Antoni,82,2,6.0,lift,no,Eixample
+184,Flat,/en/inmueble/97947953/,550000,La Vila Olímpica del Poblenou,100,1,3.0,lift,yes,Sant Martí
+185,Flat,/en/inmueble/100548581/,750000,Sant Gervasi - Galvany,130,3,1.0,lift,yes,Sarrià-Sant Gervasi
+186,Flat,/en/inmueble/100924557/,2500000,La Dreta de l'Eixample,258,5,1.0,lift,yes,Eixample
+187,Penthouse,/en/inmueble/101146263/,1216000,L'Antiga Esquerra de l'Eixample,157,2,5.0,lift,no,Eixample
+188,Flat,/en/inmueble/101007100/,690000,La Dreta de l'Eixample,85,2,1.0,lift,no,Eixample
+189,Flat,/en/inmueble/100507504/,740000,Vila de Gràcia,97,2,1.0,lift,no,Gràcia
+191,Penthouse,/en/inmueble/100095920/,549000,El Gòtic,95,2,5.0,lift,no,Ciutat Vella
+192,Flat,/en/inmueble/85887505/,1650000,La Dreta de l'Eixample,166,3,5.0,lift,no,Eixample
+193,Flat,/en/inmueble/97607493/,1250000,La Vila Olímpica del Poblenou,150,5,5.0,lift,no,Sant Martí
+194,Flat,/en/inmueble/99577240/,1350000,La Dreta de l'Eixample,180,3,3.0,no lift,no,Eixample
+195,Flat,/en/inmueble/100824251/,469000,Sant Pere - Santa Caterina i la Ribera,94,3,3.0,lift,no,Ciutat Vella
+196,Flat,/en/inmueble/96728348/,650000,L'Antiga Esquerra de l'Eixample,131,4,7.0,lift,no,Eixample
+197,Flat,/en/inmueble/101127926/,895000,El Gòtic,161,3,1.0,lift,no,Ciutat Vella
+198,Flat,/en/inmueble/89241082/,585000,Sant Antoni,124,3,1.0,lift,no,Eixample
+199,Flat,/en/inmueble/100084266/,1475000,Les Tres Torres,291,7,1.0,lift,yes,Sarrià-Sant Gervasi
+200,Terraced,/en/inmueble/100814916/,550000,,145,4,,no lift,no,
+201,Flat,/en/inmueble/98930358/,780000,La Dreta de l'Eixample,143,4,1.0,lift,no,Eixample
+202,Flat,/en/inmueble/100973252/,1490000,El Gòtic,301,5,2.0,no lift,no,Ciutat Vella
+203,Flat,/en/inmueble/99259415/,650000,Sant Antoni,117,3,4.0,lift,no,Eixample
+204,Flat,/en/inmueble/100593458/,412000,Sant Antoni,69,2,2.0,lift,no,Eixample
+205,Duplex,/en/inmueble/85492314/,2150000,Pedralbes,328,5,0.0,lift,yes,Les Corts
+206,Penthouse,/en/inmueble/99742737/,3650000,Sant Gervasi - Galvany,360,5,8.0,lift,no,Sarrià-Sant Gervasi
+207,Flat,/en/inmueble/100959384/,575000,La Dreta de l'Eixample,113,2,2.0,lift,no,Eixample
+208,Flat,/en/inmueble/98935958/,1850000,L'Antiga Esquerra de l'Eixample,173,3,6.0,lift,no,Eixample
+209,Flat,/en/inmueble/100986628/,580000,,114,3,0.0,lift,no,
+210,Semi-detached,/en/inmueble/100965881/,835000,Provençals del Poblenou,207,4,,no lift,no,Sant Martí
+211,Flat,/en/inmueble/100013606/,1049000,La Dreta de l'Eixample,180,3,2.0,lift,no,Eixample
+212,Flat,/en/inmueble/98768114/,1295000,La Dreta de l'Eixample,180,3,1.0,lift,no,Eixample
+213,House,/en/inmueble/100903875/,1650000,Sant Gervasi - Galvany,398,6,,no lift,yes,Sarrià-Sant Gervasi
+214,Penthouse,/en/inmueble/100101272/,525000,El Gòtic,87,2,5.0,lift,no,Ciutat Vella
+215,Flat,/en/inmueble/100105633/,512000,El Fort Pienc,89,3,1.0,lift,no,Eixample
+216,Flat,/en/inmueble/100376318/,180000,El Raval,50,1,2.0,no lift,no,Ciutat Vella
+217,Flat,/en/inmueble/99442190/,650000,L'Antiga Esquerra de l'Eixample,114,3,5.0,lift,no,Eixample
+220,House,/en/inmueble/101459808/,2300000,Vallvidrera - El Tibidabo i les Planes,240,3,,no lift,yes,Sarrià-Sant Gervasi
+221,House,/en/inmueble/83698852/,2650000,Vallvidrera - El Tibidabo i les Planes,807,6,,no lift,yes,Sarrià-Sant Gervasi
+222,Flat,/en/inmueble/99415206/,1275000,Sant Gervasi - La Bonanova,240,5,1.0,lift,no,Sarrià-Sant Gervasi
+223,Flat,/en/inmueble/101049799/,1950000,La Dreta de l'Eixample,190,5,4.0,lift,no,Eixample
+224,Flat,/en/inmueble/92582084/,615000,Vila de Gràcia,104,1,6.0,lift,no,Gràcia
+227,Flat,/en/inmueble/100931537/,495000,El Gòtic,102,2,2.0,lift,no,Ciutat Vella
+228,Flat,/en/inmueble/101388141/,990000,La Dreta de l'Eixample,183,5,4.0,lift,no,Eixample
+229,Flat,/en/inmueble/101452877/,240000,Provençals del Poblenou,72,3,8.0,lift,no,Sant Martí
+230,Flat,/en/inmueble/101497161/,1350000,El Raval,284,4,,no lift,no,Ciutat Vella
+231,Flat,/en/inmueble/100918115/,375000,La Vila Olímpica del Poblenou,73,3,5.0,lift,no,Sant Martí
+232,Flat,/en/inmueble/100325151/,950000,L'Antiga Esquerra de l'Eixample,157,3,1.0,lift,no,Eixample
+233,Flat,/en/inmueble/95689164/,829000,Sant Pere - Santa Caterina i la Ribera,116,3,,no lift,no,Ciutat Vella
+234,Flat,/en/inmueble/101579680/,1300000,Sant Gervasi - Galvany,264,5,2.0,lift,no,Sarrià-Sant Gervasi
+235,Flat,/en/inmueble/99704117/,680000,La Dreta de l'Eixample,68,2,2.0,lift,no,Eixample
+236,Penthouse,/en/inmueble/87617021/,1380000,Sant Pere - Santa Caterina i la Ribera,150,3,2.0,lift,no,Ciutat Vella
+237,Penthouse,/en/inmueble/100973297/,1900000,El Poblenou,134,2,14.0,lift,yes,Sant Martí
+238,Flat,/en/inmueble/101026051/,695000,La Dreta de l'Eixample,114,3,1.0,lift,no,Eixample
+239,House,/en/inmueble/101497049/,3300000,Sarrià,613,6,,no lift,yes,Sarrià-Sant Gervasi
+240,Flat,/en/inmueble/101342153/,595000,L'Antiga Esquerra de l'Eixample,120,3,1.0,lift,no,Eixample
+241,Penthouse,/en/inmueble/101184325/,690000,El Poblenou,94,2,7.0,lift,no,Sant Martí
+242,Flat,/en/inmueble/101610083/,305000,La Nova Esquerra de l'Eixample,95,3,1.0,lift,no,Eixample
+243,Flat,/en/inmueble/99551270/,625000,El Poblenou,180,4,0.0,no lift,no,Sant Martí
+244,Flat,/en/inmueble/99343313/,735000,La Vila Olímpica del Poblenou,139,4,1.0,lift,yes,Sant Martí
+245,Penthouse,/en/inmueble/97274619/,1900000,El Poblenou,163,2,10.0,lift,yes,Sant Martí
+246,Flat,/en/inmueble/100376451/,1499000,La Dreta de l'Eixample,112,3,4.0,lift,no,Eixample
+247,Flat,/en/inmueble/101522946/,795000,Sant Pere - Santa Caterina i la Ribera,103,2,1.0,lift,no,Ciutat Vella
+248,Flat,/en/inmueble/101583962/,320000,El Gòtic,79,2,2.0,no lift,no,Ciutat Vella
+249,Flat,/en/inmueble/101532814/,1350000,La Dreta de l'Eixample,206,5,1.0,no lift,yes,Eixample
+250,Penthouse,/en/inmueble/100376139/,525000,El Gòtic,95,2,5.0,lift,no,Ciutat Vella
+251,Flat,/en/inmueble/101275974/,690000,El Gòtic,135,3,1.0,lift,no,Ciutat Vella
+252,Flat,/en/inmueble/96947654/,698000,El Gòtic,138,3,1.0,lift,no,Ciutat Vella
+253,Penthouse,/en/inmueble/101479931/,485000,El Guinardó,109,3,3.0,lift,no,Horta-Guinardó
+254,Penthouse,/en/inmueble/89005247/,3800000,Pedralbes,350,4,5.0,lift,yes,Les Corts
+255,Penthouse,/en/inmueble/101289047/,1125000,La Dreta de l'Eixample,127,2,4.0,lift,no,Eixample
+256,Flat,/en/inmueble/99672694/,1595000,Pedralbes,252,4,6.0,lift,yes,Les Corts
+257,House,/en/inmueble/100079178/,4500000,Sant Gervasi - La Bonanova,773,11,,no lift,yes,Sarrià-Sant Gervasi
+258,Flat,/en/inmueble/93452708/,1300000,Diagonal Mar i el Front Marítim del Poblenou,125,3,16.0,lift,yes,Sant Martí
+259,Flat,/en/inmueble/100918206/,560000,El Gòtic,88,3,4.0,lift,yes,Ciutat Vella
+260,Flat,/en/inmueble/95746633/,1500000,Diagonal Mar i el Front Marítim del Poblenou,133,1,13.0,lift,yes,Sant Martí
+261,Flat,/en/inmueble/99828638/,720000,Pedralbes,105,2,3.0,lift,no,Les Corts
+262,Flat,/en/inmueble/100915928/,4200000,Sant Gervasi - Galvany,583,3,8.0,lift,yes,Sarrià-Sant Gervasi
+263,Penthouse,/en/inmueble/101278904/,715000,Sant Antoni,100,2,8.0,lift,no,Eixample
+264,Flat,/en/inmueble/101495961/,375000,Vilapicina i la Torre Llobeta,88,4,0.0,lift,no,Nou Barris
+265,Flat,/en/inmueble/99842950/,220000,Provençals del Poblenou,68,2,1.0,no lift,no,Sant Martí
+266,Flat,/en/inmueble/94114943/,1150000,La Dreta de l'Eixample,98,2,1.0,lift,no,Eixample
+267,Flat,/en/inmueble/86943407/,749000,El Gòtic,113,2,1.0,lift,no,Ciutat Vella
+268,Flat,/en/inmueble/101514651/,795000,Sant Pere - Santa Caterina i la Ribera,103,2,1.0,lift,no,Ciutat Vella
+269,Flat,/en/inmueble/100424830/,395000,La Salut,115,3,1.0,lift,no,Gràcia
+270,Flat,/en/inmueble/99683814/,1690000,Diagonal Mar i el Front Marítim del Poblenou,200,4,11.0,lift,yes,Sant Martí
+272,Semi-detached,/en/inmueble/101216789/,2200000,Sarrià,272,5,,no lift,yes,Sarrià-Sant Gervasi
+273,Flat,/en/inmueble/100038348/,797000,L'Antiga Esquerra de l'Eixample,146,3,1.0,lift,no,Eixample
+274,Flat,/en/inmueble/97870583/,520000,El Gòtic,89,2,3.0,lift,no,Ciutat Vella
+275,Penthouse,/en/inmueble/97122214/,380000,El Raval,116,1,6.0,no lift,no,Ciutat Vella
+276,Flat,/en/inmueble/101306493/,650000,L'Antiga Esquerra de l'Eixample,145,4,1.0,lift,no,Eixample
+279,Penthouse,/en/inmueble/98120527/,770000,El Gòtic,140,3,4.0,lift,no,Ciutat Vella
+281,Penthouse,/en/inmueble/101025276/,2500000,Sant Pere - Santa Caterina i la Ribera,300,2,4.0,lift,no,Ciutat Vella
+282,Flat,/en/inmueble/101292700/,750000,La Maternitat i Sant Ramon,125,3,5.0,lift,yes,Les Corts
+283,Flat,/en/inmueble/100625685/,400000,L'Antiga Esquerra de l'Eixample,78,2,3.0,lift,no,Eixample
+284,Penthouse,/en/inmueble/100941742/,1600000,La Dreta de l'Eixample,340,4,18.0,lift,yes,Eixample
+285,Flat,/en/inmueble/101494302/,396000,Vilapicina i la Torre Llobeta,120,4,0.0,lift,no,Nou Barris
+286,Flat,/en/inmueble/99958182/,899000,L'Antiga Esquerra de l'Eixample,145,3,1.0,lift,no,Eixample
+287,Flat,/en/inmueble/101252996/,265000,Sant Pere - Santa Caterina i la Ribera,83,2,2.0,no lift,no,Ciutat Vella
+288,Flat,/en/inmueble/98107038/,339000,El Poblenou,68,3,1.0,lift,no,Sant Martí
+289,Flat,/en/inmueble/100324055/,340000,El Poblenou,70,3,1.0,lift,no,Sant Martí
+290,Flat,/en/inmueble/101092386/,445000,El Gòtic,92,2,1.0,no lift,no,Ciutat Vella
+291,Flat,/en/inmueble/101094864/,320000,El Gòtic,77,4,1.0,no lift,no,Ciutat Vella
+292,Flat,/en/inmueble/101096057/,450000,El Gòtic,125,4,2.0,no lift,no,Ciutat Vella
+293,Penthouse,/en/inmueble/101092999/,670000,El Gòtic,95,2,3.0,lift,no,Ciutat Vella
+294,Flat,/en/inmueble/101403404/,1210000,La Dreta de l'Eixample,147,2,1.0,lift,no,Eixample
+295,Penthouse,/en/inmueble/101094291/,1240000,El Gòtic,232,6,3.0,lift,no,Ciutat Vella
+296,Flat,/en/inmueble/100967054/,196000,La Barceloneta,37,2,5.0,no lift,no,Ciutat Vella
+297,Flat,/en/inmueble/100210322/,325000,El Besòs,80,2,6.0,lift,no,Sant Andreu
+298,Penthouse,/en/inmueble/101093216/,770000,El Gòtic,113,3,3.0,lift,no,Ciutat Vella
+299,Flat,/en/inmueble/101369019/,460000,Hostafrancs,130,4,0.0,lift,no,Sants-Montjuïc
+300,Penthouse,/en/inmueble/101438490/,645000,Sant Pere - Santa Caterina i la Ribera,68,2,5.0,lift,no,Ciutat Vella
+301,Duplex,/en/inmueble/97513641/,279000,El Besòs,100,4,0.0,no lift,no,Sant Andreu
+302,Flat,/en/inmueble/101479078/,629000,L'Antiga Esquerra de l'Eixample,129,5,2.0,lift,no,Eixample
+303,House,/en/inmueble/99308037/,1370000,El Guinardó,556,6,,no lift,yes,Horta-Guinardó
+304,Penthouse,/en/inmueble/101511693/,725000,El Camp d'En Grassot i Gràcia Nova,99,3,9.0,lift,no,Gràcia
+305,Flat,/en/inmueble/100239325/,210000,El Camp d'En Grassot i Gràcia Nova,54,1,7.0,lift,no,Gràcia
+307,Flat,/en/inmueble/83891234/,795000,La Dreta de l'Eixample,110,2,3.0,lift,no,Eixample
+308,Flat,/en/inmueble/101155050/,1790000,La Dreta de l'Eixample,180,3,10.0,lift,no,Eixample
+309,Flat,/en/inmueble/100722921/,825000,La Dreta de l'Eixample,155,5,5.0,lift,no,Eixample
+310,Flat,/en/inmueble/99408664/,990000,Sant Gervasi - Galvany,211,5,2.0,lift,no,Sarrià-Sant Gervasi
+311,Flat,/en/inmueble/101294886/,850000,Sant Gervasi - Galvany,125,3,,no lift,yes,Sarrià-Sant Gervasi
+312,Flat,/en/inmueble/99583042/,760000,La Dreta de l'Eixample,105,2,4.0,lift,no,Eixample
+313,Flat,/en/inmueble/101034849/,220000,Porta,86,3,2.0,no lift,no,Nou Barris
+314,House,/en/inmueble/99950681/,1024900,La Font d'En Fargues,406,4,,no lift,yes,Horta-Guinardó
+315,Flat,/en/inmueble/100634037/,1150000,La Dreta de l'Eixample,217,3,3.0,lift,no,Eixample
+316,Flat,/en/inmueble/100634009/,1300000,Diagonal Mar i el Front Marítim del Poblenou,125,3,16.0,lift,yes,Sant Martí
+317,Flat,/en/inmueble/97264440/,960000,El Gòtic,166,3,3.0,lift,no,Ciutat Vella
+319,Flat,/en/inmueble/98486534/,860000,Sant Pere - Santa Caterina i la Ribera,110,2,6.0,lift,no,Ciutat Vella
+320,Flat,/en/inmueble/101095366/,205000,El Poble Sec - Parc de Montjuïc,64,1,0.0,no lift,no,Sants-Montjuïc
+321,Penthouse,/en/inmueble/99489452/,1850000,L'Antiga Esquerra de l'Eixample,167,2,5.0,lift,no,Eixample
+322,Flat,/en/inmueble/99513441/,960000,La Dreta de l'Eixample,182,4,1.0,lift,yes,Eixample
+325,Flat,/en/inmueble/101483168/,1980000,El Parc i la Llacuna del Poblenou,433,18,5.0,lift,no,Sant Martí
+326,Flat,/en/inmueble/100827664/,185000,La Barceloneta,38,1,4.0,no lift,no,Ciutat Vella
+327,Flat,/en/inmueble/101483409/,359000,El Parc i la Llacuna del Poblenou,74,3,4.0,lift,no,Sant Martí
+328,Flat,/en/inmueble/100720446/,995000,El Gòtic,156,3,1.0,lift,no,Ciutat Vella
+330,Flat,/en/inmueble/101484308/,700000,L'Antiga Esquerra de l'Eixample,183,4,2.0,lift,no,Eixample
+331,Flat,/en/inmueble/101146767/,498000,La Salut,76,2,3.0,lift,no,Gràcia
+332,Flat,/en/inmueble/100136427/,175000,La Barceloneta,40,1,1.0,no lift,no,Ciutat Vella
+333,Flat,/en/inmueble/99263575/,1500000,Diagonal Mar i el Front Marítim del Poblenou,133,1,13.0,lift,yes,Sant Martí
+334,Flat,/en/inmueble/94326895/,900000,El Besòs,160,4,8.0,lift,yes,Sant Andreu
+336,Flat,/en/inmueble/98885523/,1500000,Diagonal Mar i el Front Marítim del Poblenou,200,3,21.0,lift,yes,Sant Martí
+338,Flat,/en/inmueble/101092480/,400000,El Gòtic,88,2,1.0,no lift,no,Ciutat Vella
+339,Flat,/en/inmueble/101277433/,1850000,La Dreta de l'Eixample,175,3,24.0,lift,no,Eixample
+340,House,/en/inmueble/100492457/,2600000,Pedralbes,498,6,,no lift,yes,Les Corts
+341,Penthouse,/en/inmueble/101183828/,245000,El Gòtic,52,1,4.0,no lift,no,Ciutat Vella
+342,Penthouse,/en/inmueble/101570363/,1300000,El Camp d'En Grassot i Gràcia Nova,250,3,1.0,lift,no,Gràcia
+343,Flat,/en/inmueble/101548561/,1550000,La Dreta de l'Eixample,220,5,2.0,lift,no,Eixample
+344,Flat,/en/inmueble/100634041/,850000,El Baix Guinardó,190,3,9.0,lift,no,Horta-Guinardó
+345,Penthouse,/en/inmueble/100967597/,1980000,Sant Gervasi - Galvany,330,4,7.0,lift,yes,Sarrià-Sant Gervasi
+346,House,/en/inmueble/100981897/,625000,El Poble Sec - Parc de Montjuïc,102,2,,no lift,no,Sants-Montjuïc
+347,Flat,/en/inmueble/101171908/,1750000,La Dreta de l'Eixample,223,4,5.0,lift,no,Eixample
+348,Penthouse,/en/inmueble/101324134/,650000,Sarrià,110,2,6.0,lift,yes,Sarrià-Sant Gervasi
+349,Flat,/en/inmueble/84150375/,1900000,El Poblenou,137,2,14.0,lift,yes,Sant Martí
+350,Flat,/en/inmueble/100744288/,435000,Sant Pere - Santa Caterina i la Ribera,83,2,3.0,lift,no,Ciutat Vella
+351,Flat,/en/inmueble/100298087/,1065000,Sant Pere - Santa Caterina i la Ribera,152,3,2.0,lift,no,Ciutat Vella
+352,Flat,/en/inmueble/101118544/,365000,Sant Martí de Provençals,110,4,7.0,lift,yes,Sant Martí
+353,Penthouse,/en/inmueble/100007248/,549000,El Gòtic,65,2,5.0,lift,no,Ciutat Vella
+354,Flat,/en/inmueble/101240368/,265000,Vila de Gràcia,70,3,1.0,lift,no,Gràcia
+355,Flat,/en/inmueble/100418167/,550000,Sant Pere - Santa Caterina i la Ribera,89,2,2.0,lift,no,Ciutat Vella
+356,Duplex,/en/inmueble/101168119/,1990000,Les Tres Torres,229,4,6.0,lift,yes,Sarrià-Sant Gervasi
+357,Flat,/en/inmueble/100378173/,359000,Hostafrancs,67,2,1.0,lift,no,Sants-Montjuïc
+358,Flat,/en/inmueble/100869163/,410000,Vila de Gràcia,83,2,2.0,lift,yes,Gràcia
+359,Flat,/en/inmueble/101220437/,925000,La Dreta de l'Eixample,108,3,4.0,lift,no,Eixample
+360,Flat,/en/inmueble/100434275/,340000,Sant Pere - Santa Caterina i la Ribera,84,3,1.0,lift,no,Ciutat Vella
+361,Flat,/en/inmueble/99477876/,790000,Sant Gervasi - Galvany,121,3,4.0,lift,no,Sarrià-Sant Gervasi
+362,Flat,/en/inmueble/101264595/,746000,Vila de Gràcia,125,4,3.0,lift,no,Gràcia
+363,Penthouse,/en/inmueble/100425238/,495000,La Nova Esquerra de l'Eixample,62,2,6.0,lift,no,Eixample
+364,Flat,/en/inmueble/100925703/,775000,Pedralbes,170,5,1.0,no lift,no,Les Corts
+365,Flat,/en/inmueble/101130770/,1950000,Diagonal Mar i el Front Marítim del Poblenou,169,4,13.0,lift,yes,Sant Martí
+366,Flat,/en/inmueble/101623403/,599000,El Poble Sec - Parc de Montjuïc,130,5,1.0,lift,no,Sants-Montjuïc
+367,Flat,/en/inmueble/98142322/,1050000,Sant Gervasi - Galvany,202,6,5.0,lift,no,Sarrià-Sant Gervasi
+368,Flat,/en/inmueble/100866113/,795000,Sarrià,154,5,7.0,lift,no,Sarrià-Sant Gervasi
+369,Penthouse,/en/inmueble/100228158/,815000,L'Antiga Esquerra de l'Eixample,182,3,8.0,lift,no,Eixample
+370,Penthouse,/en/inmueble/101042333/,430000,El Guinardó,100,4,4.0,no lift,no,Horta-Guinardó
+371,Flat,/en/inmueble/96311583/,895000,Pedralbes,127,3,2.0,lift,yes,Les Corts
+372,Flat,/en/inmueble/101351669/,850000,L'Antiga Esquerra de l'Eixample,157,4,4.0,lift,no,Eixample
+373,Flat,/en/inmueble/91213764/,490000,,69,2,1.0,lift,no,
+374,Flat,/en/inmueble/96436324/,550000,Sant Gervasi - Galvany,110,3,4.0,lift,no,Sarrià-Sant Gervasi
+375,Flat,/en/inmueble/100360735/,1150000,Pedralbes,140,4,6.0,lift,yes,Les Corts
+376,Flat,/en/inmueble/97710982/,1950000,Pedralbes,377,4,3.0,lift,yes,Les Corts
+377,Flat,/en/inmueble/100749349/,285000,La Verneda i la Pau,82,3,10.0,lift,no,Sant Martí
+378,Flat,/en/inmueble/101017836/,515000,La Sagrera,116,3,4.0,lift,yes,Sant Andreu
+379,Terraced,/en/inmueble/87376023/,1375000,El Putxet i el Farró,400,5,,no lift,yes,Sarrià-Sant Gervasi
+380,Flat,/en/inmueble/97554832/,299000,Navas,97,3,7.0,lift,no,Sant Andreu
+381,Flat,/en/inmueble/101365541/,1290000,Vila de Gràcia,256,4,1.0,lift,no,Gràcia
+382,Flat,/en/inmueble/96709995/,405000,El Guinardó,93,3,2.0,lift,no,Horta-Guinardó
+383,Duplex,/en/inmueble/100686482/,749700,Vila de Gràcia,147,3,0.0,lift,no,Gràcia
+384,Flat,/en/inmueble/100322280/,550000,Sant Pere - Santa Caterina i la Ribera,86,2,3.0,lift,no,Ciutat Vella
+385,Penthouse,/en/inmueble/95593661/,1490000,El Putxet i el Farró,131,3,4.0,lift,no,Sarrià-Sant Gervasi
+386,Flat,/en/inmueble/98141793/,1098000,La Dreta de l'Eixample,210,5,4.0,lift,no,Eixample
+387,Flat,/en/inmueble/100019825/,500000,La Dreta de l'Eixample,97,4,2.0,lift,no,Eixample
+388,House,/en/inmueble/97833563/,1390000,Vallcarca i els Penitents,335,5,,no lift,yes,Gràcia
+389,Flat,/en/inmueble/100655176/,849000,Sant Pere - Santa Caterina i la Ribera,160,3,2.0,lift,no,Ciutat Vella
+391,Flat,/en/inmueble/101256731/,985000,Sant Gervasi - La Bonanova,184,3,3.0,lift,yes,Sarrià-Sant Gervasi
+392,Flat,/en/inmueble/100214744/,1490000,Sant Gervasi - La Bonanova,212,5,1.0,lift,yes,Sarrià-Sant Gervasi
+394,Penthouse,/en/inmueble/100684516/,1675000,Sant Gervasi - Galvany,300,4,8.0,lift,yes,Sarrià-Sant Gervasi
+395,Flat,/en/inmueble/101077532/,820000,El Camp d'En Grassot i Gràcia Nova,127,2,4.0,lift,no,Gràcia
+398,Flat,/en/inmueble/98746997/,780000,Sant Gervasi - Galvany,118,3,2.0,lift,no,Sarrià-Sant Gervasi
+399,Terraced,/en/inmueble/100397421/,4950000,Pedralbes,723,6,,no lift,yes,Les Corts
+400,Flat,/en/inmueble/94216876/,1500000,Vila de Gràcia,210,5,3.0,no lift,no,Gràcia
+401,Flat,/en/inmueble/101112718/,450000,Sant Antoni,89,3,5.0,lift,no,Eixample
+402,Flat,/en/inmueble/100718673/,850000,Les Tres Torres,185,5,0.0,lift,yes,Sarrià-Sant Gervasi
+403,Flat,/en/inmueble/101453349/,499000,Vila de Gràcia,120,4,0.0,lift,no,Gràcia
+404,Flat,/en/inmueble/101348429/,950000,L'Antiga Esquerra de l'Eixample,163,3,,no lift,no,Eixample
+405,Flat,/en/inmueble/98677902/,995000,Sant Gervasi - Galvany,191,4,2.0,lift,yes,Sarrià-Sant Gervasi
+406,Penthouse,/en/inmueble/98677870/,1800000,Sarrià,293,5,5.0,lift,yes,Sarrià-Sant Gervasi
+407,Penthouse,/en/inmueble/99584560/,1340000,El Putxet i el Farró,330,8,6.0,lift,yes,Sarrià-Sant Gervasi
+408,Penthouse,/en/inmueble/100597446/,765000,Sants,125,2,,no lift,no,Sants-Montjuïc
+410,Terraced,/en/inmueble/97352518/,849000,La Barceloneta,155,3,,no lift,no,Ciutat Vella
+411,Duplex,/en/inmueble/99501524/,689000,Sant Antoni,130,2,1.0,lift,no,Eixample
+412,Flat,/en/inmueble/96745353/,1200000,L'Antiga Esquerra de l'Eixample,178,4,,no lift,no,Eixample
+413,Penthouse,/en/inmueble/101017402/,990000,La Dreta de l'Eixample,126,2,,no lift,no,Eixample
+414,Flat,/en/inmueble/101263836/,895000,Sant Pere - Santa Caterina i la Ribera,159,3,,no lift,no,Ciutat Vella
+415,Flat,/en/inmueble/100486038/,1280000,Les Tres Torres,189,3,2.0,lift,yes,Sarrià-Sant Gervasi
+416,Flat,/en/inmueble/99671989/,523000,El Gòtic,105,2,,no lift,no,Ciutat Vella
+417,Flat,/en/inmueble/100180186/,850000,La Dreta de l'Eixample,100,2,3.0,lift,no,Eixample
+418,Flat,/en/inmueble/100725849/,224000,El Poble Sec - Parc de Montjuïc,70,3,2.0,no lift,no,Sants-Montjuïc
+419,Flat,/en/inmueble/101398822/,275000,La Salut,61,2,2.0,lift,no,Gràcia
+421,Flat,/en/inmueble/100190468/,1290000,Pedralbes,160,4,2.0,lift,yes,Les Corts
+423,Duplex,/en/inmueble/99463824/,265525,El Guinardó,95,1,0.0,lift,no,Horta-Guinardó
+424,Flat,/en/inmueble/99897881/,1020000,La Dreta de l'Eixample,139,3,1.0,lift,no,Eixample
+425,House,/en/inmueble/98598127/,1450000,Vila de Gràcia,408,5,,no lift,yes,Gràcia
+426,Flat,/en/inmueble/101130576/,595000,Sant Gervasi - Galvany,119,4,2.0,lift,no,Sarrià-Sant Gervasi
+427,Flat,/en/inmueble/101048045/,595000,L'Antiga Esquerra de l'Eixample,121,3,1.0,lift,no,Eixample
+428,Penthouse,/en/inmueble/100786685/,725000,L'Antiga Esquerra de l'Eixample,131,3,6.0,lift,no,Eixample
+429,Flat,/en/inmueble/100356313/,1280000,Les Tres Torres,170,3,2.0,lift,yes,Sarrià-Sant Gervasi
+430,Flat,/en/inmueble/99863229/,1055000,La Dreta de l'Eixample,153,2,2.0,lift,yes,Eixample
+431,Flat,/en/inmueble/99303429/,1480000,Pedralbes,250,5,3.0,lift,yes,Les Corts
+432,Flat,/en/inmueble/100072399/,2500000,La Dreta de l'Eixample,303,5,1.0,no lift,yes,Eixample
+433,Flat,/en/inmueble/100183962/,550000,Sant Gervasi - Galvany,124,3,3.0,lift,no,Sarrià-Sant Gervasi
+434,Flat,/en/inmueble/101172017/,465000,Vila de Gràcia,80,4,3.0,lift,no,Gràcia
+435,Flat,/en/inmueble/99549700/,725000,Sant Gervasi - Galvany,113,3,3.0,lift,no,Sarrià-Sant Gervasi
+436,Flat,/en/inmueble/98406494/,259000,Horta,52,2,0.0,lift,no,Horta-Guinardó
+437,House,/en/inmueble/100553811/,1290000,El Coll,288,4,,no lift,yes,Gràcia
+438,Duplex,/en/inmueble/98098077/,1095000,,240,5,2.0,lift,yes,
+439,Penthouse,/en/inmueble/99978865/,1490000,El Putxet i el Farró,105,3,4.0,lift,yes,Sarrià-Sant Gervasi
+440,Flat,/en/inmueble/100732351/,3200000,La Dreta de l'Eixample,228,4,3.0,lift,no,Eixample
+441,Flat,/en/inmueble/99770559/,995000,La Dreta de l'Eixample,150,3,5.0,lift,no,Eixample
+442,Flat,/en/inmueble/101167852/,847000,Sant Gervasi - Galvany,162,4,3.0,lift,no,Sarrià-Sant Gervasi
+444,Flat,/en/inmueble/98378398/,450000,El Gòtic,90,2,2.0,lift,no,Ciutat Vella
+446,Flat,/en/inmueble/98668034/,825000,Sant Antoni,195,6,1.0,lift,no,Eixample
+447,Terraced,/en/inmueble/100247483/,1020000,La Vila Olímpica del Poblenou,178,4,,no lift,yes,Sant Martí
+448,Flat,/en/inmueble/99444860/,319000,Sant Pere - Santa Caterina i la Ribera,50,1,2.0,lift,no,Ciutat Vella
+449,Penthouse,/en/inmueble/100570135/,1675000,Sant Gervasi - Galvany,253,6,8.0,lift,yes,Sarrià-Sant Gervasi
+450,Flat,/en/inmueble/96963263/,184000,Horta,50,2,2.0,no lift,no,Horta-Guinardó
+451,Flat,/en/inmueble/99232840/,1900000,Diagonal Mar i el Front Marítim del Poblenou,152,2,,no lift,yes,Sant Martí
+453,Flat,/en/inmueble/101301508/,535000,El Putxet i el Farró,87,2,2.0,lift,no,Sarrià-Sant Gervasi
+454,Penthouse,/en/inmueble/100210104/,1075000,Sant Gervasi - Galvany,168,3,7.0,lift,no,Sarrià-Sant Gervasi
+455,Penthouse,/en/inmueble/99777474/,1600000,Sant Gervasi - La Bonanova,220,6,9.0,lift,yes,Sarrià-Sant Gervasi
+456,House,/en/inmueble/100555498/,1695000,Sarrià,280,4,,no lift,yes,Sarrià-Sant Gervasi
+457,Penthouse,/en/inmueble/101475340/,1395000,,185,2,5.0,lift,no,
+459,Flat,/en/inmueble/100213394/,615000,El Putxet i el Farró,105,3,0.0,lift,yes,Sarrià-Sant Gervasi
+460,Flat,/en/inmueble/101043113/,1695000,Sant Gervasi - Galvany,283,7,4.0,lift,no,Sarrià-Sant Gervasi
+461,Flat,/en/inmueble/100409159/,330000,El Fort Pienc,83,3,,no lift,no,Eixample
+462,Penthouse,/en/inmueble/100494722/,735000,El Camp de l'Arpa del Clot,141,4,7.0,lift,no,Sant Martí
+463,Penthouse,/en/inmueble/100800463/,815000,L'Antiga Esquerra de l'Eixample,161,3,8.0,lift,no,Eixample
+465,Penthouse,/en/inmueble/99611861/,1875000,Sant Gervasi - Galvany,196,4,7.0,lift,no,Sarrià-Sant Gervasi
+466,Penthouse,/en/inmueble/99464161/,1875000,Sant Gervasi - La Bonanova,445,5,1.0,lift,no,Sarrià-Sant Gervasi
+467,Flat,/en/inmueble/100335443/,450000,L'Antiga Esquerra de l'Eixample,88,3,5.0,lift,no,Eixample
+468,Flat,/en/inmueble/99628868/,1295000,La Dreta de l'Eixample,160,3,,no lift,no,Eixample
+469,Flat,/en/inmueble/100173315/,1395000,Sant Gervasi - Galvany,240,5,4.0,lift,no,Sarrià-Sant Gervasi
+470,Flat,/en/inmueble/100672435/,1695000,Les Tres Torres,290,6,2.0,no lift,no,Sarrià-Sant Gervasi
+471,Flat,/en/inmueble/99268868/,550000,Sant Gervasi - Galvany,130,3,3.0,lift,no,Sarrià-Sant Gervasi
+472,Flat,/en/inmueble/97927491/,1200000,La Dreta de l'Eixample,208,5,1.0,lift,no,Eixample
+473,Flat,/en/inmueble/101453972/,549000,El Putxet i el Farró,100,2,1.0,lift,yes,Sarrià-Sant Gervasi
+474,House,/en/inmueble/99778117/,750000,Vila de Gràcia,137,3,,no lift,no,Gràcia
+475,Flat,/en/inmueble/100688455/,298000,El Guinardó,63,1,0.0,lift,yes,Horta-Guinardó
+476,Flat,/en/inmueble/101258248/,399000,La Sagrada Família,82,4,,no lift,yes,Eixample
+477,Flat,/en/inmueble/99714123/,845000,Sant Gervasi - Galvany,242,6,3.0,lift,no,Sarrià-Sant Gervasi
+478,Flat,/en/inmueble/100824940/,390000,El Raval,81,4,2.0,lift,no,Ciutat Vella
+479,Penthouse,/en/inmueble/98748105/,1850000,Sant Gervasi - Galvany,401,5,7.0,lift,no,Sarrià-Sant Gervasi
+480,Flat,/en/inmueble/100896590/,468000,El Gòtic,93,3,2.0,lift,no,Ciutat Vella
+481,Flat,/en/inmueble/98567332/,295000,La Sagrada Família,84,3,2.0,lift,no,Eixample
+482,Flat,/en/inmueble/100143524/,685000,La Maternitat i Sant Ramon,116,3,1.0,lift,no,Les Corts
+485,Duplex,/en/inmueble/36903282/,590000,Horta,190,5,1.0,no lift,no,Horta-Guinardó
+486,Flat,/en/inmueble/100437728/,665000,La Dreta de l'Eixample,158,4,4.0,lift,no,Eixample
+487,Flat,/en/inmueble/94313661/,679000,El Gòtic,181,4,3.0,lift,no,Ciutat Vella
+488,Penthouse,/en/inmueble/99017550/,460000,La Salut,99,4,6.0,lift,no,Gràcia
+489,Flat,/en/inmueble/100100135/,1850000,Vila de Gràcia,356,5,7.0,lift,no,Gràcia
+491,Flat,/en/inmueble/100638434/,580000,,114,3,0.0,no lift,no,
+492,Flat,/en/inmueble/90014365/,1880000,Les Tres Torres,305,6,3.0,lift,yes,Sarrià-Sant Gervasi
+493,Flat,/en/inmueble/101145564/,136000,Verdun,51,3,3.0,lift,no,Nou Barris
+494,Flat,/en/inmueble/101283953/,420000,,89,3,2.0,lift,no,
+495,Flat,/en/inmueble/100144612/,720000,Pedralbes,102,2,3.0,lift,no,Les Corts
+496,Penthouse,/en/inmueble/98416556/,550000,La Sagrada Família,129,5,8.0,lift,no,Eixample
+497,Flat,/en/inmueble/100666160/,945000,Les Tres Torres,174,5,1.0,lift,yes,Sarrià-Sant Gervasi
+498,Flat,/en/inmueble/100899905/,980000,Sant Gervasi - Galvany,194,5,3.0,lift,no,Sarrià-Sant Gervasi
+499,Flat,/en/inmueble/101124344/,625000,La Dreta de l'Eixample,131,4,2.0,lift,no,Eixample
+500,Flat,/en/inmueble/99288677/,875000,,156,4,,no lift,yes,
+501,Semi-detached,/en/inmueble/84998475/,2475000,Sant Gervasi - La Bonanova,400,6,,no lift,yes,Sarrià-Sant Gervasi
+502,Flat,/en/inmueble/97324379/,560000,El Gòtic,96,3,4.0,lift,yes,Ciutat Vella
+503,Flat,/en/inmueble/99349453/,455000,L'Antiga Esquerra de l'Eixample,79,3,6.0,lift,no,Eixample
+504,Flat,/en/inmueble/96496312/,895000,Pedralbes,125,2,2.0,lift,yes,Les Corts
+505,Flat,/en/inmueble/100271775/,1595000,La Dreta de l'Eixample,199,4,,no lift,no,Eixample
+506,Penthouse,/en/inmueble/99993977/,1850000,Vila de Gràcia,338,5,7.0,lift,no,Gràcia
+507,Flat,/en/inmueble/101366143/,695000,La Sagrada Família,145,3,6.0,lift,no,Eixample
+508,Flat,/en/inmueble/98270509/,325000,El Baix Guinardó,86,1,1.0,lift,no,Horta-Guinardó
+509,Flat,/en/inmueble/98269404/,1950000,Pedralbes,408,4,3.0,lift,yes,Les Corts
+510,Flat,/en/inmueble/100246608/,235000,La Sagrada Família,53,2,2.0,lift,no,Eixample
+511,Flat,/en/inmueble/101183700/,495000,Sant Antoni,130,3,1.0,lift,no,Eixample
+512,Flat,/en/inmueble/100335872/,420000,El Parc i la Llacuna del Poblenou,94,3,4.0,lift,no,Sant Martí
+513,Flat,/en/inmueble/101472217/,1200000,Sant Gervasi - Galvany,150,3,4.0,lift,no,Sarrià-Sant Gervasi
+514,Flat,/en/inmueble/100336745/,475000,L'Antiga Esquerra de l'Eixample,85,3,5.0,lift,no,Eixample
+515,Flat,/en/inmueble/101618289/,575000,El Gòtic,102,2,3.0,no lift,no,Ciutat Vella
+516,Flat,/en/inmueble/101450319/,1120000,Sant Gervasi - Galvany,180,4,6.0,no lift,yes,Sarrià-Sant Gervasi
+517,Flat,/en/inmueble/101520905/,598250,El Putxet i el Farró,125,1,0.0,lift,no,Sarrià-Sant Gervasi
+518,Penthouse,/en/inmueble/98758264/,815000,L'Antiga Esquerra de l'Eixample,166,3,6.0,lift,no,Eixample
+519,Semi-detached,/en/inmueble/96917886/,830000,,207,4,,no lift,yes,
+520,Flat,/en/inmueble/100335993/,365000,Vila de Gràcia,84,3,1.0,lift,no,Gràcia
+521,Penthouse,/en/inmueble/101622453/,1095000,Sant Gervasi - Galvany,164,3,,no lift,no,Sarrià-Sant Gervasi
+522,Penthouse,/en/inmueble/101393692/,1250000,Sant Gervasi - La Bonanova,89,3,7.0,lift,no,Sarrià-Sant Gervasi
+523,Flat,/en/inmueble/96703677/,900000,Vila de Gràcia,100,2,5.0,lift,yes,Gràcia
+524,Flat,/en/inmueble/99926953/,545000,El Gòtic,93,2,,no lift,no,Ciutat Vella
+525,Flat,/en/inmueble/99921432/,236000,El Poble Sec - Parc de Montjuïc,102,3,0.0,lift,no,Sants-Montjuïc
+526,Flat,/en/inmueble/85302646/,870000,Diagonal Mar i el Front Marítim del Poblenou,110,3,,no lift,yes,Sant Martí
+527,Flat,/en/inmueble/86438938/,1100000,L'Antiga Esquerra de l'Eixample,163,4,3.0,lift,no,Eixample
+528,Flat,/en/inmueble/98767434/,1490000,Sant Gervasi - La Bonanova,214,5,0.0,lift,yes,Sarrià-Sant Gervasi
+529,Flat,/en/inmueble/100645681/,330000,Sant Antoni,85,3,1.0,lift,no,Eixample
+530,Flat,/en/inmueble/100599324/,295000,Navas,85,3,6.0,lift,no,Sant Andreu
+531,Flat,/en/inmueble/93957752/,349000,El Gòtic,83,1,1.0,lift,no,Ciutat Vella
+532,Flat,/en/inmueble/99444763/,170000,La Prosperitat,65,3,4.0,no lift,no,Nou Barris
+533,Flat,/en/inmueble/101608287/,310000,Horta,83,4,2.0,no lift,no,Horta-Guinardó
+534,Penthouse,/en/inmueble/96956648/,460000,El Gòtic,95,3,3.0,no lift,no,Ciutat Vella
+535,Flat,/en/inmueble/96603971/,650000,L'Antiga Esquerra de l'Eixample,122,4,7.0,lift,no,Eixample
+536,Semi-detached,/en/inmueble/101625031/,925000,La Salut,185,5,,no lift,yes,Gràcia
+537,Flat,/en/inmueble/101616332/,688000,La Sagrada Família,113,2,,no lift,no,Eixample
+538,Flat,/en/inmueble/101616295/,360000,El Poble Sec - Parc de Montjuïc,57,2,,no lift,no,Sants-Montjuïc
+539,Flat,/en/inmueble/96932633/,435000,El Raval,126,4,1.0,lift,no,Ciutat Vella
+541,Flat,/en/inmueble/98514341/,605000,Sant Pere - Santa Caterina i la Ribera,143,4,6.0,lift,no,Ciutat Vella
+543,Flat,/en/inmueble/100721347/,1395000,El Gòtic,320,6,,no lift,no,Ciutat Vella
+544,Flat,/en/inmueble/100965927/,600000,El Camp d'En Grassot i Gràcia Nova,93,2,3.0,lift,no,Gràcia
+545,Flat,/en/inmueble/98373849/,1580000,Sant Gervasi - La Bonanova,229,3,1.0,lift,yes,Sarrià-Sant Gervasi
+546,Flat,/en/inmueble/91592832/,818000,La Dreta de l'Eixample,87,2,2.0,lift,no,Eixample
+547,House,/en/inmueble/96098087/,3900000,Pedralbes,699,7,,no lift,yes,Les Corts
+548,Flat,/en/inmueble/93362563/,380000,El Raval,114,1,5.0,no lift,no,Ciutat Vella
+549,Flat,/en/inmueble/101619604/,380000,El Gòtic,92,2,0.0,lift,no,Ciutat Vella
+551,Flat,/en/inmueble/100172099/,299000,El Gòtic,80,1,2.0,lift,no,Ciutat Vella
+552,Flat,/en/inmueble/101013506/,335000,La Sagrada Família,65,2,3.0,no lift,no,Eixample
+554,Terraced,/en/inmueble/95002536/,1195000,La Salut,212,2,,no lift,yes,Gràcia
+556,Flat,/en/inmueble/99681829/,399500,El Camp d'En Grassot i Gràcia Nova,70,3,2.0,lift,no,Gràcia
+557,Penthouse,/en/inmueble/100633139/,3650000,,461,5,8.0,lift,no,
+558,Flat,/en/inmueble/98269475/,1800000,Pedralbes,292,4,3.0,lift,yes,Les Corts
+559,Flat,/en/inmueble/99306364/,329000,Vila de Gràcia,70,2,0.0,no lift,no,Gràcia
+560,Flat,/en/inmueble/98269646/,750000,Sant Pere - Santa Caterina i la Ribera,140,2,1.0,lift,no,Ciutat Vella
+561,Flat,/en/inmueble/100957525/,1350000,La Dreta de l'Eixample,205,3,,no lift,no,Eixample
+562,Flat,/en/inmueble/91757965/,1150000,La Dreta de l'Eixample,177,4,2.0,lift,no,Eixample
+563,Flat,/en/inmueble/98273239/,980000,La Maternitat i Sant Ramon,151,3,3.0,lift,no,Les Corts
+564,Flat,/en/inmueble/101181006/,535000,El Putxet i el Farró,87,2,1.0,lift,no,Sarrià-Sant Gervasi
+565,Duplex,/en/inmueble/101625024/,680000,Vallvidrera - El Tibidabo i les Planes,123,4,0.0,no lift,no,Sarrià-Sant Gervasi
+566,Flat,/en/inmueble/99268088/,299000,El Raval,62,2,3.0,no lift,no,Ciutat Vella
+567,Flat,/en/inmueble/101092135/,350000,,79,2,3.0,no lift,no,
+568,Flat,/en/inmueble/98324138/,1150000,Sant Gervasi - Galvany,200,5,4.0,lift,yes,Sarrià-Sant Gervasi
+569,Flat,/en/inmueble/100063737/,415000,La Nova Esquerra de l'Eixample,105,4,1.0,lift,no,Eixample
+571,Flat,/en/inmueble/99104904/,1110000,Sant Gervasi - Galvany,200,5,2.0,lift,yes,Sarrià-Sant Gervasi
+573,Flat,/en/inmueble/100335695/,260000,La Font d'En Fargues,65,3,0.0,no lift,no,Horta-Guinardó
+574,Flat,/en/inmueble/97694233/,1200000,L'Antiga Esquerra de l'Eixample,178,3,2.0,lift,no,Eixample
+575,Flat,/en/inmueble/99964604/,750000,El Gòtic,97,2,1.0,no lift,no,Ciutat Vella
+576,Flat,/en/inmueble/96580723/,465000,La Nova Esquerra de l'Eixample,100,3,1.0,lift,no,Eixample
+577,Flat,/en/inmueble/100384632/,549000,El Poblenou,81,1,4.0,lift,no,Sant Martí
+578,Flat,/en/inmueble/100336550/,260000,La Marina del Port,74,3,8.0,lift,no,Sants-Montjuïc
+579,House,/en/inmueble/100650544/,550000,La Salut,138,2,,no lift,no,Gràcia
+580,Flat,/en/inmueble/98136613/,1850000,Diagonal Mar i el Front Marítim del Poblenou,240,3,24.0,lift,yes,Sant Martí
+581,Flat,/en/inmueble/100336874/,300000,El Baix Guinardó,71,3,1.0,lift,no,Horta-Guinardó
+582,Flat,/en/inmueble/101241600/,350000,Sant Antoni,85,5,2.0,lift,no,Eixample
+583,Flat,/en/inmueble/91176325/,760000,El Putxet i el Farró,130,4,,no lift,yes,Sarrià-Sant Gervasi
+584,Penthouse,/en/inmueble/101370760/,1090000,Sant Gervasi - Galvany,145,3,2.0,lift,no,Sarrià-Sant Gervasi
+586,Flat,/en/inmueble/101348458/,1450000,L'Antiga Esquerra de l'Eixample,168,3,,no lift,no,Eixample
+587,Flat,/en/inmueble/101620984/,295000,Sants,110,1,0.0,lift,no,Sants-Montjuïc
+588,Flat,/en/inmueble/101431587/,630000,El Gòtic,112,3,,no lift,no,Ciutat Vella
+589,Flat,/en/inmueble/101602304/,260000,,82,3,5.0,no lift,no,
+590,House,/en/inmueble/99426101/,630000,,177,4,,no lift,yes,
+591,Penthouse,/en/inmueble/100673753/,750000,Vila de Gràcia,123,3,,no lift,no,Gràcia
+592,Flat,/en/inmueble/89809999/,1900000,El Poblenou,152,2,14.0,lift,yes,Sant Martí
+593,Penthouse,/en/inmueble/84087248/,1190000,La Nova Esquerra de l'Eixample,160,3,10.0,lift,no,Eixample
+594,Flat,/en/inmueble/100554422/,1500000,La Dreta de l'Eixample,252,6,2.0,lift,no,Eixample
+595,Flat,/en/inmueble/100671646/,945000,Les Tres Torres,174,5,1.0,lift,yes,Sarrià-Sant Gervasi
+596,Flat,/en/inmueble/100645808/,330000,Sant Antoni,85,3,2.0,lift,no,Eixample
+597,Flat,/en/inmueble/101281893/,275000,La Salut,67,3,1.0,lift,no,Gràcia
+599,Flat,/en/inmueble/100336601/,450000,Vila de Gràcia,101,3,2.0,lift,no,Gràcia
+0,Flat,/en/inmueble/97934037/,1200000,La Dreta de l'Eixample,223,4,,no lift,no,Eixample
+1,Flat,/en/inmueble/99953283/,440000,Sant Gervasi - Galvany,90,3,1.0,lift,no,Sarrià-Sant Gervasi
+3,Flat,/en/inmueble/99113286/,1095000,La Dreta de l'Eixample,192,4,1.0,lift,no,Eixample
+4,Penthouse,/en/inmueble/101617808/,460000,La Font d'En Fargues,66,2,3.0,lift,no,Horta-Guinardó
+5,Flat,/en/inmueble/100499881/,1200000,Sarrià,195,4,2.0,lift,yes,Sarrià-Sant Gervasi
+6,Flat,/en/inmueble/100420061/,945000,L'Antiga Esquerra de l'Eixample,128,3,3.0,lift,no,Eixample
+7,Flat,/en/inmueble/99702055/,1149000,La Vila Olímpica del Poblenou,174,3,3.0,lift,yes,Sant Martí
+8,Flat,/en/inmueble/100984200/,1250000,L'Antiga Esquerra de l'Eixample,156,3,,no lift,no,Eixample
+9,Flat,/en/inmueble/98682172/,480000,El Gòtic,105,3,3.0,no lift,no,Ciutat Vella
+10,Flat,/en/inmueble/101617771/,605000,La Font d'En Fargues,79,3,0.0,lift,no,Horta-Guinardó
+11,Flat,/en/inmueble/96428372/,880000,La Dreta de l'Eixample,114,2,,no lift,no,Eixample
+12,Flat,/en/inmueble/101617793/,630000,La Font d'En Fargues,95,3,1.0,lift,no,Horta-Guinardó
+13,Flat,/en/inmueble/101617745/,435000,La Font d'En Fargues,72,3,2.0,lift,no,Horta-Guinardó
+14,Flat,/en/inmueble/100957510/,890000,El Camp d'En Grassot i Gràcia Nova,184,4,,no lift,no,Gràcia
+15,House,/en/inmueble/99099866/,1490000,La Salut,334,5,,no lift,yes,Gràcia
+16,Terraced,/en/inmueble/98498530/,930000,El Putxet i el Farró,263,5,,no lift,yes,Sarrià-Sant Gervasi
+17,Penthouse,/en/inmueble/100910324/,1100000,L'Antiga Esquerra de l'Eixample,102,2,,no lift,no,Eixample
+18,Flat,/en/inmueble/97332453/,585000,Sant Antoni,126,3,1.0,lift,no,Eixample
+19,Flat,/en/inmueble/100678806/,1395000,El Gòtic,336,5,,no lift,no,Ciutat Vella
+20,Flat,/en/inmueble/101468258/,1195000,La Dreta de l'Eixample,195,3,,no lift,no,Eixample
+21,Flat,/en/inmueble/101605799/,858000,La Dreta de l'Eixample,89,2,3.0,lift,no,Eixample
+22,Flat,/en/inmueble/99993986/,1499000,La Dreta de l'Eixample,115,3,,no lift,no,Eixample
+23,Flat,/en/inmueble/99671987/,460000,L'Antiga Esquerra de l'Eixample,66,2,1.0,no lift,no,Eixample
+24,Penthouse,/en/inmueble/101614656/,510000,El Camp de l'Arpa del Clot,94,4,9.0,lift,no,Sant Martí
+25,Flat,/en/inmueble/100984201/,1295000,La Dreta de l'Eixample,145,3,,no lift,no,Eixample
+26,Flat,/en/inmueble/101617744/,440000,La Font d'En Fargues,79,3,1.0,lift,no,Horta-Guinardó
+28,Flat,/en/inmueble/101610463/,790000,El Gòtic,106,3,3.0,lift,no,Ciutat Vella
+29,Flat,/en/inmueble/99463756/,106500,El Raval,43,1,3.0,lift,no,Ciutat Vella
+33,Flat,/en/inmueble/101621239/,1190000,La Dreta de l'Eixample,140,3,3.0,lift,no,Eixample
+35,Penthouse,/en/inmueble/29714252/,2500000,Sant Pere - Santa Caterina i la Ribera,318,3,4.0,lift,no,Ciutat Vella
+36,Flat,/en/inmueble/101611863/,1175000,Sant Gervasi - La Bonanova,180,4,1.0,lift,no,Sarrià-Sant Gervasi
+37,Flat,/en/inmueble/101610368/,735000,El Gòtic,101,3,2.0,lift,no,Ciutat Vella
+38,Flat,/en/inmueble/101610747/,1045000,El Gòtic,156,3,3.0,lift,no,Ciutat Vella
+39,Flat,/en/inmueble/101357003/,975000,Sant Gervasi - Galvany,171,4,4.0,no lift,yes,Sarrià-Sant Gervasi
+41,Flat,/en/inmueble/100881128/,695000,El Gòtic,167,5,,no lift,no,Ciutat Vella
+42,Flat,/en/inmueble/101610374/,765000,El Gòtic,101,3,3.0,lift,no,Ciutat Vella
+43,Flat,/en/inmueble/101606268/,715000,El Gòtic,101,3,1.0,lift,no,Ciutat Vella
+44,Flat,/en/inmueble/101610639/,1020000,El Gòtic,156,3,2.0,lift,no,Ciutat Vella
+45,Flat,/en/inmueble/101616722/,255000,,86,3,3.0,no lift,no,
+46,Flat,/en/inmueble/101616692/,250000,,86,3,2.0,no lift,no,
+47,Flat,/en/inmueble/99230842/,1790000,Diagonal Mar i el Front Marítim del Poblenou,180,3,10.0,lift,yes,Sant Martí
+48,Penthouse,/en/inmueble/101622505/,1900000,Sarrià,260,4,4.0,lift,yes,Sarrià-Sant Gervasi
+49,Flat,/en/inmueble/101612792/,685000,Sant Gervasi - La Bonanova,123,4,1.0,lift,yes,Sarrià-Sant Gervasi
+50,Flat,/en/inmueble/101300699/,1550000,La Dreta de l'Eixample,198,5,2.0,lift,no,Eixample
+51,Flat,/en/inmueble/101622384/,1450000,Pedralbes,177,5,3.0,lift,yes,Les Corts
+52,Flat,/en/inmueble/101354832/,329000,,69,2,5.0,lift,no,
+53,Flat,/en/inmueble/101618886/,485000,La Maternitat i Sant Ramon,123,4,,no lift,no,Les Corts
+54,Flat,/en/inmueble/99204996/,1000000,Sant Gervasi - La Bonanova,227,4,1.0,lift,yes,Sarrià-Sant Gervasi
+56,Flat,/en/inmueble/101611817/,400000,Diagonal Mar i el Front Marítim del Poblenou,79,2,6.0,lift,no,Sant Martí
+57,Flat,/en/inmueble/98321273/,1172000,Sant Gervasi - Galvany,215,5,1.0,lift,yes,Sarrià-Sant Gervasi
+58,Flat,/en/inmueble/98321540/,1230000,Sant Gervasi - Galvany,200,5,4.0,lift,yes,Sarrià-Sant Gervasi
+59,Flat,/en/inmueble/100042114/,185000,El Raval,45,1,0.0,no lift,no,Ciutat Vella
+61,Flat,/en/inmueble/101608365/,265000,Hostafrancs,59,2,3.0,lift,no,Sants-Montjuïc
+63,Flat,/en/inmueble/100123082/,410000,El Camp de l'Arpa del Clot,108,4,6.0,lift,no,Sant Martí
+64,Flat,/en/inmueble/101386153/,1290000,Sant Gervasi - Galvany,256,4,1.0,lift,no,Sarrià-Sant Gervasi
+65,Flat,/en/inmueble/98848456/,1490000,Sant Gervasi - Galvany,491,10,1.0,lift,no,Sarrià-Sant Gervasi
+66,Flat,/en/inmueble/98421178/,917900,El Putxet i el Farró,214,4,3.0,lift,yes,Sarrià-Sant Gervasi
+67,Flat,/en/inmueble/101616336/,725000,La Dreta de l'Eixample,92,1,,no lift,no,Eixample
+68,Flat,/en/inmueble/98270250/,260000,El Camp d'En Grassot i Gràcia Nova,48,2,2.0,no lift,no,Gràcia
+69,Flat,/en/inmueble/100332826/,172000,La Sagrera,57,3,6.0,lift,no,Sant Andreu
+70,Penthouse,/en/inmueble/101616310/,725000,La Dreta de l'Eixample,92,1,,no lift,no,Eixample
+71,House,/en/inmueble/97498349/,1250000,Vallvidrera - El Tibidabo i les Planes,237,4,,no lift,yes,Sarrià-Sant Gervasi
+72,Flat,/en/inmueble/99345769/,228000,Sants,76,3,1.0,lift,no,Sants-Montjuïc
+73,Flat,/en/inmueble/101450358/,1330000,Sarrià,238,5,3.0,lift,yes,Sarrià-Sant Gervasi
+74,Flat,/en/inmueble/100807514/,330000,Vilapicina i la Torre Llobeta,78,3,4.0,lift,no,Nou Barris
+75,Flat,/en/inmueble/100580224/,217500,El Poble Sec - Parc de Montjuïc,53,3,1.0,lift,no,Sants-Montjuïc
+77,Flat,/en/inmueble/101625348/,1190000,Sant Gervasi - Galvany,251,6,,no lift,no,Sarrià-Sant Gervasi
+78,Flat,/en/inmueble/99102359/,1700000,El Poble Sec - Parc de Montjuïc,241,5,,no lift,no,Sants-Montjuïc
+79,Flat,/en/inmueble/93088976/,1880000,Les Tres Torres,302,6,3.0,lift,yes,Sarrià-Sant Gervasi
+80,Flat,/en/inmueble/98378409/,498000,L'Antiga Esquerra de l'Eixample,97,3,3.0,lift,no,Eixample
+81,Flat,/en/inmueble/101162232/,1290000,Sant Gervasi - Galvany,256,4,,no lift,no,Sarrià-Sant Gervasi
+82,Flat,/en/inmueble/97892167/,899000,Les Tres Torres,160,4,4.0,lift,yes,Sarrià-Sant Gervasi
+84,Flat,/en/inmueble/38306932/,250000,El Poblenou,76,2,,no lift,no,Sant Martí
+85,Flat,/en/inmueble/99581917/,522100,El Guinardó,144,4,1.0,lift,yes,Horta-Guinardó
+86,Flat,/en/inmueble/101619108/,340000,Porta,86,3,3.0,no lift,no,Nou Barris
+89,Flat,/en/inmueble/101621648/,225000,El Camp de l'Arpa del Clot,52,1,2.0,lift,no,Sant Martí
+92,Duplex,/en/inmueble/99402619/,1140000,Sant Gervasi - Galvany,143,2,0.0,lift,no,Sarrià-Sant Gervasi
+93,Flat,/en/inmueble/97971797/,445000,El Putxet i el Farró,126,5,1.0,lift,no,Sarrià-Sant Gervasi
+94,Flat,/en/inmueble/101137835/,649000,La Nova Esquerra de l'Eixample,161,4,1.0,lift,no,Eixample
+95,Flat,/en/inmueble/101403620/,2200000,Sant Gervasi - Galvany,318,5,,no lift,yes,Sarrià-Sant Gervasi
+96,Flat,/en/inmueble/100963730/,228000,El Guinardó,74,3,3.0,no lift,no,Horta-Guinardó
+97,Penthouse,/en/inmueble/100183507/,640000,Les Tres Torres,101,2,4.0,lift,yes,Sarrià-Sant Gervasi
+98,Flat,/en/inmueble/100322263/,595000,El Putxet i el Farró,132,3,1.0,lift,no,Sarrià-Sant Gervasi
+99,Flat,/en/inmueble/101201963/,520000,La Dreta de l'Eixample,109,4,2.0,lift,no,Eixample
+100,Flat,/en/inmueble/99378433/,650000,Diagonal Mar i el Front Marítim del Poblenou,99,2,2.0,lift,no,Sant Martí
+102,Flat,/en/inmueble/99355720/,940000,El Gòtic,207,5,1.0,lift,no,Ciutat Vella
+103,House,/en/inmueble/99977630/,495000,El Coll,102,2,,no lift,no,Gràcia
+104,Flat,/en/inmueble/101562033/,1595000,Pedralbes,237,4,7.0,lift,yes,Les Corts
+105,Penthouse,/en/inmueble/101043963/,399000,Pedralbes,54,1,6.0,lift,no,Les Corts
+106,Flat,/en/inmueble/101004645/,1095000,Pedralbes,165,5,4.0,lift,yes,Les Corts
+108,Flat,/en/inmueble/99983870/,1150000,La Dreta de l'Eixample,153,2,5.0,lift,yes,Eixample
+110,Penthouse,/en/inmueble/99849744/,1700000,Sant Gervasi - La Bonanova,243,5,7.0,lift,yes,Sarrià-Sant Gervasi
+111,Penthouse,/en/inmueble/97289632/,1495000,Sant Gervasi - Galvany,210,6,1.0,lift,yes,Sarrià-Sant Gervasi
+112,Penthouse,/en/inmueble/101602130/,3500000,Vila de Gràcia,283,5,,no lift,no,Gràcia
+113,Flat,/en/inmueble/96904828/,397000,El Poble Sec - Parc de Montjuïc,83,3,1.0,lift,no,Sants-Montjuïc
+116,Flat,/en/inmueble/98123727/,140000,Can Baró,44,2,2.0,no lift,no,Horta-Guinardó
+117,Flat,/en/inmueble/101095726/,790000,Vila de Gràcia,213,7,4.0,lift,no,Gràcia
+118,Flat,/en/inmueble/100658426/,1950000,Sant Gervasi - La Bonanova,210,4,6.0,lift,no,Sarrià-Sant Gervasi
+119,Flat,/en/inmueble/98434961/,595000,L'Antiga Esquerra de l'Eixample,133,3,1.0,lift,no,Eixample
+121,Flat,/en/inmueble/101140127/,520000,Vallvidrera - El Tibidabo i les Planes,147,3,1.0,no lift,no,Sarrià-Sant Gervasi
+122,Flat,/en/inmueble/100293898/,799000,La Dreta de l'Eixample,134,3,4.0,lift,no,Eixample
+123,Flat,/en/inmueble/95597900/,1695000,La Dreta de l'Eixample,174,3,5.0,lift,yes,Eixample
+124,Flat,/en/inmueble/98637748/,550000,L'Antiga Esquerra de l'Eixample,89,2,3.0,lift,no,Eixample
+125,House,/en/inmueble/98225596/,595000,Vallvidrera - El Tibidabo i les Planes,136,3,,no lift,no,Sarrià-Sant Gervasi
+126,House,/en/inmueble/100594513/,3100000,Vallvidrera - El Tibidabo i les Planes,648,10,,no lift,yes,Sarrià-Sant Gervasi
+128,Flat,/en/inmueble/101113015/,279500,El Raval,92,2,1.0,no lift,no,Ciutat Vella
+130,Flat,/en/inmueble/100924842/,359000,Hostafrancs,60,2,1.0,lift,no,Sants-Montjuïc
+132,Flat,/en/inmueble/100970563/,440000,La Nova Esquerra de l'Eixample,89,2,4.0,lift,no,Eixample
+133,Flat,/en/inmueble/101391514/,540000,,96,3,9.0,lift,no,
+134,Penthouse,/en/inmueble/99851423/,1950000,Vila de Gràcia,360,5,7.0,lift,no,Gràcia
+135,Flat,/en/inmueble/100013130/,560000,Sants,165,4,5.0,lift,no,Sants-Montjuïc
+136,Flat,/en/inmueble/86628783/,315000,El Raval,100,5,4.0,lift,no,Ciutat Vella
+137,Flat,/en/inmueble/100120507/,984800,La Dreta de l'Eixample,87,2,2.0,lift,no,Eixample
+140,Flat,/en/inmueble/101137621/,245000,El Raval,77,2,4.0,no lift,no,Ciutat Vella
+141,Flat,/en/inmueble/101623397/,315000,La Sagrada Família,80,4,1.0,lift,no,Eixample
+142,Flat,/en/inmueble/99991555/,349000,L'Antiga Esquerra de l'Eixample,85,3,2.0,lift,no,Eixample
+143,Flat,/en/inmueble/101180387/,978000,L'Antiga Esquerra de l'Eixample,200,6,5.0,lift,no,Eixample
+144,Flat,/en/inmueble/98215973/,1300000,Sarrià,169,4,3.0,lift,yes,Sarrià-Sant Gervasi
+146,Flat,/en/inmueble/98733148/,370000,,94,3,5.0,lift,no,
+147,Flat,/en/inmueble/98857342/,749000,Sant Pere - Santa Caterina i la Ribera,120,3,2.0,lift,no,Ciutat Vella
+148,Flat,/en/inmueble/101427070/,400000,La Sagrada Família,85,4,2.0,lift,no,Eixample
+149,Flat,/en/inmueble/95831320/,470000,La Font de la Guatlla,92,3,2.0,lift,no,Sants-Montjuïc
+150,Flat,/en/inmueble/98378385/,340000,El Camp de l'Arpa del Clot,80,3,1.0,no lift,no,Sant Martí
+151,Flat,/en/inmueble/101132622/,550000,,119,3,1.0,lift,no,
+152,Flat,/en/inmueble/101127100/,1090000,Sant Gervasi - Galvany,291,5,3.0,lift,yes,Sarrià-Sant Gervasi
+153,Flat,/en/inmueble/101421933/,363200,El Besòs,82,3,5.0,lift,no,Sant Andreu
+155,Flat,/en/inmueble/95517918/,1095000,Les Tres Torres,224,5,1.0,lift,yes,Sarrià-Sant Gervasi
+156,Flat,/en/inmueble/100375507/,398000,La Nova Esquerra de l'Eixample,90,4,1.0,lift,no,Eixample
+158,Flat,/en/inmueble/101217297/,350000,La Sagrada Família,76,2,1.0,lift,no,Eixample
+159,Flat,/en/inmueble/96362228/,1750000,Sant Gervasi - Galvany,284,6,4.0,lift,no,Sarrià-Sant Gervasi
+160,Flat,/en/inmueble/100461194/,550000,Sant Pere - Santa Caterina i la Ribera,85,2,2.0,lift,no,Ciutat Vella
+161,Flat,/en/inmueble/101581533/,790000,Sant Antoni,152,4,5.0,lift,no,Eixample
+162,Flat,/en/inmueble/101615370/,320000,Sants,83,2,2.0,no lift,no,Sants-Montjuïc
+164,Flat,/en/inmueble/101252897/,218000,El Raval,89,2,4.0,no lift,no,Ciutat Vella
+165,Flat,/en/inmueble/100367231/,499000,La Nova Esquerra de l'Eixample,126,3,2.0,lift,no,Eixample
+166,Flat,/en/inmueble/101089850/,825000,Sant Gervasi - Galvany,198,4,1.0,lift,no,Sarrià-Sant Gervasi
+167,Flat,/en/inmueble/101615394/,299000,Diagonal Mar i el Front Marítim del Poblenou,69,4,1.0,lift,no,Sant Martí
+168,Flat,/en/inmueble/83767550/,1195000,Diagonal Mar i el Front Marítim del Poblenou,135,4,6.0,lift,yes,Sant Martí
+169,Flat,/en/inmueble/101500269/,560000,Sant Gervasi - Galvany,102,3,5.0,lift,no,Sarrià-Sant Gervasi
+170,Flat,/en/inmueble/101621965/,300000,Sants,77,2,3.0,lift,yes,Sants-Montjuïc
+171,Flat,/en/inmueble/101622754/,185000,La Bordeta,60,3,,no lift,yes,Sants-Montjuïc
+172,Duplex,/en/inmueble/101618616/,375000,El Raval,65,2,5.0,no lift,no,Ciutat Vella
+173,Flat,/en/inmueble/100939846/,475000,Sants,92,3,4.0,lift,no,Sants-Montjuïc
+174,Flat,/en/inmueble/101617142/,489000,El Camp d'En Grassot i Gràcia Nova,113,3,2.0,lift,no,Gràcia
+175,Flat,/en/inmueble/99537129/,445000,Sant Antoni,120,3,1.0,lift,no,Eixample
+176,Flat,/en/inmueble/94913668/,210500,Sant Martí de Provençals,84,3,0.0,no lift,no,Sant Martí
+177,Flat,/en/inmueble/38278514/,1145000,El Gòtic,172,4,2.0,lift,no,Ciutat Vella
+178,Flat,/en/inmueble/97905287/,650000,Sarrià,150,5,2.0,lift,no,Sarrià-Sant Gervasi
+179,Flat,/en/inmueble/100790962/,184500,El Poble Sec - Parc de Montjuïc,60,3,4.0,lift,no,Sants-Montjuïc
+180,Terraced,/en/inmueble/101178282/,895000,Vallcarca i els Penitents,163,4,,no lift,yes,Gràcia
+181,Flat,/en/inmueble/101391928/,295000,El Camp de l'Arpa del Clot,70,3,5.0,lift,yes,Sant Martí
+182,Flat,/en/inmueble/101622110/,750000,La Vila Olímpica del Poblenou,165,4,2.0,lift,yes,Sant Martí
+183,Flat,/en/inmueble/101609696/,315000,La Sagrada Família,80,4,1.0,lift,no,Eixample
+184,Flat,/en/inmueble/101610316/,750000,La Vila Olímpica del Poblenou,165,4,2.0,lift,yes,Sant Martí
+187,Flat,/en/inmueble/101623302/,435000,Sant Antoni,103,3,2.0,lift,no,Eixample
+188,Flat,/en/inmueble/101240515/,430000,Sants,102,3,,no lift,no,Sants-Montjuïc
+189,Flat,/en/inmueble/101448628/,495000,La Maternitat i Sant Ramon,75,3,,no lift,yes,Les Corts
+190,Flat,/en/inmueble/101623430/,300000,El Congrés i els Indians,90,3,4.0,lift,no,Sant Andreu
+191,Flat,/en/inmueble/101244809/,495000,L'Antiga Esquerra de l'Eixample,77,3,1.0,lift,no,Eixample
+192,Flat,/en/inmueble/100183357/,280000,El Poble Sec - Parc de Montjuïc,60,2,2.0,no lift,no,Sants-Montjuïc
+193,Flat,/en/inmueble/100394668/,359000,Hostafrancs,57,2,3.0,lift,no,Sants-Montjuïc
+194,Flat,/en/inmueble/100460661/,945000,Les Tres Torres,174,5,1.0,lift,yes,Sarrià-Sant Gervasi
+195,Flat,/en/inmueble/96967469/,229000,Sant Antoni,80,2,0.0,no lift,no,Eixample
+196,Flat,/en/inmueble/98099686/,480000,El Gòtic,117,3,3.0,no lift,no,Ciutat Vella
+197,Flat,/en/inmueble/101226067/,262000,El Camp de l'Arpa del Clot,71,2,6.0,lift,no,Sant Martí
+198,Flat,/en/inmueble/101624594/,420000,El Parc i la Llacuna del Poblenou,94,3,4.0,lift,no,Sant Martí
+199,Flat,/en/inmueble/101576229/,315000,La Sagrada Família,80,4,1.0,lift,no,Eixample
+200,Flat,/en/inmueble/101289013/,349000,El Poblenou,65,2,1.0,no lift,no,Sant Martí
+202,Penthouse,/en/inmueble/100808729/,1295000,Sant Gervasi - Galvany,239,5,6.0,lift,no,Sarrià-Sant Gervasi
+203,Flat,/en/inmueble/100659783/,945000,Les Tres Torres,174,5,1.0,lift,yes,Sarrià-Sant Gervasi
+204,Flat,/en/inmueble/101617095/,315000,La Sagrada Família,80,4,2.0,lift,no,Eixample
+205,Flat,/en/inmueble/101622841/,375000,Sant Gervasi - Galvany,79,2,1.0,lift,no,Sarrià-Sant Gervasi
+206,Flat,/en/inmueble/101621777/,250000,Sant Gervasi - Galvany,50,1,,no lift,no,Sarrià-Sant Gervasi
+207,Flat,/en/inmueble/101625744/,440000,El Poblenou,96,3,1.0,lift,no,Sant Martí
+208,Flat,/en/inmueble/100372023/,354000,Sants,80,2,2.0,no lift,no,Sants-Montjuïc
+209,House,/en/inmueble/101551324/,2100000,Vallvidrera - El Tibidabo i les Planes,176,5,,no lift,yes,Sarrià-Sant Gervasi
+211,House,/en/inmueble/100298910/,3950000,Pedralbes,683,9,,no lift,yes,Les Corts
+220,Flat,/en/inmueble/96976145/,210000,La Bordeta,67,3,1.0,lift,no,Sants-Montjuïc
+221,Flat,/en/inmueble/101617801/,390000,La Font d'En Fargues,64,2,2.0,lift,no,Horta-Guinardó
+222,Duplex,/en/inmueble/100340493/,395000,El Parc i la Llacuna del Poblenou,103,3,1.0,lift,no,Sant Martí
+223,Flat,/en/inmueble/101458112/,1110000,L'Antiga Esquerra de l'Eixample,251,5,2.0,lift,no,Eixample
+224,Flat,/en/inmueble/100659376/,725000,L'Antiga Esquerra de l'Eixample,135,4,3.0,lift,no,Eixample
+227,Flat,/en/inmueble/100809638/,565000,La Dreta de l'Eixample,102,3,4.0,lift,yes,Eixample
+228,Flat,/en/inmueble/101292076/,309000,El Camp de l'Arpa del Clot,94,4,1.0,lift,no,Sant Martí
+229,Flat,/en/inmueble/100552012/,435000,,89,4,2.0,lift,no,
+230,Flat,/en/inmueble/99815313/,435000,La Nova Esquerra de l'Eixample,101,3,7.0,lift,no,Eixample
+231,Flat,/en/inmueble/101609855/,650000,L'Antiga Esquerra de l'Eixample,129,4,1.0,lift,no,Eixample
+232,Flat,/en/inmueble/101602151/,750000,La Vila Olímpica del Poblenou,165,4,2.0,lift,yes,Sant Martí
+233,Flat,/en/inmueble/101625159/,527000,L'Antiga Esquerra de l'Eixample,114,4,,no lift,no,Eixample
+234,Flat,/en/inmueble/101626156/,845000,Sant Gervasi - La Bonanova,178,4,6.0,lift,no,Sarrià-Sant Gervasi
+235,Flat,/en/inmueble/101626803/,275000,El Baix Guinardó,76,2,,no lift,no,Horta-Guinardó
+236,Flat,/en/inmueble/101615219/,750000,La Vila Olímpica del Poblenou,165,4,2.0,lift,yes,Sant Martí
+237,Penthouse,/en/inmueble/101626277/,475000,La Nova Esquerra de l'Eixample,92,2,5.0,lift,no,Eixample
+238,Flat,/en/inmueble/101579901/,845000,La Dreta de l'Eixample,162,6,4.0,lift,no,Eixample
+239,Flat,/en/inmueble/100085533/,1400000,La Dreta de l'Eixample,380,12,1.0,lift,no,Eixample
+242,Flat,/en/inmueble/99544660/,190000,La Salut,58,2,0.0,no lift,no,Gràcia
+243,Penthouse,/en/inmueble/101626143/,1090000,Sant Gervasi - Galvany,150,3,8.0,lift,no,Sarrià-Sant Gervasi
+244,Flat,/en/inmueble/101153903/,399000,La Nova Esquerra de l'Eixample,75,3,3.0,lift,no,Eixample
+245,Flat,/en/inmueble/101200851/,395000,La Nova Esquerra de l'Eixample,89,3,5.0,lift,no,Eixample
+246,Flat,/en/inmueble/98823335/,3700000,La Dreta de l'Eixample,274,4,5.0,lift,yes,Eixample
+247,Flat,/en/inmueble/101110082/,109000,El Bon Pastor,58,2,2.0,lift,no,Sant Andreu
+248,Semi-detached,/en/inmueble/96238263/,2400000,Sant Gervasi - La Bonanova,496,6,,no lift,yes,Sarrià-Sant Gervasi
+249,Flat,/en/inmueble/101618969/,315000,La Sagrada Família,80,4,1.0,lift,no,Eixample
+250,Flat,/en/inmueble/99548320/,845000,Sant Gervasi - Galvany,224,6,1.0,lift,no,Sarrià-Sant Gervasi
+251,Flat,/en/inmueble/101607521/,750000,La Vila Olímpica del Poblenou,165,4,2.0,lift,no,Sant Martí
+252,Penthouse,/en/inmueble/100023531/,549000,El Gòtic,95,2,5.0,lift,no,Ciutat Vella
+253,Flat,/en/inmueble/99932549/,750000,El Gòtic,97,3,2.0,no lift,no,Ciutat Vella
+254,Penthouse,/en/inmueble/100991554/,1100000,La Sagrada Família,237,4,8.0,lift,yes,Eixample
+255,Flat,/en/inmueble/96442466/,655000,La Dreta de l'Eixample,102,2,3.0,lift,no,Eixample
+256,Flat,/en/inmueble/101129211/,645000,El Baix Guinardó,156,4,,no lift,no,Horta-Guinardó
+257,Flat,/en/inmueble/101186056/,360000,El Coll,95,3,1.0,lift,no,Gràcia
+258,Flat,/en/inmueble/100478209/,269000,Sant Antoni,73,3,1.0,lift,no,Eixample
+259,Penthouse,/en/inmueble/100799095/,850000,Sarrià,140,3,6.0,lift,yes,Sarrià-Sant Gervasi
+260,Flat,/en/inmueble/101159733/,598250,El Putxet i el Farró,166,2,0.0,lift,no,Sarrià-Sant Gervasi
+261,Flat,/en/inmueble/101609979/,315000,La Sagrada Família,80,4,1.0,lift,no,Eixample
+262,Terraced,/en/inmueble/100279596/,750000,Vila de Gràcia,144,3,,no lift,no,Gràcia
+263,Flat,/en/inmueble/97998437/,695000,El Camp d'En Grassot i Gràcia Nova,117,4,3.0,lift,no,Gràcia
+264,House,/en/inmueble/101026155/,1699000,Sarrià,404,4,,no lift,yes,Sarrià-Sant Gervasi
+265,Flat,/en/inmueble/101624191/,375000,La Maternitat i Sant Ramon,91,3,,no lift,no,Les Corts
+266,Flat,/en/inmueble/95370105/,620000,La Dreta de l'Eixample,150,5,6.0,lift,no,Eixample
+268,Flat,/en/inmueble/101616909/,450000,L'Antiga Esquerra de l'Eixample,100,5,2.0,lift,no,Eixample
+269,Penthouse,/en/inmueble/99580455/,1600000,Sant Gervasi - Galvany,258,5,6.0,lift,yes,Sarrià-Sant Gervasi
+270,House,/en/inmueble/91599983/,1350000,Vallvidrera - El Tibidabo i les Planes,519,6,,no lift,yes,Sarrià-Sant Gervasi
+271,House,/en/inmueble/96579536/,1595000,Vallvidrera - El Tibidabo i les Planes,700,8,,no lift,yes,Sarrià-Sant Gervasi
+272,House,/en/inmueble/99775526/,975000,Vallvidrera - El Tibidabo i les Planes,240,6,,no lift,no,Sarrià-Sant Gervasi
+273,Flat,/en/inmueble/101625994/,795000,Sant Gervasi - La Bonanova,116,4,8.0,lift,no,Sarrià-Sant Gervasi
+275,Terraced,/en/inmueble/101423471/,525000,Sants,116,4,,no lift,no,Sants-Montjuïc
+276,House,/en/inmueble/97797363/,1595000,Vallvidrera - El Tibidabo i les Planes,370,4,,no lift,yes,Sarrià-Sant Gervasi
+279,Flat,/en/inmueble/99205018/,1880000,Les Tres Torres,372,6,3.0,lift,yes,Sarrià-Sant Gervasi
+281,House,/en/inmueble/99598393/,798000,Vallvidrera - El Tibidabo i les Planes,242,5,,no lift,yes,Sarrià-Sant Gervasi
+282,Flat,/en/inmueble/101626807/,335000,Vila de Gràcia,65,3,6.0,lift,no,Gràcia
+283,Flat,/en/inmueble/101603689/,428000,,84,3,5.0,lift,no,
+285,Semi-detached,/en/inmueble/90307256/,2800000,Sarrià,465,5,,no lift,yes,Sarrià-Sant Gervasi
+286,House,/en/inmueble/97154690/,2700000,Vallvidrera - El Tibidabo i les Planes,570,7,,no lift,yes,Sarrià-Sant Gervasi
+287,Flat,/en/inmueble/101008567/,199000,Horta,68,3,1.0,lift,no,Horta-Guinardó
+288,House,/en/inmueble/99293872/,2100000,Sarrià,486,5,,no lift,yes,Sarrià-Sant Gervasi
+289,Flat,/en/inmueble/100519524/,495000,,121,4,1.0,lift,no,
+290,Flat,/en/inmueble/100220804/,933860,Sant Pere - Santa Caterina i la Ribera,230,4,5.0,lift,no,Ciutat Vella
+291,Flat,/en/inmueble/100739897/,1290000,Les Tres Torres,202,4,3.0,lift,yes,Sarrià-Sant Gervasi
+292,Flat,/en/inmueble/101615301/,129000,Can Peguera - El Turó de la Peira,69,2,4.0,lift,no,Nou Barris
+293,Penthouse,/en/inmueble/98104431/,1495000,Sant Gervasi - Galvany,206,5,7.0,lift,no,Sarrià-Sant Gervasi
+294,Flat,/en/inmueble/100862920/,550000,,95,3,1.0,lift,no,
+295,Flat,/en/inmueble/99951925/,440000,Sant Gervasi - Galvany,90,3,1.0,lift,no,Sarrià-Sant Gervasi
+297,Flat,/en/inmueble/38016288/,580000,Sant Pere - Santa Caterina i la Ribera,116,1,3.0,no lift,no,Ciutat Vella
+298,House,/en/inmueble/87521008/,4300000,Pedralbes,686,6,,no lift,no,Les Corts
+299,Flat,/en/inmueble/101607777/,498000,La Sagrada Família,88,3,,no lift,yes,Eixample
+304,Flat,/en/inmueble/99088226/,1350000,L'Antiga Esquerra de l'Eixample,202,4,1.0,lift,no,Eixample
+308,Flat,/en/inmueble/100685698/,697000,Sant Gervasi - Galvany,180,3,,no lift,no,Sarrià-Sant Gervasi
+309,Flat,/en/inmueble/100739858/,795000,Sant Gervasi - Galvany,130,3,3.0,lift,no,Sarrià-Sant Gervasi
+310,Flat,/en/inmueble/96166606/,427250,El Putxet i el Farró,48,1,1.0,lift,no,Sarrià-Sant Gervasi
+311,Flat,/en/inmueble/101404481/,275000,El Baix Guinardó,76,2,3.0,lift,no,Horta-Guinardó
+312,Terraced,/en/inmueble/101604271/,990000,El Parc i la Llacuna del Poblenou,136,3,,no lift,no,Sant Martí
+313,House,/en/inmueble/99858080/,299000,Vallvidrera - El Tibidabo i les Planes,80,3,,no lift,yes,Sarrià-Sant Gervasi
+314,Flat,/en/inmueble/100973890/,260000,La Teixonera,77,3,1.0,lift,no,Horta-Guinardó
+315,Flat,/en/inmueble/98996229/,365000,Navas,89,3,2.0,lift,no,Sant Andreu
+316,Flat,/en/inmueble/101622372/,945000,Les Tres Torres,174,5,,no lift,yes,Sarrià-Sant Gervasi
+317,Penthouse,/en/inmueble/101620109/,695000,El Putxet i el Farró,140,3,1.0,lift,no,Sarrià-Sant Gervasi
+318,Penthouse,/en/inmueble/90799362/,1195000,Sant Gervasi - Galvany,165,5,8.0,lift,yes,Sarrià-Sant Gervasi
+319,Flat,/en/inmueble/101616952/,390000,El Guinardó,112,3,1.0,lift,no,Horta-Guinardó
+320,Flat,/en/inmueble/101427466/,295000,Vila de Gràcia,70,3,3.0,lift,no,Gràcia
+321,House,/en/inmueble/101589692/,349000,El Carmel,101,4,,no lift,no,Horta-Guinardó
+322,Flat,/en/inmueble/96083719/,1200000,Sant Antoni,224,4,3.0,lift,no,Eixample
+323,Flat,/en/inmueble/101043381/,415000,La Sagrada Família,89,4,3.0,lift,no,Eixample
+324,Flat,/en/inmueble/101501510/,465000,El Fort Pienc,98,4,2.0,lift,no,Eixample
+325,Flat,/en/inmueble/100617027/,1880000,Sant Gervasi - Galvany,305,5,6.0,lift,yes,Sarrià-Sant Gervasi
+326,Flat,/en/inmueble/99536238/,890000,El Fort Pienc,216,4,2.0,lift,no,Eixample
+327,Flat,/en/inmueble/99200194/,220000,La Barceloneta,35,1,1.0,no lift,no,Ciutat Vella
+328,Penthouse,/en/inmueble/98219849/,350000,Vila de Gràcia,57,1,5.0,no lift,no,Gràcia
+330,Flat,/en/inmueble/95771213/,1695000,Sant Gervasi - Galvany,284,6,4.0,lift,no,Sarrià-Sant Gervasi
+331,Flat,/en/inmueble/100361323/,595000,La Dreta de l'Eixample,130,4,4.0,lift,no,Eixample
+334,Flat,/en/inmueble/100452504/,397500,Sant Pere - Santa Caterina i la Ribera,93,4,5.0,lift,no,Ciutat Vella
+335,Flat,/en/inmueble/101214743/,495000,L'Antiga Esquerra de l'Eixample,79,3,0.0,lift,no,Eixample
+336,Flat,/en/inmueble/100266485/,1595000,La Dreta de l'Eixample,210,4,1.0,lift,no,Eixample
+337,Flat,/en/inmueble/100918071/,295000,El Camp d'En Grassot i Gràcia Nova,82,3,1.0,lift,no,Gràcia
+338,Flat,/en/inmueble/99141375/,780000,Sant Gervasi - La Bonanova,145,3,1.0,lift,no,Sarrià-Sant Gervasi
+339,Flat,/en/inmueble/100312973/,550000,Sant Pere - Santa Caterina i la Ribera,86,2,2.0,lift,no,Ciutat Vella
+340,Semi-detached,/en/inmueble/97480307/,1190000,Vilapicina i la Torre Llobeta,472,4,,no lift,yes,Nou Barris
+341,Flat,/en/inmueble/101178962/,315000,La Sagrada Família,80,4,2.0,lift,no,Eixample
+342,Flat,/en/inmueble/100893210/,950000,El Raval,157,4,2.0,lift,no,Ciutat Vella
+343,Flat,/en/inmueble/99863916/,265000,El Congrés i els Indians,67,3,4.0,lift,no,Sant Andreu
+344,Flat,/en/inmueble/100041457/,238000,La Bordeta,60,3,2.0,lift,no,Sants-Montjuïc
+345,Penthouse,/en/inmueble/100038804/,549000,El Gòtic,90,2,5.0,lift,no,Ciutat Vella
+346,Flat,/en/inmueble/100312587/,1065000,Sant Pere - Santa Caterina i la Ribera,131,3,2.0,lift,no,Ciutat Vella
+347,Flat,/en/inmueble/101617504/,250000,El Carmel,111,3,2.0,lift,no,Horta-Guinardó
+348,Flat,/en/inmueble/97916979/,175000,La Nova Esquerra de l'Eixample,45,2,3.0,no lift,no,Eixample
+349,Flat,/en/inmueble/97202854/,190000,Hostafrancs,70,3,1.0,lift,no,Sants-Montjuïc
+350,Flat,/en/inmueble/99157193/,380000,El Poble Sec - Parc de Montjuïc,77,2,1.0,no lift,no,Sants-Montjuïc
+351,Flat,/en/inmueble/97991368/,1040000,El Gòtic,178,4,2.0,lift,no,Ciutat Vella
+352,Flat,/en/inmueble/101397237/,450000,El Putxet i el Farró,104,4,5.0,lift,no,Sarrià-Sant Gervasi
+353,Penthouse,/en/inmueble/100064067/,570000,El Putxet i el Farró,81,2,3.0,lift,no,Sarrià-Sant Gervasi
+354,Flat,/en/inmueble/100278290/,695000,La Nova Esquerra de l'Eixample,130,3,1.0,lift,no,Eixample
+355,Flat,/en/inmueble/97567761/,750000,El Gòtic,134,3,1.0,lift,no,Ciutat Vella
+356,Penthouse,/en/inmueble/101625429/,1340000,El Putxet i el Farró,290,8,7.0,lift,yes,Sarrià-Sant Gervasi
+357,Flat,/en/inmueble/98351412/,1600000,Sant Gervasi - Galvany,420,11,1.0,lift,yes,Sarrià-Sant Gervasi
+358,Flat,/en/inmueble/99363226/,750000,La Nova Esquerra de l'Eixample,170,4,5.0,lift,no,Eixample
+359,Flat,/en/inmueble/101254026/,335000,Sant Genís Dels Agudells - Montbau,108,3,4.0,lift,no,Horta-Guinardó
+360,Flat,/en/inmueble/99862088/,269000,,70,3,1.0,lift,no,
+361,Flat,/en/inmueble/96178987/,825000,Sant Pere - Santa Caterina i la Ribera,90,1,1.0,lift,no,Ciutat Vella
+364,Flat,/en/inmueble/100778801/,550000,La Barceloneta,110,2,0.0,no lift,no,Ciutat Vella
+367,Flat,/en/inmueble/101512028/,260000,El Camp d'En Grassot i Gràcia Nova,61,2,1.0,lift,no,Gràcia
+368,Flat,/en/inmueble/94445515/,1580000,La Dreta de l'Eixample,185,3,5.0,lift,yes,Eixample
+374,House,/en/inmueble/101621619/,4500000,Sant Gervasi - La Bonanova,773,11,,no lift,yes,Sarrià-Sant Gervasi
+375,Flat,/en/inmueble/101603612/,198000,Hostafrancs,57,1,1.0,lift,no,Sants-Montjuïc
+376,Flat,/en/inmueble/98567785/,2500000,La Dreta de l'Eixample,258,4,1.0,lift,yes,Eixample
+377,Flat,/en/inmueble/100927225/,410000,El Camp d'En Grassot i Gràcia Nova,84,4,2.0,lift,no,Gràcia
+378,Flat,/en/inmueble/101621459/,270000,La Sagrada Família,88,3,7.0,lift,no,Eixample
+379,Flat,/en/inmueble/101613187/,198000,La Font de la Guatlla,57,1,1.0,lift,no,Sants-Montjuïc
+380,Flat,/en/inmueble/101444539/,650000,Sant Gervasi - Galvany,125,5,1.0,lift,no,Sarrià-Sant Gervasi
+381,Flat,/en/inmueble/101567276/,750000,La Dreta de l'Eixample,120,4,2.0,lift,no,Eixample
+382,Flat,/en/inmueble/100720685/,283000,La Nova Esquerra de l'Eixample,68,2,5.0,lift,no,Eixample
+383,Flat,/en/inmueble/101620429/,198000,La Prosperitat,70,3,1.0,lift,no,Nou Barris
+384,Flat,/en/inmueble/101621634/,280000,El Raval,87,1,3.0,no lift,no,Ciutat Vella
+385,Flat,/en/inmueble/101356661/,250000,El Poble Sec - Parc de Montjuïc,80,2,0.0,no lift,no,Sants-Montjuïc
+386,Flat,/en/inmueble/97699195/,699000,Vila de Gràcia,104,3,1.0,no lift,no,Gràcia
+388,Penthouse,/en/inmueble/101595203/,428000,,82,3,5.0,lift,no,
+389,Flat,/en/inmueble/101624438/,185000,Les Roquetes,65,3,1.0,no lift,no,Nou Barris
+390,Flat,/en/inmueble/101519797/,259000,Sants,62,3,1.0,lift,no,Sants-Montjuïc
+391,Flat,/en/inmueble/91952265/,290000,Sants,70,3,2.0,no lift,no,Sants-Montjuïc
+392,Flat,/en/inmueble/101624330/,445000,Sant Gervasi - Galvany,77,2,1.0,lift,no,Sarrià-Sant Gervasi
+393,Flat,/en/inmueble/101158467/,230000,Sants,46,1,1.0,no lift,no,Sants-Montjuïc
+394,Flat,/en/inmueble/101622871/,750000,La Vila Olímpica del Poblenou,128,4,0.0,lift,yes,Sant Martí
+395,Flat,/en/inmueble/101621065/,830000,Sant Gervasi - Galvany,155,5,3.0,lift,no,Sarrià-Sant Gervasi
+396,House,/en/inmueble/101032609/,775000,Vila de Gràcia,170,4,,no lift,yes,Gràcia
+397,Penthouse,/en/inmueble/85617774/,845000,Sant Gervasi - Galvany,160,5,3.0,lift,yes,Sarrià-Sant Gervasi
+398,Flat,/en/inmueble/97861342/,440000,El Guinardó,109,4,0.0,lift,no,Horta-Guinardó
+399,House,/en/inmueble/101622747/,1600000,Vallvidrera - El Tibidabo i les Planes,472,7,,no lift,yes,Sarrià-Sant Gervasi
+400,Flat,/en/inmueble/100087965/,1020000,La Dreta de l'Eixample,139,3,2.0,lift,no,Eixample
+401,House,/en/inmueble/36369350/,2750000,Vallvidrera - El Tibidabo i les Planes,483,8,,no lift,yes,Sarrià-Sant Gervasi
+402,Duplex,/en/inmueble/98449073/,1795000,La Dreta de l'Eixample,293,4,5.0,lift,no,Eixample
+403,Flat,/en/inmueble/101617599/,150000,La Barceloneta,27,1,3.0,no lift,no,Ciutat Vella
+404,Flat,/en/inmueble/100546607/,510000,La Dreta de l'Eixample,106,3,2.0,lift,no,Eixample
+405,Flat,/en/inmueble/97632803/,295000,El Raval,86,3,2.0,lift,no,Ciutat Vella
+406,Flat,/en/inmueble/99992625/,510000,La Nova Esquerra de l'Eixample,102,4,5.0,lift,no,Eixample
+407,Flat,/en/inmueble/100285900/,980000,Sant Gervasi - Galvany,195,5,2.0,lift,no,Sarrià-Sant Gervasi
+408,Flat,/en/inmueble/100139434/,450000,Sant Gervasi - La Bonanova,135,3,0.0,lift,no,Sarrià-Sant Gervasi
+410,Flat,/en/inmueble/101619688/,1200000,El Gòtic,273,5,1.0,lift,no,Ciutat Vella
+411,Penthouse,/en/inmueble/101173390/,420000,Vila de Gràcia,66,3,,no lift,no,Gràcia
+412,Flat,/en/inmueble/100937441/,360000,El Coll,95,3,1.0,lift,no,Gràcia
+413,Flat,/en/inmueble/98431856/,215000,La Barceloneta,57,3,1.0,lift,no,Ciutat Vella
+414,Flat,/en/inmueble/101010159/,570000,,157,4,1.0,lift,no,
+415,Terraced,/en/inmueble/96535945/,4950000,Pedralbes,750,7,,no lift,yes,Les Corts
+416,Flat,/en/inmueble/101623370/,385000,El Fort Pienc,98,2,1.0,lift,no,Eixample
+417,Flat,/en/inmueble/97141325/,1200000,Sant Pere - Santa Caterina i la Ribera,230,2,1.0,no lift,no,Ciutat Vella
+419,Flat,/en/inmueble/100997099/,820000,Sant Gervasi - La Bonanova,162,3,1.0,lift,no,Sarrià-Sant Gervasi
+423,Flat,/en/inmueble/100479270/,299000,El Camp de l'Arpa del Clot,83,3,2.0,no lift,no,Sant Martí
+424,Flat,/en/inmueble/96084448/,360000,El Raval,52,1,,no lift,no,Ciutat Vella
+429,Penthouse,/en/inmueble/96866443/,256000,El Carmel,83,3,4.0,no lift,no,Horta-Guinardó
+432,Flat,/en/inmueble/101615213/,750000,La Vila Olímpica del Poblenou,165,4,2.0,lift,yes,Sant Martí
+433,Flat,/en/inmueble/97583895/,3600000,Sant Gervasi - Galvany,583,7,7.0,lift,yes,Sarrià-Sant Gervasi
+434,Flat,/en/inmueble/97500398/,795000,Sant Pere - Santa Caterina i la Ribera,88,2,1.0,lift,no,Ciutat Vella
+435,Flat,/en/inmueble/100012777/,265000,Vilapicina i la Torre Llobeta,85,3,2.0,lift,no,Nou Barris
+436,Flat,/en/inmueble/97828646/,535000,Sant Gervasi - Galvany,195,3,3.0,lift,yes,Sarrià-Sant Gervasi
+437,Flat,/en/inmueble/100958843/,245000,La Bordeta,85,4,1.0,lift,no,Sants-Montjuïc
+438,Flat,/en/inmueble/100343277/,230000,Navas,65,3,4.0,lift,no,Sant Andreu
+439,Terraced,/en/inmueble/88129785/,1075000,La Marina del Port,295,5,,no lift,yes,Sants-Montjuïc
+440,Flat,/en/inmueble/97812760/,599000,La Dreta de l'Eixample,96,2,1.0,lift,no,Eixample
+441,Flat,/en/inmueble/99096863/,450000,El Gòtic,152,5,2.0,lift,no,Ciutat Vella
+442,Flat,/en/inmueble/101626829/,750000,La Vila Olímpica del Poblenou,165,4,2.0,lift,yes,Sant Martí
+444,Flat,/en/inmueble/84114683/,1600000,La Dreta de l'Eixample,180,3,6.0,lift,no,Eixample
+446,Flat,/en/inmueble/101184322/,649000,La Nova Esquerra de l'Eixample,170,5,1.0,lift,no,Eixample
+448,Flat,/en/inmueble/100375294/,550000,La Dreta de l'Eixample,110,3,3.0,lift,no,Eixample
+449,House,/en/inmueble/99673590/,660000,La Sagrada Família,145,5,,no lift,no,Eixample
+451,Penthouse,/en/inmueble/101284656/,1140000,La Nova Esquerra de l'Eixample,182,5,8.0,lift,no,Eixample
+452,Flat,/en/inmueble/100018689/,169100,Les Roquetes,110,4,3.0,no lift,no,Nou Barris
+453,Flat,/en/inmueble/101609530/,899000,L'Antiga Esquerra de l'Eixample,129,3,1.0,lift,no,Eixample
+454,Flat,/en/inmueble/99970317/,850000,Sarrià,123,3,2.0,lift,yes,Sarrià-Sant Gervasi
+455,Flat,/en/inmueble/100979333/,196000,El Coll,62,3,2.0,lift,no,Gràcia
+456,Flat,/en/inmueble/101029410/,975000,La Dreta de l'Eixample,103,1,3.0,lift,no,Eixample
+459,Flat,/en/inmueble/99966827/,590000,Sants,165,5,14.0,lift,no,Sants-Montjuïc
+460,Flat,/en/inmueble/99803688/,840000,Sarrià,125,5,1.0,lift,yes,Sarrià-Sant Gervasi
+463,Flat,/en/inmueble/100692923/,295355,El Camp de l'Arpa del Clot,65,4,1.0,lift,no,Sant Martí
+465,Penthouse,/en/inmueble/99733525/,725000,El Camp d'En Grassot i Gràcia Nova,99,3,9.0,lift,no,Gràcia
+466,Terraced,/en/inmueble/98889613/,1200000,Vallcarca i els Penitents,264,4,,no lift,yes,Gràcia
+467,Penthouse,/en/inmueble/101627262/,350000,Vila de Gràcia,54,1,1.0,no lift,no,Gràcia
+468,Duplex,/en/inmueble/101392682/,1095000,El Poble Sec - Parc de Montjuïc,189,5,5.0,lift,no,Sants-Montjuïc
+469,Penthouse,/en/inmueble/100797571/,195000,La Teixonera,65,2,4.0,no lift,no,Horta-Guinardó
+470,Flat,/en/inmueble/99561116/,110000,La Verneda i la Pau,51,2,2.0,lift,no,Sant Martí
+471,Penthouse,/en/inmueble/98287086/,1490000,El Putxet i el Farró,169,3,4.0,lift,no,Sarrià-Sant Gervasi
+472,Flat,/en/inmueble/101625842/,652500,El Camp d'En Grassot i Gràcia Nova,116,2,1.0,lift,no,Gràcia
+473,Flat,/en/inmueble/101604431/,690000,El Gòtic,135,3,1.0,lift,no,Ciutat Vella
+474,Flat,/en/inmueble/100882871/,535000,,106,3,5.0,lift,no,
+475,Flat,/en/inmueble/96509669/,410000,Sant Gervasi - Galvany,98,4,0.0,lift,no,Sarrià-Sant Gervasi
+476,Flat,/en/inmueble/98210897/,427250,El Putxet i el Farró,50,1,3.0,lift,no,Sarrià-Sant Gervasi
+477,Flat,/en/inmueble/101615268/,315000,Horta,86,2,0.0,lift,yes,Horta-Guinardó
+478,Penthouse,/en/inmueble/98512318/,190000,El Carmel,69,3,4.0,no lift,no,Horta-Guinardó
+479,Flat,/en/inmueble/101613384/,395000,Sant Pere - Santa Caterina i la Ribera,80,2,4.0,no lift,no,Ciutat Vella
+481,Penthouse,/en/inmueble/101620690/,375000,El Raval,78,2,5.0,no lift,no,Ciutat Vella
+482,Flat,/en/inmueble/101625867/,453000,Sants,82,2,2.0,lift,no,Sants-Montjuïc
+484,Flat,/en/inmueble/100663693/,1050000,L'Antiga Esquerra de l'Eixample,270,7,2.0,lift,no,Eixample
+485,Flat,/en/inmueble/101559956/,1250000,Sant Gervasi - La Bonanova,262,4,7.0,lift,no,Sarrià-Sant Gervasi
+487,Duplex,/en/inmueble/101625215/,430000,La Maternitat i Sant Ramon,105,3,8.0,lift,no,Les Corts
+488,Flat,/en/inmueble/101617415/,215000,El Poble Sec - Parc de Montjuïc,51,2,2.0,no lift,no,Sants-Montjuïc
+489,Flat,/en/inmueble/101478731/,585000,L'Antiga Esquerra de l'Eixample,111,4,6.0,lift,no,Eixample
+491,Flat,/en/inmueble/101556151/,995000,La Dreta de l'Eixample,160,4,1.0,lift,no,Eixample
+492,Flat,/en/inmueble/101610339/,260000,Vila de Gràcia,73,2,0.0,lift,no,Gràcia
+493,Flat,/en/inmueble/101605117/,300000,El Congrés i els Indians,90,3,4.0,lift,no,Sant Andreu
+494,Flat,/en/inmueble/100108707/,315000,El Fort Pienc,63,1,2.0,lift,no,Eixample
+495,Flat,/en/inmueble/101606582/,198000,Hostafrancs,57,1,1.0,lift,no,Sants-Montjuïc
+496,Flat,/en/inmueble/101605768/,339000,La Nova Esquerra de l'Eixample,75,2,2.0,lift,no,Eixample
+497,Flat,/en/inmueble/100579289/,345000,Sant Antoni,80,4,1.0,lift,no,Eixample
+498,Penthouse,/en/inmueble/101602559/,379000,La Maternitat i Sant Ramon,85,4,8.0,lift,no,Les Corts
+499,Flat,/en/inmueble/101604406/,750000,La Vila Olímpica del Poblenou,128,4,2.0,lift,yes,Sant Martí
+500,Flat,/en/inmueble/101617607/,595000,L'Antiga Esquerra de l'Eixample,82,2,2.0,lift,no,Eixample
+501,Flat,/en/inmueble/101611056/,835000,El Gòtic,202,6,2.0,lift,no,Ciutat Vella
+502,Flat,/en/inmueble/101618281/,300000,El Congrés i els Indians,90,3,5.0,lift,no,Sant Andreu
+503,Flat,/en/inmueble/101605938/,630000,La Dreta de l'Eixample,485,16,1.0,no lift,no,Eixample
+505,Flat,/en/inmueble/101603519/,1300000,Sant Gervasi - Galvany,200,10,1.0,lift,no,Sarrià-Sant Gervasi
+506,Flat,/en/inmueble/101618789/,1580000,La Dreta de l'Eixample,198,5,5.0,lift,no,Eixample
+507,Flat,/en/inmueble/101618910/,225000,Sants,73,2,1.0,no lift,no,Sants-Montjuïc
+508,Flat,/en/inmueble/100098386/,575000,El Fort Pienc,115,3,2.0,lift,no,Eixample
+509,Flat,/en/inmueble/101596238/,290000,La Sagrada Família,55,2,1.0,no lift,no,Eixample
+510,Flat,/en/inmueble/100118786/,450000,El Fort Pienc,95,2,2.0,lift,no,Eixample
+511,Flat,/en/inmueble/100389517/,475000,Sant Antoni,117,4,5.0,lift,no,Eixample
+515,Flat,/en/inmueble/100098957/,500000,El Fort Pienc,103,2,2.0,lift,no,Eixample
+517,Flat,/en/inmueble/100144635/,699000,Sant Gervasi - La Bonanova,161,5,2.0,lift,no,Sarrià-Sant Gervasi
+518,Flat,/en/inmueble/99935739/,1200000,Sant Antoni,224,4,4.0,lift,no,Eixample
+519,Flat,/en/inmueble/100769679/,625000,La Nova Esquerra de l'Eixample,102,3,6.0,lift,no,Eixample
+520,Penthouse,/en/inmueble/101269695/,387000,,105,3,6.0,lift,no,
+521,Flat,/en/inmueble/101602854/,159000,Sants,51,3,0.0,lift,no,Sants-Montjuïc
+522,Flat,/en/inmueble/101613972/,398000,,114,3,5.0,lift,yes,
+523,House,/en/inmueble/101586658/,265000,La Font d'En Fargues,152,3,,no lift,no,Horta-Guinardó
+524,Flat,/en/inmueble/96197895/,550000,L'Antiga Esquerra de l'Eixample,110,4,2.0,lift,no,Eixample
+525,Flat,/en/inmueble/101626522/,665000,Sant Gervasi - La Bonanova,111,3,0.0,lift,no,Sarrià-Sant Gervasi
+526,Flat,/en/inmueble/101624615/,290000,El Baix Guinardó,63,2,0.0,lift,no,Horta-Guinardó
+527,Duplex,/en/inmueble/98680408/,1690000,La Barceloneta,111,3,1.0,no lift,no,Ciutat Vella
+528,Penthouse,/en/inmueble/101319745/,545000,El Poblenou,72,2,5.0,lift,no,Sant Martí
+529,Flat,/en/inmueble/90463250/,475000,L'Antiga Esquerra de l'Eixample,110,5,1.0,lift,no,Eixample
+530,Flat,/en/inmueble/101591613/,1428000,La Dreta de l'Eixample,164,3,2.0,lift,no,Eixample
+531,Flat,/en/inmueble/101608256/,750000,El Poblenou,148,3,0.0,no lift,no,Sant Martí
+532,Penthouse,/en/inmueble/101611743/,428000,,80,3,5.0,lift,no,
+533,Flat,/en/inmueble/100488558/,650000,El Gòtic,187,4,3.0,no lift,no,Ciutat Vella
+535,Flat,/en/inmueble/101623282/,260000,El Congrés i els Indians,52,1,2.0,lift,no,Sant Andreu
+536,Flat,/en/inmueble/100720081/,879000,Les Tres Torres,160,5,2.0,lift,yes,Sarrià-Sant Gervasi
+537,Flat,/en/inmueble/100231774/,595000,Sant Gervasi - Galvany,110,2,5.0,lift,no,Sarrià-Sant Gervasi
+538,Flat,/en/inmueble/100763495/,399000,L'Antiga Esquerra de l'Eixample,100,4,2.0,lift,no,Eixample
+539,Flat,/en/inmueble/100796897/,1550000,Les Tres Torres,281,5,1.0,lift,yes,Sarrià-Sant Gervasi
+544,Flat,/en/inmueble/100990316/,390000,El Gòtic,105,3,,no lift,no,Ciutat Vella
+545,Penthouse,/en/inmueble/100057774/,815000,L'Antiga Esquerra de l'Eixample,170,3,8.0,lift,no,Eixample
+547,Flat,/en/inmueble/101592497/,270000,El Gòtic,62,2,1.0,no lift,no,Ciutat Vella
+548,Flat,/en/inmueble/100762006/,655000,La Dreta de l'Eixample,84,2,3.0,lift,no,Eixample
+549,Flat,/en/inmueble/91841904/,350000,La Maternitat i Sant Ramon,80,3,1.0,no lift,no,Les Corts
+551,Penthouse,/en/inmueble/101187702/,645000,,129,4,,no lift,no,
+552,Flat,/en/inmueble/101594638/,428000,,75,3,5.0,lift,no,
+554,Flat,/en/inmueble/101624756/,449900,El Fort Pienc,100,3,6.0,lift,no,Eixample
+556,Duplex,/en/inmueble/99349452/,425000,La Barceloneta,117,3,,no lift,no,Ciutat Vella
+557,Flat,/en/inmueble/101571308/,2400000,La Dreta de l'Eixample,197,5,3.0,lift,no,Eixample
+558,Flat,/en/inmueble/101583108/,690000,Vallcarca i els Penitents,160,3,1.0,lift,no,Gràcia
+559,Flat,/en/inmueble/98680063/,300000,La Sagrada Família,88,3,,no lift,no,Eixample
+560,Flat,/en/inmueble/99475987/,1690000,Sant Gervasi - Galvany,266,4,4.0,lift,no,Sarrià-Sant Gervasi
+561,Duplex,/en/inmueble/101617656/,1150000,,282,5,9.0,lift,yes,
+562,Penthouse,/en/inmueble/99089125/,685000,La Sagrada Família,93,3,5.0,lift,no,Eixample
+563,Flat,/en/inmueble/101624329/,140000,Ciutat Meridiana - Torre Baró - Vallbona,64,3,,no lift,no,Nou Barris
+564,Penthouse,/en/inmueble/100383744/,475000,L'Antiga Esquerra de l'Eixample,84,2,6.0,lift,no,Eixample
+565,Flat,/en/inmueble/101607533/,300000,El Congrés i els Indians,90,3,4.0,lift,no,Sant Andreu
+566,Flat,/en/inmueble/101625232/,248000,La Sagrada Família,56,3,4.0,lift,no,Eixample
+567,Penthouse,/en/inmueble/101600190/,279800,,59,3,5.0,lift,no,
+568,Flat,/en/inmueble/101617390/,379000,La Sagrera,118,4,4.0,lift,no,Sant Andreu
+569,Flat,/en/inmueble/99926442/,76000,El Besòs,54,3,1.0,no lift,no,Sant Andreu
+572,Flat,/en/inmueble/101625142/,279000,Sants,86,3,3.0,no lift,no,Sants-Montjuïc
+573,Flat,/en/inmueble/101625149/,925000,,205,5,1.0,lift,no,
+577,Flat,/en/inmueble/101624348/,620000,Sant Antoni,136,3,6.0,no lift,no,Eixample
+579,Flat,/en/inmueble/101611679/,428000,,80,3,6.0,lift,no,
+580,Flat,/en/inmueble/101525040/,1290000,La Dreta de l'Eixample,171,4,,no lift,yes,Eixample
+581,Flat,/en/inmueble/101611342/,750000,La Vila Olímpica del Poblenou,165,4,2.0,lift,no,Sant Martí
+582,Flat,/en/inmueble/101617932/,847500,El Raval,163,3,4.0,lift,no,Ciutat Vella
+583,Flat,/en/inmueble/101625246/,244900,La Trinitat Vella,170,4,0.0,no lift,no,Sant Andreu
+584,Penthouse,/en/inmueble/101604774/,559200,La Sagrada Família,97,2,5.0,lift,yes,Eixample
+586,Flat,/en/inmueble/101620446/,240000,Porta,76,3,3.0,lift,no,Nou Barris
+587,Flat,/en/inmueble/101618197/,399000,,91,3,4.0,lift,no,
+588,Flat,/en/inmueble/99726971/,295000,Vallcarca i els Penitents,86,4,1.0,lift,yes,Gràcia
+589,Flat,/en/inmueble/101096357/,920000,La Dreta de l'Eixample,105,2,3.0,lift,no,Eixample
+590,Flat,/en/inmueble/101610452/,315000,La Sagrada Família,80,4,1.0,lift,no,Eixample
+591,Flat,/en/inmueble/101353937/,640000,La Dreta de l'Eixample,117,3,3.0,lift,no,Eixample
+592,Flat,/en/inmueble/101625005/,240000,La Guineueta,65,4,1.0,lift,no,Nou Barris
+593,Flat,/en/inmueble/101605956/,299000,Sants,63,2,6.0,lift,no,Sants-Montjuïc
+594,Flat,/en/inmueble/101619576/,300000,El Congrés i els Indians,90,3,4.0,lift,no,Sant Andreu
+595,Flat,/en/inmueble/101614394/,699000,La Nova Esquerra de l'Eixample,250,4,1.0,lift,no,Eixample
+596,Flat,/en/inmueble/101610846/,300000,El Congrés i els Indians,90,3,4.0,lift,no,Sant Andreu
+597,Duplex,/en/inmueble/101610257/,740000,,170,4,8.0,lift,no,
+599,Flat,/en/inmueble/101624633/,340000,El Camp d'En Grassot i Gràcia Nova,129,3,0.0,lift,no,Gràcia
+602,Flat,/en/inmueble/100890343/,990000,Pedralbes,150,5,8.0,lift,yes,Les Corts
+603,Flat,/en/inmueble/91871835/,2600000,Pedralbes,240,4,3.0,lift,yes,Les Corts
+604,Flat,/en/inmueble/101613951/,319500,Provençals del Poblenou,96,3,1.0,lift,no,Sant Martí
+605,Flat,/en/inmueble/101619111/,259000,Sants,62,3,1.0,lift,no,Sants-Montjuïc
+606,Flat,/en/inmueble/97614928/,965000,Sant Gervasi - Galvany,290,4,4.0,lift,yes,Sarrià-Sant Gervasi
+607,Flat,/en/inmueble/101474513/,3500000,La Dreta de l'Eixample,290,5,4.0,lift,no,Eixample
+608,Flat,/en/inmueble/101612766/,405000,El Guinardó,93,3,2.0,lift,no,Horta-Guinardó
+609,Flat,/en/inmueble/101602432/,750000,La Vila Olímpica del Poblenou,165,4,0.0,lift,yes,Sant Martí
+610,Flat,/en/inmueble/101622905/,385000,La Dreta de l'Eixample,71,2,0.0,lift,yes,Eixample
+611,Flat,/en/inmueble/87294786/,1995000,Sant Gervasi - Galvany,367,6,4.0,lift,no,Sarrià-Sant Gervasi
+612,House,/en/inmueble/101170920/,1600000,Vallcarca i els Penitents,404,7,,no lift,yes,Gràcia
+613,Flat,/en/inmueble/101602884/,750000,La Vila Olímpica del Poblenou,128,4,1.0,lift,yes,Sant Martí
+614,Flat,/en/inmueble/100934636/,2149000,Pedralbes,195,5,1.0,lift,no,Les Corts
+615,Penthouse,/en/inmueble/96691900/,1090000,Sant Gervasi - Galvany,150,3,8.0,lift,no,Sarrià-Sant Gervasi
+616,Flat,/en/inmueble/101120527/,147500,Can Peguera - El Turó de la Peira,59,3,4.0,no lift,no,Nou Barris
+617,Flat,/en/inmueble/101339916/,580000,,114,3,0.0,no lift,no,
+618,Flat,/en/inmueble/100601612/,340000,El Carmel,145,4,2.0,lift,no,Horta-Guinardó
+619,Flat,/en/inmueble/96965683/,1090000,Sant Gervasi - Galvany,149,3,8.0,lift,no,Sarrià-Sant Gervasi
+620,Flat,/en/inmueble/101344700/,320000,L'Antiga Esquerra de l'Eixample,61,3,3.0,lift,no,Eixample
+621,Flat,/en/inmueble/101183050/,540000,El Gòtic,130,4,2.0,lift,no,Ciutat Vella
+622,Flat,/en/inmueble/98269201/,550000,El Poblenou,312,3,,no lift,no,Sant Martí
+623,Flat,/en/inmueble/100683533/,675000,Sant Gervasi - Galvany,149,4,1.0,lift,no,Sarrià-Sant Gervasi
+624,House,/en/inmueble/101262103/,1490000,Sant Gervasi - La Bonanova,151,4,,no lift,no,Sarrià-Sant Gervasi
+625,Flat,/en/inmueble/99890509/,950000,Sant Gervasi - Galvany,207,5,2.0,lift,no,Sarrià-Sant Gervasi
+626,Flat,/en/inmueble/101615105/,300000,El Congrés i els Indians,90,3,4.0,lift,no,Sant Andreu
+627,Flat,/en/inmueble/100320064/,480000,La Nova Esquerra de l'Eixample,115,4,4.0,lift,no,Eixample
+629,Flat,/en/inmueble/100454446/,310000,Sant Antoni,86,3,4.0,lift,no,Eixample
+630,Flat,/en/inmueble/101613198/,275000,El Baix Guinardó,63,3,1.0,lift,no,Horta-Guinardó
+633,Flat,/en/inmueble/100923748/,1490000,El Gòtic,300,7,2.0,lift,no,Ciutat Vella
+634,Flat,/en/inmueble/100064228/,1195000,La Dreta de l'Eixample,195,3,10.0,lift,no,Eixample
+635,House,/en/inmueble/96718205/,1250000,El Putxet i el Farró,487,4,,no lift,no,Sarrià-Sant Gervasi
+636,Flat,/en/inmueble/97813064/,602000,La Dreta de l'Eixample,96,2,5.0,lift,no,Eixample
+637,Flat,/en/inmueble/101612472/,315000,La Sagrada Família,80,4,,no lift,no,Eixample
+638,Flat,/en/inmueble/100629626/,280000,El Poble Sec - Parc de Montjuïc,68,2,3.0,lift,no,Sants-Montjuïc
+639,Flat,/en/inmueble/101528724/,825000,El Gòtic,97,3,1.0,no lift,no,Ciutat Vella
+640,Flat,/en/inmueble/101617620/,344000,El Camp de l'Arpa del Clot,75,3,4.0,lift,no,Sant Martí
+641,Flat,/en/inmueble/101610353/,535500,El Putxet i el Farró,83,2,2.0,lift,no,Sarrià-Sant Gervasi
+642,Flat,/en/inmueble/101610334/,435000,Sants,87,4,7.0,lift,no,Sants-Montjuïc
+643,Penthouse,/en/inmueble/100994243/,620000,El Camp d'En Grassot i Gràcia Nova,96,3,5.0,lift,no,Gràcia
+644,Flat,/en/inmueble/101163544/,215000,El Camp d'En Grassot i Gràcia Nova,47,2,1.0,no lift,no,Gràcia
+646,Flat,/en/inmueble/99851679/,730000,L'Antiga Esquerra de l'Eixample,178,4,2.0,lift,no,Eixample
+647,Flat,/en/inmueble/100260152/,695000,Pedralbes,105,4,8.0,lift,no,Les Corts
+648,Flat,/en/inmueble/100918056/,1500000,Sant Gervasi - Galvany,200,4,1.0,lift,yes,Sarrià-Sant Gervasi
+649,Flat,/en/inmueble/93702927/,1150000,La Dreta de l'Eixample,181,3,3.0,lift,no,Eixample
+650,Flat,/en/inmueble/101223692/,149000,El Raval,41,2,3.0,no lift,no,Ciutat Vella
+652,Flat,/en/inmueble/97367283/,1250000,,215,5,7.0,lift,yes,
+653,Flat,/en/inmueble/101606577/,370000,La Nova Esquerra de l'Eixample,95,3,2.0,lift,no,Eixample
+654,Flat,/en/inmueble/99711669/,460000,L'Antiga Esquerra de l'Eixample,63,2,1.0,no lift,no,Eixample
+655,Flat,/en/inmueble/97112390/,550000,,90,4,5.0,lift,no,
+656,Flat,/en/inmueble/97585421/,109000,Ciutat Meridiana - Torre Baró - Vallbona,72,3,0.0,no lift,no,Nou Barris
+657,Flat,/en/inmueble/92710574/,235000,El Raval,65,2,1.0,no lift,no,Ciutat Vella
+658,House,/en/inmueble/99936989/,1725000,Horta,668,17,,no lift,yes,Horta-Guinardó
+659,Flat,/en/inmueble/95464865/,740000,El Gòtic,195,4,3.0,lift,no,Ciutat Vella
+660,Flat,/en/inmueble/101246427/,750000,L'Antiga Esquerra de l'Eixample,155,4,1.0,lift,no,Eixample
+661,Flat,/en/inmueble/101614307/,365000,El Guinardó,100,3,2.0,lift,no,Horta-Guinardó
+663,Flat,/en/inmueble/98691779/,790000,La Dreta de l'Eixample,105,3,1.0,lift,no,Eixample
+665,Flat,/en/inmueble/100720693/,260000,Vilapicina i la Torre Llobeta,85,4,5.0,lift,no,Nou Barris
+666,Flat,/en/inmueble/98285241/,3600000,Sant Gervasi - Galvany,484,7,7.0,no lift,yes,Sarrià-Sant Gervasi
+667,Terraced,/en/inmueble/98394977/,329000,Horta,95,2,,no lift,no,Horta-Guinardó
+668,Flat,/en/inmueble/100868336/,249000,El Poblenou,57,3,3.0,lift,no,Sant Martí
+670,Flat,/en/inmueble/101610057/,219000,El Poble Sec - Parc de Montjuïc,90,3,0.0,lift,no,Sants-Montjuïc
+675,Flat,/en/inmueble/100026242/,1300000,La Dreta de l'Eixample,211,6,,no lift,no,Eixample
+677,Flat,/en/inmueble/100684527/,890000,L'Antiga Esquerra de l'Eixample,205,5,6.0,lift,no,Eixample
+680,Flat,/en/inmueble/101128667/,528000,,90,3,1.0,lift,no,
+683,Flat,/en/inmueble/101308853/,1150000,Sant Gervasi - Galvany,205,4,3.0,lift,yes,Sarrià-Sant Gervasi
+685,Flat,/en/inmueble/99017571/,840000,El Gòtic,176,3,3.0,no lift,no,Ciutat Vella
+689,Penthouse,/en/inmueble/99736872/,850000,El Baix Guinardó,190,3,10.0,lift,no,Horta-Guinardó
+690,Flat,/en/inmueble/101607814/,730000,La Dreta de l'Eixample,154,4,1.0,lift,no,Eixample
+691,Penthouse,/en/inmueble/101458059/,2500000,Sant Pere - Santa Caterina i la Ribera,300,2,4.0,lift,no,Ciutat Vella
+692,Flat,/en/inmueble/95890216/,980000,La Maternitat i Sant Ramon,151,3,3.0,lift,no,Les Corts
+693,Flat,/en/inmueble/101619572/,795000,Sant Pere - Santa Caterina i la Ribera,88,2,1.0,lift,no,Ciutat Vella
+694,House,/en/inmueble/101220886/,1650000,Vallvidrera - El Tibidabo i les Planes,359,5,,no lift,yes,Sarrià-Sant Gervasi
+695,Flat,/en/inmueble/101621474/,280000,La Marina del Port,76,3,3.0,lift,no,Sants-Montjuïc
+696,House,/en/inmueble/101559950/,3900000,Pedralbes,738,5,,no lift,yes,Les Corts
+698,Flat,/en/inmueble/101600421/,129000,Can Peguera - El Turó de la Peira,69,2,4.0,lift,no,Nou Barris
+700,Terraced,/en/inmueble/101625284/,500000,Horta,224,6,,no lift,no,Horta-Guinardó
+701,Flat,/en/inmueble/101588164/,1900000,La Dreta de l'Eixample,293,4,,no lift,no,Eixample
+702,Flat,/en/inmueble/101617006/,200000,El Guinardó,61,2,0.0,lift,no,Horta-Guinardó
+703,Flat,/en/inmueble/101626308/,157300,La Sagrera,62,3,0.0,no lift,no,Sant Andreu
+704,Flat,/en/inmueble/101611450/,385000,El Camp de l'Arpa del Clot,94,4,7.0,lift,yes,Sant Martí
+705,Flat,/en/inmueble/99129215/,410000,La Nova Esquerra de l'Eixample,115,3,1.0,lift,no,Eixample
+708,Flat,/en/inmueble/99362708/,419000,La Sagrada Família,126,4,1.0,lift,no,Eixample
+710,Flat,/en/inmueble/101618567/,300000,El Congrés i els Indians,90,3,4.0,lift,no,Sant Andreu
+711,House,/en/inmueble/101588155/,2100000,Sarrià,486,4,,no lift,no,Sarrià-Sant Gervasi
+712,Flat,/en/inmueble/101609234/,750000,La Vila Olímpica del Poblenou,165,4,2.0,lift,yes,Sant Martí
+713,Penthouse,/en/inmueble/101588175/,1825000,Pedralbes,218,4,2.0,lift,yes,Les Corts
+714,Flat,/en/inmueble/100754536/,749000,El Gòtic,120,3,1.0,lift,no,Ciutat Vella
+715,Flat,/en/inmueble/99577836/,529000,Sant Gervasi - Galvany,97,3,2.0,lift,yes,Sarrià-Sant Gervasi
+716,Penthouse,/en/inmueble/101263848/,1150000,El Fort Pienc,171,4,10.0,lift,no,Eixample
+717,Flat,/en/inmueble/101607985/,870000,El Gòtic,262,7,4.0,lift,no,Ciutat Vella
+718,Flat,/en/inmueble/98956576/,1300000,Vila de Gràcia,200,5,4.0,lift,no,Gràcia
+719,Flat,/en/inmueble/97005119/,1550000,La Dreta de l'Eixample,210,4,3.0,lift,no,Eixample
+720,Flat,/en/inmueble/96200048/,655000,L'Antiga Esquerra de l'Eixample,158,4,6.0,lift,no,Eixample
+722,Flat,/en/inmueble/101551113/,1330000,Sarrià,234,5,3.0,lift,yes,Sarrià-Sant Gervasi
+723,Flat,/en/inmueble/100070950/,324000,La Nova Esquerra de l'Eixample,92,3,1.0,lift,no,Eixample
+724,Flat,/en/inmueble/100766971/,890000,La Dreta de l'Eixample,172,3,1.0,lift,no,Eixample
+725,Flat,/en/inmueble/101563823/,780000,La Dreta de l'Eixample,143,4,1.0,lift,no,Eixample
+726,Flat,/en/inmueble/101598762/,425000,La Sagrada Família,91,3,5.0,lift,no,Eixample
+727,Duplex,/en/inmueble/101607066/,448000,Vilapicina i la Torre Llobeta,126,2,0.0,lift,no,Nou Barris
+728,Flat,/en/inmueble/101607423/,990000,Sant Gervasi - La Bonanova,150,3,2.0,lift,yes,Sarrià-Sant Gervasi
+729,Flat,/en/inmueble/101336639/,388000,El Poble Sec - Parc de Montjuïc,98,4,7.0,lift,no,Sants-Montjuïc
+730,Flat,/en/inmueble/101607406/,362000,Vilapicina i la Torre Llobeta,54,2,1.0,lift,no,Nou Barris
+731,Flat,/en/inmueble/101594893/,235000,El Bon Pastor,110,4,5.0,no lift,no,Sant Andreu
+732,Flat,/en/inmueble/101598255/,625000,El Fort Pienc,131,3,2.0,lift,no,Eixample
+733,Flat,/en/inmueble/101607374/,258000,Vilapicina i la Torre Llobeta,46,1,1.0,lift,no,Nou Barris
+734,Flat,/en/inmueble/101613205/,390000,La Nova Esquerra de l'Eixample,95,4,3.0,lift,no,Eixample
+735,Duplex,/en/inmueble/101607419/,524000,Vilapicina i la Torre Llobeta,79,3,2.0,lift,no,Nou Barris
+736,Flat,/en/inmueble/101625751/,155000,La Trinitat Nova,65,3,3.0,lift,no,Nou Barris
+737,Flat,/en/inmueble/101607417/,338000,Vilapicina i la Torre Llobeta,59,2,1.0,lift,no,Nou Barris
+738,Duplex,/en/inmueble/101607082/,356000,Vilapicina i la Torre Llobeta,107,1,0.0,lift,no,Nou Barris
+739,Duplex,/en/inmueble/101607418/,556000,Vilapicina i la Torre Llobeta,80,3,2.0,lift,no,Nou Barris
+740,Duplex,/en/inmueble/101606421/,3100000,Sant Gervasi - Galvany,524,5,0.0,lift,yes,Sarrià-Sant Gervasi
+741,Flat,/en/inmueble/100977046/,690000,La Dreta de l'Eixample,164,4,2.0,lift,no,Eixample
+743,Flat,/en/inmueble/99811467/,600000,La Dreta de l'Eixample,112,4,5.0,lift,no,Eixample
+744,Flat,/en/inmueble/100918052/,530000,El Guinardó,100,4,2.0,lift,yes,Horta-Guinardó
+746,Flat,/en/inmueble/101255396/,445000,Vallcarca i els Penitents,96,3,2.0,lift,yes,Gràcia
+747,Flat,/en/inmueble/99290548/,590000,La Nova Esquerra de l'Eixample,139,4,6.0,lift,yes,Eixample
+748,Flat,/en/inmueble/101404892/,372000,Sant Antoni,97,4,1.0,no lift,no,Eixample
+749,Flat,/en/inmueble/101603021/,220000,El Raval,81,3,1.0,lift,no,Ciutat Vella
+751,Flat,/en/inmueble/37501709/,845000,L'Antiga Esquerra de l'Eixample,105,3,4.0,lift,no,Eixample
+752,Flat,/en/inmueble/101615222/,210000,La Sagrada Família,54,1,7.0,lift,no,Eixample
+753,Flat,/en/inmueble/101539458/,164500,El Raval,47,2,1.0,lift,no,Ciutat Vella
+754,Flat,/en/inmueble/98522072/,355000,El Raval,98,3,2.0,lift,no,Ciutat Vella
+755,Flat,/en/inmueble/101607611/,125000,La Trinitat Vella,65,2,1.0,no lift,no,Sant Andreu
+756,Flat,/en/inmueble/101441886/,473000,La Nova Esquerra de l'Eixample,122,5,2.0,no lift,no,Eixample
+758,Flat,/en/inmueble/101608711/,1090000,Sant Gervasi - Galvany,149,3,,no lift,no,Sarrià-Sant Gervasi
+759,Flat,/en/inmueble/101615266/,210000,El Camp d'En Grassot i Gràcia Nova,54,1,7.0,lift,no,Gràcia
+760,Flat,/en/inmueble/100041729/,329000,Sant Antoni,70,2,0.0,lift,no,Eixample
+761,Flat,/en/inmueble/101600301/,149000,El Carmel,59,3,2.0,no lift,no,Horta-Guinardó
+762,Flat,/en/inmueble/101613787/,345000,Sants,93,4,4.0,lift,no,Sants-Montjuïc
+763,Flat,/en/inmueble/101608169/,149700,El Congrés i els Indians,56,2,1.0,lift,no,Sant Andreu
+764,Flat,/en/inmueble/101243109/,400000,L'Antiga Esquerra de l'Eixample,103,3,1.0,lift,no,Eixample
+765,Flat,/en/inmueble/99812809/,780000,La Dreta de l'Eixample,182,4,2.0,lift,yes,Eixample
+767,Flat,/en/inmueble/101384777/,1500000,Sant Gervasi - La Bonanova,196,3,4.0,lift,yes,Sarrià-Sant Gervasi
+768,Flat,/en/inmueble/101544369/,795000,El Poblenou,131,2,2.0,lift,yes,Sant Martí
+769,Flat,/en/inmueble/100321834/,265000,Vilapicina i la Torre Llobeta,90,4,4.0,lift,no,Nou Barris
+770,Flat,/en/inmueble/101617831/,680000,L'Antiga Esquerra de l'Eixample,91,2,4.0,lift,no,Eixample
+773,Penthouse,/en/inmueble/101445344/,1090000,Sant Gervasi - Galvany,136,3,8.0,lift,no,Sarrià-Sant Gervasi
+774,Flat,/en/inmueble/101619910/,650000,La Nova Esquerra de l'Eixample,104,3,3.0,lift,no,Eixample
+775,Flat,/en/inmueble/101617806/,630000,L'Antiga Esquerra de l'Eixample,92,3,2.0,lift,no,Eixample
+776,Flat,/en/inmueble/101621917/,420000,La Sagrada Família,110,3,2.0,lift,no,Eixample
+777,Terraced,/en/inmueble/99155482/,1900000,Sarrià,419,5,,no lift,yes,Sarrià-Sant Gervasi
+778,Flat,/en/inmueble/101606087/,220000,La Bordeta,68,2,1.0,lift,no,Sants-Montjuïc
+779,Flat,/en/inmueble/101617655/,655000,L'Antiga Esquerra de l'Eixample,93,2,3.0,lift,no,Eixample
+781,Flat,/en/inmueble/101277853/,195000,La Sagrera,57,2,4.0,lift,no,Sant Andreu
+782,Flat,/en/inmueble/100314456/,1495000,Sant Gervasi - Galvany,233,6,2.0,lift,yes,Sarrià-Sant Gervasi
+783,Flat,/en/inmueble/101544371/,750000,Sant Gervasi - Galvany,127,3,1.0,lift,yes,Sarrià-Sant Gervasi
+790,Flat,/en/inmueble/101605573/,81000,El Raval,55,2,2.0,no lift,no,Ciutat Vella
+792,Flat,/en/inmueble/101288132/,875000,La Dreta de l'Eixample,142,5,1.0,lift,no,Eixample
+793,Flat,/en/inmueble/98269826/,2200000,La Dreta de l'Eixample,394,9,3.0,lift,no,Eixample
+794,Flat,/en/inmueble/101617074/,630000,L'Antiga Esquerra de l'Eixample,92,3,2.0,lift,no,Eixample
+795,Flat,/en/inmueble/100798587/,750000,,108,3,8.0,lift,no,
+796,Duplex,/en/inmueble/97251660/,1600000,La Dreta de l'Eixample,200,3,5.0,lift,no,Eixample
+798,House,/en/inmueble/100508876/,2395000,Sant Gervasi - La Bonanova,600,6,,no lift,yes,Sarrià-Sant Gervasi
+799,Flat,/en/inmueble/98430838/,540000,El Gòtic,65,2,1.0,lift,no,Ciutat Vella
+800,Penthouse,/en/inmueble/101606669/,439000,La Maternitat i Sant Ramon,85,3,8.0,lift,no,Les Corts
+801,Flat,/en/inmueble/101617247/,675000,L'Antiga Esquerra de l'Eixample,93,2,4.0,lift,no,Eixample
+802,Flat,/en/inmueble/101612872/,500000,,96,4,7.0,lift,no,
+803,Flat,/en/inmueble/101617144/,655000,L'Antiga Esquerra de l'Eixample,93,2,3.0,lift,no,Eixample
+804,Flat,/en/inmueble/98430519/,620000,El Gòtic,91,3,1.0,lift,no,Ciutat Vella
+805,Flat,/en/inmueble/101617244/,680000,L'Antiga Esquerra de l'Eixample,91,2,4.0,lift,no,Eixample
+806,Flat,/en/inmueble/101617127/,595000,L'Antiga Esquerra de l'Eixample,82,2,2.0,lift,no,Eixample
+807,Flat,/en/inmueble/101617163/,720000,L'Antiga Esquerra de l'Eixample,92,3,6.0,lift,no,Eixample
+808,Flat,/en/inmueble/101217006/,385000,El Parc i la Llacuna del Poblenou,86,3,2.0,lift,no,Sant Martí
+809,Flat,/en/inmueble/101625686/,369000,,88,3,3.0,lift,no,
+810,House,/en/inmueble/101612436/,595000,Sarrià,127,3,,no lift,no,Sarrià-Sant Gervasi
+813,Flat,/en/inmueble/98448906/,1690000,La Barceloneta,111,3,1.0,no lift,no,Ciutat Vella
+814,Flat,/en/inmueble/101159919/,410000,La Sagrada Família,72,1,4.0,no lift,no,Eixample
+818,Flat,/en/inmueble/100243075/,835000,Sant Gervasi - Galvany,101,4,4.0,lift,yes,Sarrià-Sant Gervasi
+822,Flat,/en/inmueble/96086013/,700000,Sants,350,4,0.0,no lift,no,Sants-Montjuïc
+823,Flat,/en/inmueble/100336618/,355000,El Baix Guinardó,100,3,2.0,lift,no,Horta-Guinardó
+824,Flat,/en/inmueble/101567918/,695000,Sarrià,110,4,8.0,lift,yes,Sarrià-Sant Gervasi
+825,Flat,/en/inmueble/96320466/,310000,Sants,74,2,2.0,no lift,no,Sants-Montjuïc
+826,Flat,/en/inmueble/99824900/,780000,La Sagrada Família,121,3,4.0,lift,no,Eixample
+827,Flat,/en/inmueble/100336389/,200000,La Marina del Port,86,2,2.0,lift,no,Sants-Montjuïc
+828,House,/en/inmueble/87668823/,2650000,Vallvidrera - El Tibidabo i les Planes,880,6,,no lift,yes,Sarrià-Sant Gervasi
+829,Flat,/en/inmueble/96285378/,2300000,Sant Gervasi - Galvany,286,5,3.0,lift,yes,Sarrià-Sant Gervasi
+830,Flat,/en/inmueble/101596687/,331000,Sant Antoni,84,4,2.0,no lift,no,Eixample
+831,Penthouse,/en/inmueble/98857881/,299000,Navas,66,3,,no lift,no,Sant Andreu
+832,Flat,/en/inmueble/98148880/,825000,Sant Antoni,197,6,2.0,lift,no,Eixample
+833,Flat,/en/inmueble/98927908/,625000,El Fort Pienc,131,3,3.0,lift,no,Eixample
+835,Flat,/en/inmueble/100751724/,798000,La Sagrada Família,120,4,2.0,lift,no,Eixample
+836,Flat,/en/inmueble/101032087/,690000,La Dreta de l'Eixample,156,4,2.0,lift,no,Eixample
+837,Flat,/en/inmueble/100335886/,425000,El Fort Pienc,90,4,7.0,lift,no,Eixample
+838,Flat,/en/inmueble/101618069/,385000,La Dreta de l'Eixample,71,2,0.0,lift,yes,Eixample
+839,Flat,/en/inmueble/93179068/,385000,El Poble Sec - Parc de Montjuïc,62,1,,no lift,no,Sants-Montjuïc
+841,Flat,/en/inmueble/100178334/,419000,La Sagrada Família,118,4,1.0,lift,no,Eixample
+846,Flat,/en/inmueble/101477449/,760000,Sant Gervasi - La Bonanova,81,3,6.0,lift,no,Sarrià-Sant Gervasi
+847,House,/en/inmueble/101538807/,2050000,Sarrià,204,6,,no lift,yes,Sarrià-Sant Gervasi
+848,Flat,/en/inmueble/101036417/,560205,El Poblenou,64,2,1.0,lift,yes,Sant Martí
+849,Flat,/en/inmueble/101400103/,825000,El Camp d'En Grassot i Gràcia Nova,152,3,0.0,lift,no,Gràcia
+850,Flat,/en/inmueble/100631946/,1175000,Pedralbes,130,2,2.0,lift,yes,Les Corts
+851,Flat,/en/inmueble/101615256/,299000,Can Baró,106,4,3.0,lift,yes,Horta-Guinardó
+852,Flat,/en/inmueble/101424486/,280000,El Raval,100,3,1.0,no lift,no,Ciutat Vella
+853,Flat,/en/inmueble/101623529/,259000,El Baix Guinardó,76,2,,no lift,no,Horta-Guinardó
+855,Flat,/en/inmueble/101399889/,415000,El Camp d'En Grassot i Gràcia Nova,68,1,1.0,lift,no,Gràcia
+856,Flat,/en/inmueble/101474907/,1600000,Sant Gervasi - Galvany,177,2,5.0,lift,no,Sarrià-Sant Gervasi
+857,Flat,/en/inmueble/101337290/,380000,La Barceloneta,137,2,0.0,no lift,no,Ciutat Vella
+858,Flat,/en/inmueble/101622952/,680000,Sant Antoni,117,4,3.0,lift,no,Eixample
+859,Flat,/en/inmueble/98839385/,155000,La Prosperitat,71,3,1.0,lift,no,Nou Barris
+860,Flat,/en/inmueble/101400026/,420000,El Camp d'En Grassot i Gràcia Nova,68,1,1.0,lift,no,Gràcia
+861,Flat,/en/inmueble/101597266/,795000,Sant Pere - Santa Caterina i la Ribera,88,2,1.0,lift,no,Ciutat Vella
+862,Flat,/en/inmueble/100743646/,399000,Sant Pere - Santa Caterina i la Ribera,82,2,2.0,lift,no,Ciutat Vella
+863,Flat,/en/inmueble/100827825/,360000,La Sagrada Família,75,2,5.0,lift,no,Eixample
+864,Flat,/en/inmueble/101530804/,196000,La Teixonera,75,2,1.0,no lift,no,Horta-Guinardó
+865,Flat,/en/inmueble/101301310/,1295000,La Dreta de l'Eixample,126,2,6.0,lift,yes,Eixample
+866,Flat,/en/inmueble/101421006/,1700000,Pedralbes,285,6,3.0,lift,no,Les Corts
+867,Flat,/en/inmueble/101525290/,285000,El Raval,59,1,4.0,no lift,no,Ciutat Vella
+868,Duplex,/en/inmueble/101616899/,2200000,Sant Gervasi - Galvany,280,6,0.0,lift,yes,Sarrià-Sant Gervasi
+869,Flat,/en/inmueble/100336538/,320000,La Nova Esquerra de l'Eixample,90,3,1.0,lift,no,Eixample
+873,Flat,/en/inmueble/101616288/,340000,La Sagrada Família,86,3,1.0,lift,no,Eixample
+878,Terraced,/en/inmueble/101446883/,380000,El Carmel,160,5,,no lift,no,Horta-Guinardó
+879,Flat,/en/inmueble/98275451/,537500,La Vila Olímpica del Poblenou,118,4,6.0,lift,no,Sant Martí
+880,Flat,/en/inmueble/101546661/,850000,,207,5,7.0,lift,no,
+881,Penthouse,/en/inmueble/101327540/,675000,Sant Pere - Santa Caterina i la Ribera,101,2,,no lift,no,Ciutat Vella
+882,Flat,/en/inmueble/101321487/,286000,La Maternitat i Sant Ramon,54,2,1.0,no lift,no,Les Corts
+883,Flat,/en/inmueble/101539002/,530000,,224,5,,no lift,no,
+884,Flat,/en/inmueble/101617473/,59900,Ciutat Meridiana - Torre Baró - Vallbona,59,1,0.0,no lift,no,Nou Barris
+885,Flat,/en/inmueble/101357910/,570000,Sarrià,70,2,1.0,lift,no,Sarrià-Sant Gervasi
+886,Flat,/en/inmueble/101526946/,1445000,Les Tres Torres,223,6,1.0,lift,yes,Sarrià-Sant Gervasi
+887,Flat,/en/inmueble/101298702/,390000,Sant Pere - Santa Caterina i la Ribera,82,2,,no lift,no,Ciutat Vella
+888,Flat,/en/inmueble/95342894/,132000,El Raval,65,3,0.0,no lift,no,Ciutat Vella
+889,Flat,/en/inmueble/101323426/,631730,El Camp de l'Arpa del Clot,145,2,2.0,lift,no,Sant Martí
+890,Flat,/en/inmueble/101612775/,259000,El Poble Sec - Parc de Montjuïc,57,2,1.0,lift,no,Sants-Montjuïc
+891,Flat,/en/inmueble/101348468/,1200000,La Dreta de l'Eixample,229,6,2.0,lift,no,Eixample
+892,Flat,/en/inmueble/87303192/,400000,L'Antiga Esquerra de l'Eixample,72,3,5.0,lift,no,Eixample
+893,Penthouse,/en/inmueble/101607973/,339000,La Nova Esquerra de l'Eixample,68,2,6.0,lift,no,Eixample
+894,Penthouse,/en/inmueble/101342823/,429000,Hostafrancs,85,2,4.0,lift,no,Sants-Montjuïc
+895,Flat,/en/inmueble/98815888/,173500,El Raval,71,3,1.0,no lift,no,Ciutat Vella
+897,Flat,/en/inmueble/101524954/,1300000,Sant Gervasi - La Bonanova,240,5,3.0,lift,yes,Sarrià-Sant Gervasi
+898,Duplex,/en/inmueble/101497098/,2480000,Pedralbes,330,4,1.0,lift,yes,Les Corts
+0,Semi-detached,/en/inmueble/101611957/,560000,El Camp de l'Arpa del Clot,208,4,,no lift,no,Sant Martí
+1,Flat,/en/inmueble/101357951/,540000,Sarrià,65,1,3.0,lift,no,Sarrià-Sant Gervasi
+4,Flat,/en/inmueble/100663683/,795000,El Gòtic,109,2,3.0,lift,no,Ciutat Vella
+5,Flat,/en/inmueble/98730212/,1055000,La Dreta de l'Eixample,130,2,2.0,lift,no,Eixample
+6,Flat,/en/inmueble/101357923/,540000,Sarrià,65,1,2.0,lift,no,Sarrià-Sant Gervasi
+7,Flat,/en/inmueble/89312621/,1699000,Les Tres Torres,229,5,5.0,lift,yes,Sarrià-Sant Gervasi
+8,Flat,/en/inmueble/100943302/,652500,El Camp d'En Grassot i Gràcia Nova,80,2,1.0,lift,no,Gràcia
+9,Flat,/en/inmueble/101304051/,450000,L'Antiga Esquerra de l'Eixample,89,3,5.0,lift,no,Eixample
+10,Flat,/en/inmueble/101129215/,135500,La Verneda i la Pau,69,3,4.0,lift,no,Sant Martí
+11,Flat,/en/inmueble/101617112/,275000,Sants,80,4,3.0,no lift,no,Sants-Montjuïc
+12,Penthouse,/en/inmueble/97591298/,1600000,Sant Gervasi - Galvany,194,4,6.0,lift,yes,Sarrià-Sant Gervasi
+13,Flat,/en/inmueble/100754520/,1195000,Sant Gervasi - Galvany,226,5,4.0,lift,no,Sarrià-Sant Gervasi
+15,Flat,/en/inmueble/101501195/,330000,La Sagrada Família,59,2,2.0,lift,no,Eixample
+16,Penthouse,/en/inmueble/100678816/,3850000,Sant Gervasi - La Bonanova,364,4,3.0,lift,yes,Sarrià-Sant Gervasi
+17,Flat,/en/inmueble/100464424/,3500000,La Dreta de l'Eixample,230,4,6.0,lift,no,Eixample
+18,Flat,/en/inmueble/100834831/,795000,Sant Gervasi - Galvany,128,3,5.0,lift,yes,Sarrià-Sant Gervasi
+19,Penthouse,/en/inmueble/98367697/,3650000,,458,5,8.0,lift,no,
+20,Flat,/en/inmueble/101525932/,275000,El Camp de l'Arpa del Clot,59,2,4.0,lift,no,Sant Martí
+21,Flat,/en/inmueble/101619369/,299000,Can Baró,106,4,3.0,lift,no,Horta-Guinardó
+23,Flat,/en/inmueble/100740666/,690000,La Dreta de l'Eixample,133,5,3.0,lift,no,Eixample
+24,Flat,/en/inmueble/101105313/,360000,El Congrés i els Indians,93,3,6.0,lift,no,Sant Andreu
+25,Flat,/en/inmueble/101392847/,595000,La Nova Esquerra de l'Eixample,153,7,,no lift,no,Eixample
+26,Flat,/en/inmueble/101546754/,795000,Sant Pere - Santa Caterina i la Ribera,88,2,1.0,lift,no,Ciutat Vella
+28,Terraced,/en/inmueble/101614009/,330000,,103,3,,no lift,no,
+29,Flat,/en/inmueble/101300670/,1650000,La Dreta de l'Eixample,202,3,1.0,no lift,no,Eixample
+34,Flat,/en/inmueble/101313495/,399000,La Nova Esquerra de l'Eixample,91,3,1.0,lift,no,Eixample
+36,Flat,/en/inmueble/101514831/,580000,Sant Gervasi - Galvany,106,4,1.0,lift,no,Sarrià-Sant Gervasi
+37,Flat,/en/inmueble/101104355/,950000,Sant Gervasi - La Bonanova,117,3,1.0,lift,yes,Sarrià-Sant Gervasi
+38,Semi-detached,/en/inmueble/100603035/,4950000,Pedralbes,670,5,,no lift,yes,Les Corts
+39,Penthouse,/en/inmueble/99381649/,3150000,Pedralbes,396,6,6.0,lift,yes,Les Corts
+42,Flat,/en/inmueble/96779380/,1200000,Sant Pere - Santa Caterina i la Ribera,239,4,1.0,lift,no,Ciutat Vella
+44,Flat,/en/inmueble/101313659/,240000,Sants,67,2,3.0,lift,no,Sants-Montjuïc
+46,Penthouse,/en/inmueble/101251587/,890000,La Dreta de l'Eixample,89,2,7.0,lift,no,Eixample
+47,Flat,/en/inmueble/101615248/,300000,El Congrés i els Indians,90,3,4.0,lift,no,Sant Andreu
+48,Penthouse,/en/inmueble/101090719/,1450000,Sant Pere - Santa Caterina i la Ribera,135,2,4.0,lift,no,Ciutat Vella
+54,Flat,/en/inmueble/99124224/,405000,El Guinardó,93,3,2.0,lift,no,Horta-Guinardó
+57,Flat,/en/inmueble/101606595/,290000,La Sagrada Família,55,2,1.0,no lift,no,Eixample
+59,Flat,/en/inmueble/101041993/,740000,La Dreta de l'Eixample,165,3,2.0,lift,no,Eixample
+61,House,/en/inmueble/91467676/,4300000,Pedralbes,686,6,,no lift,yes,Les Corts
+62,Flat,/en/inmueble/101005093/,2200000,La Dreta de l'Eixample,357,9,3.0,lift,no,Eixample
+63,Flat,/en/inmueble/100990263/,1580000,La Dreta de l'Eixample,200,5,5.0,lift,no,Eixample
+64,Flat,/en/inmueble/101254353/,193000,La Marina del Port,78,3,6.0,lift,no,Sants-Montjuïc
+66,Penthouse,/en/inmueble/101604832/,395000,Hostafrancs,109,3,6.0,lift,no,Sants-Montjuïc
+67,Flat,/en/inmueble/100293412/,550000,L'Antiga Esquerra de l'Eixample,98,4,1.0,lift,no,Eixample
+68,Flat,/en/inmueble/101243323/,448250,El Putxet i el Farró,47,1,3.0,lift,no,Sarrià-Sant Gervasi
+69,Flat,/en/inmueble/92281196/,1200000,L'Antiga Esquerra de l'Eixample,150,2,1.0,lift,no,Eixample
+70,Penthouse,/en/inmueble/96691051/,1090000,Sant Gervasi - Galvany,150,3,8.0,lift,no,Sarrià-Sant Gervasi
+72,Duplex,/en/inmueble/101070841/,285000,Sant Martí de Provençals,140,2,0.0,no lift,no,Sant Martí
+73,Flat,/en/inmueble/100295719/,149700,El Congrés i els Indians,56,2,0.0,lift,no,Sant Andreu
+74,Flat,/en/inmueble/101613942/,345000,Sants,93,4,4.0,lift,no,Sants-Montjuïc
+75,Flat,/en/inmueble/101564658/,1090000,Sant Gervasi - Galvany,130,3,0.0,lift,no,Sarrià-Sant Gervasi
+77,Flat,/en/inmueble/98429687/,1890000,Diagonal Mar i el Front Marítim del Poblenou,285,5,16.0,lift,yes,Sant Martí
+78,Flat,/en/inmueble/101608096/,580000,Sant Gervasi - Galvany,131,4,2.0,lift,no,Sarrià-Sant Gervasi
+79,Flat,/en/inmueble/101579256/,185000,Sant Antoni,37,1,2.0,no lift,no,Eixample
+80,Flat,/en/inmueble/101602953/,290000,La Sagrada Família,55,2,1.0,no lift,no,Eixample
+81,Flat,/en/inmueble/101064998/,690000,El Camp d'En Grassot i Gràcia Nova,145,3,0.0,lift,no,Gràcia
+82,Penthouse,/en/inmueble/100997286/,555000,La Nova Esquerra de l'Eixample,85,3,8.0,lift,no,Eixample
+84,Flat,/en/inmueble/101610900/,390000,El Raval,97,3,4.0,lift,no,Ciutat Vella
+85,Penthouse,/en/inmueble/94457998/,880000,Sant Gervasi - Galvany,116,2,7.0,lift,no,Sarrià-Sant Gervasi
+86,Flat,/en/inmueble/101608206/,470000,L'Antiga Esquerra de l'Eixample,97,4,7.0,lift,no,Eixample
+89,Flat,/en/inmueble/101459935/,275000,La Salut,70,2,3.0,lift,no,Gràcia
+90,Flat,/en/inmueble/98416673/,470000,Sant Gervasi - Galvany,121,4,1.0,lift,no,Sarrià-Sant Gervasi
+91,Flat,/en/inmueble/101526554/,350000,La Sagrada Família,73,2,2.0,lift,no,Eixample
+94,Duplex,/en/inmueble/101064886/,690000,Vila de Gràcia,145,3,0.0,lift,no,Gràcia
+96,Flat,/en/inmueble/100591170/,465000,El Raval,72,2,1.0,lift,no,Ciutat Vella
+100,Flat,/en/inmueble/101604133/,97068,El Bon Pastor,64,3,,no lift,no,Sant Andreu
+102,Flat,/en/inmueble/100994199/,611000,El Camp d'En Grassot i Gràcia Nova,96,3,4.0,lift,no,Gràcia
+104,Flat,/en/inmueble/97562161/,960000,El Gòtic,166,3,3.0,lift,no,Ciutat Vella
+105,Flat,/en/inmueble/97554961/,1040000,El Gòtic,178,4,2.0,lift,no,Ciutat Vella
+109,Flat,/en/inmueble/101564833/,950000,Sant Gervasi - Galvany,115,2,3.0,lift,yes,Sarrià-Sant Gervasi
+111,Flat,/en/inmueble/100994120/,563000,El Camp d'En Grassot i Gràcia Nova,91,3,3.0,lift,no,Gràcia
+112,Flat,/en/inmueble/100994033/,545000,El Camp d'En Grassot i Gràcia Nova,91,3,2.0,lift,no,Gràcia
+113,Flat,/en/inmueble/101243212/,427250,El Putxet i el Farró,47,1,1.0,lift,no,Sarrià-Sant Gervasi
+116,Flat,/en/inmueble/101610119/,400000,El Fort Pienc,130,3,5.0,lift,no,Eixample
+117,Flat,/en/inmueble/97746125/,816000,La Dreta de l'Eixample,149,2,3.0,lift,no,Eixample
+118,Penthouse,/en/inmueble/99534460/,895000,El Raval,133,2,4.0,lift,no,Ciutat Vella
+121,Flat,/en/inmueble/100001237/,730000,L'Antiga Esquerra de l'Eixample,194,4,2.0,lift,no,Eixample
+123,Flat,/en/inmueble/101189920/,1050000,La Dreta de l'Eixample,209,5,,no lift,no,Eixample
+124,Flat,/en/inmueble/100949594/,420000,La Sagrada Família,91,3,4.0,lift,no,Eixample
+125,Flat,/en/inmueble/100486059/,540000,El Gòtic,120,5,4.0,lift,no,Ciutat Vella
+128,Flat,/en/inmueble/92377661/,1350000,El Raval,263,5,1.0,no lift,no,Ciutat Vella
+130,Flat,/en/inmueble/100521534/,376000,El Raval,60,2,1.0,lift,no,Ciutat Vella
+132,Flat,/en/inmueble/88975940/,770000,Sant Pere - Santa Caterina i la Ribera,194,3,3.0,lift,no,Ciutat Vella
+133,Flat,/en/inmueble/87945521/,1775000,Sant Gervasi - Galvany,322,7,4.0,lift,yes,Sarrià-Sant Gervasi
+135,Flat,/en/inmueble/100743451/,1240000,El Gòtic,232,6,4.0,lift,no,Ciutat Vella
+136,Duplex,/en/inmueble/101398852/,1190000,Sant Gervasi - Galvany,230,7,2.0,lift,yes,Sarrià-Sant Gervasi
+137,House,/en/inmueble/99991681/,2130000,Sant Gervasi - La Bonanova,375,9,,no lift,no,Sarrià-Sant Gervasi
+140,Flat,/en/inmueble/100735426/,2200000,Sant Gervasi - Galvany,338,5,3.0,lift,yes,Sarrià-Sant Gervasi
+141,House,/en/inmueble/89229563/,4300000,Pedralbes,710,6,,no lift,yes,Les Corts
+142,Flat,/en/inmueble/101258277/,255000,El Raval,69,2,3.0,lift,no,Ciutat Vella
+143,Flat,/en/inmueble/101198896/,1650000,Pedralbes,154,3,3.0,lift,yes,Les Corts
+144,Penthouse,/en/inmueble/100191095/,295000,El Gòtic,53,1,4.0,no lift,no,Ciutat Vella
+146,Flat,/en/inmueble/99493230/,1620000,La Dreta de l'Eixample,139,3,1.0,lift,no,Eixample
+147,Penthouse,/en/inmueble/100282781/,750000,Sant Gervasi - La Bonanova,103,2,7.0,lift,no,Sarrià-Sant Gervasi
+148,Terraced,/en/inmueble/96788213/,950000,Sant Gervasi - La Bonanova,206,4,,no lift,no,Sarrià-Sant Gervasi
+149,Flat,/en/inmueble/98991184/,725000,L'Antiga Esquerra de l'Eixample,134,4,3.0,lift,no,Eixample
+150,Flat,/en/inmueble/101256732/,395000,El Raval,106,3,,no lift,no,Ciutat Vella
+151,Flat,/en/inmueble/100227626/,785000,Pedralbes,116,4,6.0,lift,yes,Les Corts
+152,Penthouse,/en/inmueble/99707149/,595000,Sant Gervasi - La Bonanova,89,3,6.0,lift,no,Sarrià-Sant Gervasi
+153,Flat,/en/inmueble/100966133/,289000,La Salut,81,2,,no lift,no,Gràcia
+154,Flat,/en/inmueble/98372259/,1870000,Pedralbes,184,4,4.0,lift,yes,Les Corts
+155,House,/en/inmueble/101253947/,1600000,Vallcarca i els Penitents,404,7,,no lift,yes,Gràcia
+156,Flat,/en/inmueble/97393456/,1200000,La Salut,694,15,0.0,no lift,no,Gràcia
+158,Flat,/en/inmueble/99625804/,808000,L'Antiga Esquerra de l'Eixample,123,3,1.0,lift,no,Eixample
+159,Flat,/en/inmueble/100231770/,299000,Vila de Gràcia,77,1,0.0,lift,no,Gràcia
+160,Penthouse,/en/inmueble/99586748/,1450000,Sant Pere - Santa Caterina i la Ribera,195,2,4.0,lift,no,Ciutat Vella
+161,Flat,/en/inmueble/94943360/,670000,El Gòtic,82,2,4.0,lift,no,Ciutat Vella
+163,Flat,/en/inmueble/97107255/,780000,Sant Gervasi - La Bonanova,153,3,1.0,lift,no,Sarrià-Sant Gervasi
+164,Flat,/en/inmueble/101626435/,295000,El Poble Sec - Parc de Montjuïc,82,3,5.0,lift,no,Sants-Montjuïc
+165,Flat,/en/inmueble/99728338/,475000,El Raval,120,2,3.0,lift,no,Ciutat Vella
+166,Flat,/en/inmueble/101588741/,390000,Vallcarca i els Penitents,143,2,0.0,lift,no,Gràcia
+168,Flat,/en/inmueble/97544370/,1930000,La Dreta de l'Eixample,340,4,1.0,lift,no,Eixample
+169,Flat,/en/inmueble/99947885/,640000,L'Antiga Esquerra de l'Eixample,98,3,5.0,lift,no,Eixample
+171,Flat,/en/inmueble/99619951/,330000,La Font d'En Fargues,89,3,0.0,no lift,no,Horta-Guinardó
+172,Flat,/en/inmueble/99102990/,549000,Sant Pere - Santa Caterina i la Ribera,145,3,1.0,lift,no,Ciutat Vella
+173,Flat,/en/inmueble/100843496/,1050000,La Dreta de l'Eixample,209,5,3.0,lift,no,Eixample
+174,Duplex,/en/inmueble/101336091/,390000,Sant Pere - Santa Caterina i la Ribera,82,2,0.0,lift,no,Ciutat Vella
+175,Flat,/en/inmueble/100827823/,1790000,Pedralbes,222,3,1.0,lift,yes,Les Corts
+176,Flat,/en/inmueble/93738105/,1450000,Sant Gervasi - Galvany,200,4,4.0,lift,yes,Sarrià-Sant Gervasi
+177,House,/en/inmueble/99880656/,5000000,Sant Gervasi - La Bonanova,639,6,,no lift,yes,Sarrià-Sant Gervasi
+178,Flat,/en/inmueble/97398481/,570000,L'Antiga Esquerra de l'Eixample,117,3,4.0,lift,no,Eixample
+179,Flat,/en/inmueble/94285069/,736000,La Dreta de l'Eixample,144,3,,no lift,no,Eixample
+180,Flat,/en/inmueble/88934232/,370000,Sant Pere - Santa Caterina i la Ribera,65,1,2.0,lift,no,Ciutat Vella
+181,Flat,/en/inmueble/101044355/,335000,El Raval,149,4,,no lift,no,Ciutat Vella
+182,Flat,/en/inmueble/97412987/,365000,Sant Pere - Santa Caterina i la Ribera,60,2,3.0,no lift,no,Ciutat Vella
+183,Flat,/en/inmueble/100815348/,890000,La Dreta de l'Eixample,150,4,2.0,lift,no,Eixample
+185,Flat,/en/inmueble/101597208/,515000,El Raval,115,2,5.0,lift,no,Ciutat Vella
+186,Flat,/en/inmueble/99556120/,1650000,La Dreta de l'Eixample,138,3,1.0,lift,no,Eixample
+187,Flat,/en/inmueble/101131574/,1070000,Sant Gervasi - Galvany,170,5,1.0,lift,yes,Sarrià-Sant Gervasi
+193,Flat,/en/inmueble/101581609/,665000,Sant Pere - Santa Caterina i la Ribera,110,3,3.0,lift,no,Ciutat Vella
+194,Flat,/en/inmueble/99932460/,279000,La Vall d'Hebron - La Clota,83,1,1.0,lift,no,Horta-Guinardó
+195,Flat,/en/inmueble/100763910/,1150000,La Dreta de l'Eixample,221,4,2.0,lift,no,Eixample
+197,Flat,/en/inmueble/96153475/,780000,El Raval,171,3,,no lift,no,Ciutat Vella
+199,Flat,/en/inmueble/99931258/,790000,La Teixonera,208,3,,no lift,yes,Horta-Guinardó
+201,Flat,/en/inmueble/99989919/,1049000,La Dreta de l'Eixample,167,3,2.0,lift,no,Eixample
+203,Flat,/en/inmueble/101032447/,1090000,Pedralbes,120,4,3.0,lift,yes,Les Corts
+204,Flat,/en/inmueble/100918062/,550000,El Gòtic,142,4,3.0,lift,no,Ciutat Vella
+206,Flat,/en/inmueble/83950120/,1040000,El Gòtic,178,2,2.0,lift,no,Ciutat Vella
+208,Flat,/en/inmueble/85716462/,1580000,La Dreta de l'Eixample,174,3,5.0,lift,yes,Eixample
+209,Duplex,/en/inmueble/99124752/,645000,El Baix Guinardó,156,4,0.0,lift,no,Horta-Guinardó
+1,House,/en/inmueble/98213494/,2795000,Sant Gervasi - La Bonanova,934,6,,no lift,no,Sarrià-Sant Gervasi
+11,Flat,/en/inmueble/91264645/,1600000,La Dreta de l'Eixample,219,7,3.0,lift,no,Eixample
+12,Flat,/en/inmueble/101161333/,1095000,La Dreta de l'Eixample,252,4,1.0,lift,no,Eixample
+17,Flat,/en/inmueble/100610106/,1285000,La Dreta de l'Eixample,184,4,2.0,lift,no,Eixample
+21,Flat,/en/inmueble/100266484/,500000,La Dreta de l'Eixample,100,3,2.0,lift,no,Eixample
+24,Flat,/en/inmueble/97024615/,4950000,Sant Gervasi - Galvany,448,5,3.0,lift,yes,Sarrià-Sant Gervasi
+29,Flat,/en/inmueble/91386533/,395000,Sant Pere - Santa Caterina i la Ribera,94,3,2.0,lift,no,Ciutat Vella
+31,House,/en/inmueble/99991679/,2400000,Sant Gervasi - La Bonanova,423,9,,no lift,no,Sarrià-Sant Gervasi
+33,Flat,/en/inmueble/99484970/,1995000,Sant Gervasi - Galvany,350,5,4.0,lift,yes,Sarrià-Sant Gervasi
+34,Penthouse,/en/inmueble/101596313/,725000,L'Antiga Esquerra de l'Eixample,113,3,7.0,lift,no,Eixample
+36,Duplex,/en/inmueble/100918097/,895000,La Dreta de l'Eixample,183,3,4.0,lift,no,Eixample
+37,Flat,/en/inmueble/101140475/,1590000,La Dreta de l'Eixample,185,3,5.0,lift,no,Eixample
+42,Flat,/en/inmueble/97640179/,420000,,85,2,2.0,no lift,no,
+44,House,/en/inmueble/40575029/,1195000,La Salut,250,7,,no lift,yes,Gràcia
+45,Flat,/en/inmueble/96031085/,330000,Sant Pere - Santa Caterina i la Ribera,55,1,1.0,lift,yes,Ciutat Vella
+48,Flat,/en/inmueble/100856818/,340000,Can Baró,105,4,7.0,lift,no,Horta-Guinardó
+50,Flat,/en/inmueble/100599658/,440000,El Gòtic,133,4,1.0,no lift,no,Ciutat Vella
+56,Flat,/en/inmueble/101278025/,420000,Sarrià,87,3,1.0,no lift,no,Sarrià-Sant Gervasi
+57,Flat,/en/inmueble/92455279/,820000,El Gòtic,195,4,3.0,lift,no,Ciutat Vella
+60,Penthouse,/en/inmueble/97391038/,995000,La Salut,245,6,2.0,lift,yes,Gràcia
+61,Flat,/en/inmueble/94943374/,770000,El Gòtic,101,3,4.0,lift,no,Ciutat Vella
+63,Flat,/en/inmueble/100469291/,420000,Sant Gervasi - Galvany,74,2,7.0,lift,no,Sarrià-Sant Gervasi
+64,Flat,/en/inmueble/97854095/,655000,Sant Gervasi - Galvany,172,5,3.0,lift,no,Sarrià-Sant Gervasi
+66,Flat,/en/inmueble/100492713/,845000,La Maternitat i Sant Ramon,190,6,2.0,lift,no,Les Corts
+67,Flat,/en/inmueble/98268710/,6000000,La Dreta de l'Eixample,475,4,3.0,lift,no,Eixample
+68,Flat,/en/inmueble/98271355/,560000,El Gòtic,88,3,4.0,lift,yes,Ciutat Vella
+69,Flat,/en/inmueble/98269308/,280000,El Raval,60,3,3.0,no lift,no,Ciutat Vella
+70,Flat,/en/inmueble/100734648/,2200000,Sant Gervasi - Galvany,340,5,3.0,lift,yes,Sarrià-Sant Gervasi
+71,Flat,/en/inmueble/98491488/,1850000,L'Antiga Esquerra de l'Eixample,167,2,,no lift,no,Eixample
+72,Flat,/en/inmueble/101425804/,245000,El Clot,45,2,8.0,no lift,no,Sant Martí
+73,Penthouse,/en/inmueble/100335242/,980000,Sant Gervasi - Galvany,156,4,12.0,lift,yes,Sarrià-Sant Gervasi
+74,Flat,/en/inmueble/101374883/,455000,Sants,98,4,,no lift,no,Sants-Montjuïc
+75,Flat,/en/inmueble/101023180/,349000,Sant Antoni,45,2,1.0,lift,no,Eixample
+77,House,/en/inmueble/98268848/,4300000,Pedralbes,686,6,,no lift,yes,Les Corts
+78,House,/en/inmueble/99345419/,3950000,Pedralbes,593,12,,no lift,no,Les Corts
+79,Penthouse,/en/inmueble/101154424/,485000,,96,2,8.0,lift,no,
+80,Flat,/en/inmueble/99160458/,699000,Vila de Gràcia,115,3,1.0,no lift,no,Gràcia
+81,Flat,/en/inmueble/98268629/,1200000,El Gòtic,198,3,4.0,lift,no,Ciutat Vella
+82,Flat,/en/inmueble/100946913/,260000,El Congrés i els Indians,60,3,2.0,lift,no,Sant Andreu
+84,Flat,/en/inmueble/95598831/,1045000,Sant Gervasi - Galvany,212,5,2.0,lift,yes,Sarrià-Sant Gervasi
+85,Penthouse,/en/inmueble/101215730/,1090000,Sant Gervasi - Galvany,150,3,8.0,lift,no,Sarrià-Sant Gervasi
+86,Penthouse,/en/inmueble/101616999/,415000,El Fort Pienc,83,1,7.0,lift,no,Eixample
+89,Flat,/en/inmueble/101146127/,3000000,Les Tres Torres,504,11,0.0,lift,yes,Sarrià-Sant Gervasi
+90,Flat,/en/inmueble/98268622/,1100000,L'Antiga Esquerra de l'Eixample,170,4,3.0,lift,no,Eixample
+91,House,/en/inmueble/100520976/,845000,La Font d'En Fargues,355,5,,no lift,yes,Horta-Guinardó
+92,Flat,/en/inmueble/98271638/,370000,,107,3,5.0,lift,no,
+93,Flat,/en/inmueble/101307442/,420000,Sant Antoni,96,3,1.0,lift,no,Eixample
+95,House,/en/inmueble/101020536/,880000,La Teixonera,315,5,,no lift,no,Horta-Guinardó
+97,Flat,/en/inmueble/99960541/,1280000,Les Tres Torres,192,3,2.0,lift,yes,Sarrià-Sant Gervasi
+100,Flat,/en/inmueble/101618369/,847500,L'Antiga Esquerra de l'Eixample,163,3,4.0,lift,no,Eixample
+101,Flat,/en/inmueble/101578930/,595000,El Camp de l'Arpa del Clot,156,4,3.0,lift,no,Sant Martí
+102,Flat,/en/inmueble/99674978/,699000,L'Antiga Esquerra de l'Eixample,98,2,1.0,lift,no,Eixample
+104,Flat,/en/inmueble/101612882/,359000,Hostafrancs,57,2,1.0,lift,no,Sants-Montjuïc
+105,Flat,/en/inmueble/96986009/,780000,La Dreta de l'Eixample,143,4,,no lift,no,Eixample
+109,Flat,/en/inmueble/98647980/,590000,La Nova Esquerra de l'Eixample,143,4,2.0,lift,no,Eixample
+110,Terraced,/en/inmueble/99271667/,950000,Pedralbes,150,5,,no lift,no,Les Corts
+111,Flat,/en/inmueble/100361523/,720000,Sant Gervasi - Galvany,130,5,4.0,lift,yes,Sarrià-Sant Gervasi
+112,Penthouse,/en/inmueble/101079773/,1100000,L'Antiga Esquerra de l'Eixample,100,2,8.0,lift,no,Eixample
+113,Flat,/en/inmueble/100746779/,639000,La Nova Esquerra de l'Eixample,154,5,3.0,lift,no,Eixample
+116,Flat,/en/inmueble/101034415/,1700000,Pedralbes,272,4,2.0,lift,yes,Les Corts
+117,Terraced,/en/inmueble/101316983/,995000,La Vila Olímpica del Poblenou,203,4,,no lift,yes,Sant Martí
+118,Flat,/en/inmueble/101347740/,159000,Sants,32,1,0.0,lift,no,Sants-Montjuïc
+119,Flat,/en/inmueble/98297228/,1190000,El Putxet i el Farró,164,3,0.0,lift,yes,Sarrià-Sant Gervasi
+121,Flat,/en/inmueble/101223128/,390000,La Sagrada Família,58,2,2.0,lift,no,Eixample
+122,Flat,/en/inmueble/99945410/,1350000,Vila de Gràcia,226,5,3.0,lift,no,Gràcia
+123,Flat,/en/inmueble/101309875/,329000,Sants,87,3,,no lift,no,Sants-Montjuïc
+124,Flat,/en/inmueble/98269110/,1095000,La Nova Esquerra de l'Eixample,189,4,2.0,lift,no,Eixample
+125,Terraced,/en/inmueble/100256550/,1900000,Sarrià,282,5,,no lift,yes,Sarrià-Sant Gervasi
+126,Flat,/en/inmueble/101044859/,750000,L'Antiga Esquerra de l'Eixample,104,4,2.0,lift,no,Eixample
+135,Penthouse,/en/inmueble/98839962/,815000,L'Antiga Esquerra de l'Eixample,170,4,8.0,lift,no,Eixample
+137,Flat,/en/inmueble/99859122/,680000,La Dreta de l'Eixample,68,2,2.0,lift,no,Eixample
+140,Flat,/en/inmueble/100191139/,6000000,La Dreta de l'Eixample,534,5,3.0,lift,no,Eixample
+141,Flat,/en/inmueble/101567765/,520000,El Raval,114,3,2.0,lift,no,Ciutat Vella
+143,Flat,/en/inmueble/98666362/,899000,La Dreta de l'Eixample,119,3,,no lift,no,Eixample
+152,Penthouse,/en/inmueble/101380211/,990000,La Dreta de l'Eixample,108,2,7.0,lift,no,Eixample
+176,Flat,/en/inmueble/90137259/,2158000,La Dreta de l'Eixample,196,2,0.0,lift,no,Eixample
+177,Flat,/en/inmueble/101224185/,1175000,L'Antiga Esquerra de l'Eixample,100,3,4.0,lift,no,Eixample
