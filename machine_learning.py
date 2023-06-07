@@ -46,6 +46,7 @@ from sklearn.ensemble import RandomForestRegressor
 from xgboost import XGBRegressor
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.linear_model import LinearRegression
+import joblib
 
 def preparation(df):
     df = df.drop('reference', axis=1)
@@ -88,6 +89,8 @@ def linear_model(df_dummy):
 
 def impact_variables(df_dummy):
     x,y=df_dummy.drop('price', axis=1), df_dummy.price
+    vars_pisos=list(df_dummy.columns)
+    vars_pisos.remove('price')
     # Create a Ridge regression model
     lr_m = Ridge()
     lr_m.fit(x, y)
@@ -212,6 +215,7 @@ def reproduce_model(new_X):
     # Train the stacking ensemble
     ensemble.fit(X_train, y_train)
     predictions = ensemble.predict(new_X)
+    joblib.dump(ensemble, '/Users/miguelpalospou/Desktop/IRONHACK/Projects/Final-project/trained_model/model.pkl')
 
     return ensemble, predictions
 
