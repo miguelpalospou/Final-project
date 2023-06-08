@@ -72,6 +72,7 @@ def preparation(df):
     df_dummy = df_dummy.drop(df_dummy[df_dummy['price'] >1000000].index)
     return df_dummy
 
+
 def visuals_1(df):
     sns.heatmap(df.corr())
 
@@ -235,7 +236,46 @@ def reproduce_model(df_dummy):
 
 
 
+def last_try(df_dummy):
+    data = df_dummy
+    X = data.drop('price', axis=1)  # Assuming 'price' is the target variable
+    y = data['price']
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    # Define the parameter grid
+    param_grid = {
+        'n_estimators': [100],  # Number of trees
+        'max_depth': [None],  # Maximum depth of each tree
+        'min_samples_split': [2]  # Minimum number of samples required to split a node
+    }
 
+    # Create the RandomForestRegressor
+    rf_model = RandomForestRegressor()
+
+    # Perform grid search
+    grid_search = GridSearchCV(estimator=rf_model, param_grid=param_grid, cv=5, scoring='neg_mean_absolute_error')
+    grid_search.fit(X, y)
+
+    # Get the best model and best parameter combination
+    best_rf_model = grid_search.best_estimator_
+    best_params = grid_search.best_params_
+
+    # Print the best parameter combination
+    y_pred = best_rf_model.predict(X_test)
+    
+    joblib.dump(rf_model, '/Users/miguelpalospou/Desktop/IRONHACK/Projects/Final-project/trained_model/model_2.pkl')
+
+    # Calculate the MAE
+    r2 = r2_score(y_test, y_pred)
+    mae = mean_absolute_error(y_test, y_pred)
+    mape = mean_absolute_percentage_error(y_test, y_pred)
+    mse = mean_squared_error(y_test, y_pred)
+    rmse = np.sqrt(mse)
+    print("R2 Score:", r2)
+    print("MAE:", mae)
+    print("mse:", mse)
+    print("MAPE:", mape)
+    print("rmse:", rmse)
+    return rf_model
 
 
 
