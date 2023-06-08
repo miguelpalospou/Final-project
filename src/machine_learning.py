@@ -237,7 +237,7 @@ def reproduce_model(df_dummy):
 
 
 def last_try(df_dummy):
-    data = df_dummy
+    data = pd.read_csv("/Users/miguelpalospou/Desktop/IRONHACK/Projects/Final-project/data/dummy.csv")
     X = data.drop('price', axis=1)  # Assuming 'price' is the target variable
     y = data['price']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)

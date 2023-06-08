@@ -56,7 +56,7 @@ predict_button = st.button("Predict")
 
 if predict_button:
     # Create a DataFrame with user inputs
-    model = joblib.load('model_2.pkl')   
+    model = joblib.load('model_1.pkl')   
 
     data = pd.DataFrame({
         'rooms': [rooms],
