@@ -47,6 +47,7 @@ from xgboost import XGBRegressor
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.linear_model import LinearRegression
 import joblib
+from sklearn.metrics import mean_absolute_percentage_error
 
 def preparation(df):
     df = df.drop('reference', axis=1)
@@ -64,13 +65,16 @@ def preparation(df):
     df.dropna(subset=['plant'], inplace=True)   
     df = df.drop('district', axis=1)
 
-    df_dummy = pd.get_dummies(df, drop_first=True)
+    df_dummy = pd.get_dummies(df)
+    df_dummy = df_dummy.drop("lift_no lift", axis=1)
+    df_dummy = df_dummy.drop('parking_no', axis=1)
+    df_dummy = df_dummy.drop('type_Flat', axis=1)
     df_dummy = df_dummy.drop(df_dummy[df_dummy['price'] >1000000].index)
     return df_dummy
 
-def visuals_1(df_dummy):
+def visuals_1(df):
     sns.heatmap(df.corr())
-    return df_dummy
+
 
 def visuals_2(df_dummy):
     sns.histplot(x="price", data=df_dummy)
@@ -84,7 +88,6 @@ def linear_model(df_dummy):
     plt.scatter(y, y_pred)
     mae = mean_absolute_error(y, y_pred)
     print("Mean Absolute Error:", mae)
-    return df_dummy
 
 
 def impact_variables(df_dummy):
@@ -185,7 +188,7 @@ def all_models(df_dummy):
         return df_dummy
     
 
-def reproduce_model(new_X):
+def reproduce_model(df_dummy):
     # Load the data and split it into features (X) and target variable (y)
     data = pd.read_csv("/Users/miguelpalospou/Desktop/IRONHACK/Projects/Final-project/data/dummy.csv")  # Replace 'your_data.csv' with the actual file path or dataset
     X = data.drop('price', axis=1)  # Assuming 'price' is the target variable
@@ -214,10 +217,22 @@ def reproduce_model(new_X):
 
     # Train the stacking ensemble
     ensemble.fit(X_train, y_train)
-    predictions = ensemble.predict(new_X)
+    predictions = ensemble.predict(X_test)
     joblib.dump(ensemble, '/Users/miguelpalospou/Desktop/IRONHACK/Projects/Final-project/trained_model/model.pkl')
 
-    return ensemble, predictions
+    r2 = r2_score(y_test, predictions)
+    mae = mean_absolute_error(y_test, predictions)
+    mape = mean_absolute_percentage_error(y_test, predictions)
+    mse = mean_squared_error(y_test, predictions)
+    rmse = np.sqrt(mse)
+    print("R2 Score:", r2)
+    print("MAE:", mae)
+    print("mse:", mse)
+    print("MAPE:", mape)
+    print("rmse:", rmse)
+    
+    return ensemble
+
 
 
 
