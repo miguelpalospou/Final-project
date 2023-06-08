@@ -8,7 +8,7 @@ from streamlit_card import card
 ########## Head ##########
 
 st.set_page_config(
-    page_title="Flip-Flap",
+    page_title="Flip-Flat",
     page_icon="🏘️",
 )
 
@@ -31,9 +31,16 @@ st.markdown(
 st.write('<style>div.block-container{padding-top:0rem;}</style>', unsafe_allow_html=True)
 st.write("#")
 st.markdown(
-    '<center><img src="https://i.ibb.co/ZJPw4SP/flip-flap-logo-1.png" style="width:600px;height:400px;"></center>',
+    '<center><img src="https://i.ibb.co/FHzgLJB/BE263-D1-B-6617-43-E0-AFE6-BDF13-EAF5319.jpg" style="width:500px;height:200px;"></center>',
     unsafe_allow_html=True
 )
+
+st.write("\n")
+st.write("\n")
+st.write("\n")
+st.write("\n")
+st.write("\n")
+st.write("\n")
 colored_header(
     label="WELCOME TO FLIP-FLAP: An AI-based house price predictor",
     description="",
@@ -42,8 +49,8 @@ colored_header(
 
 ########## Body ##########
 
-st.markdown("<h2 style='text-align: center;'>Are you a seller? Know the market trends and increase your profit margin by >5%</h2>", unsafe_allow_html=True)
-st.markdown("<h2 style='text-align: center;'>Are you a potential buyer? Understand market price around your desired area and get a fair price for your new house</h2>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Are you a seller? Know the market trends and increase your profit margin by >5%</h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Are you a potential buyer? Understand market price around your desired area and get a fair price for your new house</h3>", unsafe_allow_html=True)
 st.image("https://i.ibb.co/G78zzFj/140-DAC2-B-BF83-4-C1-A-A340-68-A550-C549-B3.jpg", use_column_width=True)
 
 st.markdown("<h1 style='text-align: center;'> Real-time data 🏃</h1>", unsafe_allow_html=True)
@@ -73,6 +80,6 @@ st.image("https://i.ibb.co/tp6h6tC/37198712-9172-46-DF-BDED-D1063318-CB50.jpg", 
 
 
 st.markdown(
-    '<center><img src="https://i.ibb.co/ZJPw4SP/flip-flap-logo-1.png" style="width:600px;height:400px;"></center>',
+    '<center><img src="https://i.ibb.co/FHzgLJB/BE263-D1-B-6617-43-E0-AFE6-BDF13-EAF5319.jpg" style="width:500px;height:200px;"></center>',
     unsafe_allow_html=True
 )

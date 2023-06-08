@@ -18,9 +18,6 @@ Are you a seller? Find out the price you should sell your flat.
 
 
 
-
-
-
 # Load the trained model
 # Define the Streamlit layout
 st.title("Predictive Model")
