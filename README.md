@@ -1,5 +1,5 @@
 # Flip Flat
-
+![alternative text](/Users/miguelpalospou/Desktop/IRONHACK/Projects/Final-project/images/flipflap.jpeg)
 ## Overview
 This project aims to address the challenge of accurately predicting real estate pricing using data science techniques. Focused on the real estate market, it leverages extensive data collection and advanced predictive modeling to provide insights into property valuation. Model was deployed in streamlit.
 
