@@ -8,6 +8,7 @@ from sklearn.svm import SVR
 from xgboost import XGBRegressor, XGBRFRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import GradientBoostingRegressor
+import pickle  
 
 st.title('FLIP-FLAP')
 st.markdown('''
@@ -56,7 +57,8 @@ predict_button = st.button("Predict")
 
 if predict_button:
     # Create a DataFrame with user inputs
-    model = joblib.load('trained_model/model.pkl') 
+    with open('trained_model/model_2.pkl', 'rb') as f:
+    model = pickle.load(f)
 
     data = pd.DataFrame({
         'rooms': [rooms],
