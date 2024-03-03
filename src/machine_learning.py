@@ -275,7 +275,7 @@ def last_try(df_dummy):
     print("mse:", mse)
     print("MAPE:", mape)
     print("rmse:", rmse)
-    return rf_model
+    return best_rf_model
 
 
 
