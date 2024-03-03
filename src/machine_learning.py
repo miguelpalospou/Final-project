@@ -262,7 +262,7 @@ def last_try(df_dummy):
     # Print the best parameter combination
     y_pred = best_rf_model.predict(X_test)
     
-    joblib.dump(rf_model, 'trained_model/model_2.pkl')
+    joblib.dump(best_rf_model, 'trained_model/model_2.pkl')
 
     # Calculate the MAE
     r2 = r2_score(y_test, y_pred)
