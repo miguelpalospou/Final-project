@@ -221,6 +221,9 @@ def reproduce_model(df_dummy):
     predictions = ensemble.predict(X_test)
     joblib.dump(ensemble, 'trained_model/model.pkl')
 
+    with open('trained_model/model_2.pkl', 'wb') as f:
+    pickle.dump(your_model, f)
+
     r2 = r2_score(y_test, predictions)
     mae = mean_absolute_error(y_test, predictions)
     mape = mean_absolute_percentage_error(y_test, predictions)
