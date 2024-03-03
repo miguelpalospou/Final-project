@@ -58,7 +58,7 @@ predict_button = st.button("Predict")
 if predict_button:
     # Create a DataFrame with user inputs
     with open('trained_model/model_2.pkl', 'rb') as f:
-    model = pickle.load(f)
+        model = pickle.load(f)
 
     data = pd.DataFrame({
         'rooms': [rooms],
