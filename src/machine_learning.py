@@ -10,6 +10,7 @@ from sklearn.metrics import r2_score
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 import numpy as np
+import pickle
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
@@ -265,7 +266,8 @@ def last_try(df_dummy):
     # Print the best parameter combination
     y_pred = best_rf_model.predict(X_test)
     
-    joblib.dump(best_rf_model, 'trained_model/model_2.pkl')
+    with open('trained_model/model_2.pkl', 'wb') as f:
+        pickle.dump(best_rf_model, f)
 
     # Calculate the MAE
     r2 = r2_score(y_test, y_pred)
