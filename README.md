@@ -3,6 +3,8 @@
 ## Overview
 This project aims to address the challenge of accurately predicting real estate pricing using data science techniques. Focused on the real estate market, it leverages extensive data collection and advanced predictive modeling to provide insights into property valuation. Model was deployed in streamlit.
 
+Click **[here](https://miguelpalospou-final-project-home-0wdr08.streamlit.app/)** to access the deployed platform.
+
 ## Table of Contents
 - [Flip Flat](#project-title)
 - [Overview](#overview)
@@ -25,6 +27,9 @@ Scraped data was cleaning on python, handling missing values, and transforming t
 
 ## Data Analysis & Visualization
 Data exploration was donde in Tableau and Python to uncover patterns, trends, and correlations. 
+
+![alternative text](images/tableau_1.jpeg)
+![alternative text](images/tableau_2.jpeg)
 
 ## Predictive Modeling
 The predictive model was developed with certain assumptions, such as treating properties without listed parking as having "no parking," focusing on flat types only, and removing outliers (properties priced over 1 million EUR). The model was trained with an 80/20 train/test split, achieving a mean absolute error of 78,039.1 and an r2 score of 0.76.
