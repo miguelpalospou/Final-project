@@ -191,7 +191,7 @@ def all_models(df_dummy):
 
 def reproduce_model(df_dummy):
     # Load the data and split it into features (X) and target variable (y)
-    data = pd.read_csv("/Users/miguelpalospou/Desktop/IRONHACK/Projects/Final-project/data/dummy.csv")  # Replace 'your_data.csv' with the actual file path or dataset
+    data = pd.read_csv("../data/dummy.csv")  # Replace 'your_data.csv' with the actual file path or dataset
     X = data.drop('price', axis=1)  # Assuming 'price' is the target variable
     y = data['price']
 
@@ -219,7 +219,7 @@ def reproduce_model(df_dummy):
     # Train the stacking ensemble
     ensemble.fit(X_train, y_train)
     predictions = ensemble.predict(X_test)
-    joblib.dump(ensemble, '/Users/miguelpalospou/Desktop/IRONHACK/Projects/Final-project/trained_model/model.pkl')
+    joblib.dump(ensemble, '../trained_model/model.pkl')
 
     r2 = r2_score(y_test, predictions)
     mae = mean_absolute_error(y_test, predictions)
@@ -237,7 +237,7 @@ def reproduce_model(df_dummy):
 
 
 def last_try(df_dummy):
-    data = pd.read_csv("/Users/miguelpalospou/Desktop/IRONHACK/Projects/Final-project/data/dummy.csv")
+    data = pd.read_csv("../data/dummy.csv")
     X = data.drop('price', axis=1)  # Assuming 'price' is the target variable
     y = data['price']
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -262,7 +262,7 @@ def last_try(df_dummy):
     # Print the best parameter combination
     y_pred = best_rf_model.predict(X_test)
     
-    joblib.dump(rf_model, '/Users/miguelpalospou/Desktop/IRONHACK/Projects/Final-project/trained_model/model_2.pkl')
+    joblib.dump(rf_model, '../trained_model/model_2.pkl')
 
     # Calculate the MAE
     r2 = r2_score(y_test, y_pred)

@@ -64,6 +64,7 @@ for page in range(0,25):
             all_dict["plant"]=All[i].find_all("div", {"class":"item-detail-char"})[0].getText().split('\n')[3].split(' ', 1)[0]
 
             lift_elements = All[i].find_all("div", {"class":"item-detail-char"})
+            
             if lift_elements:
                 all_dict["lift"]=' '.join(lift_elements[0].getText().split()[7:9])
             else:
