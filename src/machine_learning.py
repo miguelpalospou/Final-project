@@ -219,7 +219,7 @@ def reproduce_model(df_dummy):
     # Train the stacking ensemble
     ensemble.fit(X_train, y_train)
     predictions = ensemble.predict(X_test)
-    joblib.dump(ensemble, '../trained_model/model.pkl')
+    joblib.dump(ensemble, '../trained_model/model_2.pkl')
 
     r2 = r2_score(y_test, predictions)
     mae = mean_absolute_error(y_test, predictions)
