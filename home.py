@@ -17,7 +17,7 @@ st.markdown(
     """
     <style>
         [data-testid="stSidebarNav"]::before {
-            content: "Flip-Flap";
+            content: "Flip-Flat";
             margin-left: 20px;
             margin-top: 20px;
             font-size: 30px;
@@ -42,7 +42,7 @@ st.write("\n")
 st.write("\n")
 st.write("\n")
 colored_header(
-    label="WELCOME TO FLIP-FLAP: An AI-based house price predictor",
+    label="WELCOME TO FLIP-FLAT: An AI-based house price predictor",
     description="",
     color_name="yellow-70"
 )
@@ -54,7 +54,7 @@ st.markdown("<h3 style='text-align: center;'>Are you a potential buyer? Understa
 st.image("https://i.ibb.co/G78zzFj/140-DAC2-B-BF83-4-C1-A-A340-68-A550-C549-B3.jpg", use_column_width=True)
 
 st.markdown("<h1 style='text-align: center;'> Real-time data 🏃</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'>Flip-Flap uses updated data from real estate websites</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>Flip-Flat uses updated data from real estate websites</p>", unsafe_allow_html=True)
 
 st.markdown("<h1 style='text-align: center;'>More than just a simple predictor</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>Tell us your requirements, lay back and trust in us. We will do the rest for you</p>", unsafe_allow_html=True)

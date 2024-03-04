@@ -3,6 +3,10 @@
 ## Overview
 This project aims to address the challenge of accurately predicting real estate pricing using data science techniques. Focused on the real estate market, it leverages extensive data collection and advanced predictive modeling to provide insights into property valuation. Model was deployed in streamlit.
 
+- To run streamlit locally, just run home.py file.
+- To run all .py at once (extraction, cleaning, transformation, and modelling) just open the notebook project.ipynb and run all cells.
+- This model has been fed with data scraped from Idealista (src->idealista.py). If you want to scrap new data this py file will need to be updated. Contact me for more information.
+
 Click **[here](https://miguelpalospou-final-project-home-0wdr08.streamlit.app/)** to access the deployed platform.
 
 ## Table of Contents
@@ -15,8 +19,7 @@ Click **[here](https://miguelpalospou-final-project-home-0wdr08.streamlit.app/)*
 - [Predictive Modeling](#predictive-modeling)
 - [Deployment](#deployment)
 - [Future Work](#future-work)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Installation/Requirements](#installation)
 
 
 ## Data Collection
@@ -40,10 +43,10 @@ Deployement was done on Streamlit, making the predictive model accessible for re
 ## Future Work
 Future enhancements include improving model accuracy through techniques such as automated real-time scraping for more up-to-date data, incorporating additional variables (e.g., bathrooms, flat conditions), and experimenting with model parameters. There is also an interest in expanding the service by creating detailed dashboards for flat searches, developing an application, and including other features to enhance user experience.
 
-## Installation
-libraries needed: pandas, numpy, scikit-learn, BeautifulSoup, Selenium, etc.
+## Installation/Requirements
+libraries needed: pandas, numpy, scikit-learn, BeautifulSoup, Selenium, etc. Check requirements.txt for more information.
 
-## Usage
+
 
 
 

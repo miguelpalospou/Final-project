@@ -13,7 +13,7 @@ st.markdown(
     """
     <style>
         [data-testid="stSidebarNav"]::before {
-            content: "Flip-Flap";
+            content: "Flip-Flat";
             margin-left: 20px;
             margin-top: 20px;
             font-size: 30px;
@@ -35,9 +35,10 @@ colored_header(
 ########## Body ##########
 
 st.write("""
-        My name is **Miguel Palos** and I'm the creator of **Flip-Flap**. was born in 1996 in Barcelona (Spain) and 
-        I studied **Engineering** at University of Barcelona. 
-        Later on, I pursued a bootcamp in  **Data Analytics** at Ironhack Barcelona.
+        My name is **Miguel Palos Pou**, and I'm the creator of **Flip-Flat**. I was born in 1996 in Barcelona (Spain) and 
+        studied **Engineering** at University of Barcelona.
+        Over the last (5) years I have worked in Operations for SaaS B2B startup companies and large Fortune 500 enterprises in Ireland,                     Switzerland, the United States, and Spain.
+        I recently pursued a Bootcamp in  **Data Analytics** at Ironhack Barcelona.
         """
         )
 
@@ -45,15 +46,12 @@ st.markdown('<center><img src="https://i.ibb.co/HPhPnf9/P1057937-1.jpg" width=40
 st.write("\n")
 
 st.write("""
-        Four years ago I started working as a **Operations Engineer** implementing agile ways of working
-         and optimizing processes for the chemical and automotive industry. 
-        However, in my last years, I realized **I wawnted to make a change** and start something new. 
-        My passion to understand data and storytelling brought me to Ironhack Spain, where I coursed a **3-month Bootcamp in Data Analytics**.
+        Four years prior, I embarked on a journey as an Operations Analyst, where I implemented agile methodologies and enhanced processes within            the chemical and automotive sectors. Yet, as time progressed, I felt a strong desire for a new beginning. Driven by my love for Data and             storytelling, I enrolled in a 3-month Data Analytics Bootcamp at Ironhack Spain, seeking to pivot my career path.
         """)
 
 st.write("""
-        **Flip-flap is the culmination** of the Data Analytics bootcamp at Ironhack and all you see was entirely made in one week. 
-        I can't be more proud of myself for what I have done in such a time.
+        **Flip-flat is the culmination** of the Data Analytics bootcamp at Ironhack and all you see was entirely made in two weeks. 
+        A few months later, new features and visuals have been included in order to improve the model and platform.
         """
         )
 
