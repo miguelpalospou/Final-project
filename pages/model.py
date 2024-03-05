@@ -26,8 +26,8 @@ st.write("Enter the required information and click 'Predict' to see the results.
 
 # Create input fields for user input
 rooms = st.slider('number of rooms', 1, 10, 3)
-area = st.number_input("square meters")
-plant = st.number_input("floor")
+area = st.number_input("Square Meters", step=1, value=0)
+plant = st.number_input("Floor", step=1, value=0, min_value=0, max_value=7, format="%d")
 lift_options = ['yes', 'no']
 lift_lift = st.selectbox("lift", lift_options)
 
